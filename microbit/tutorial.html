@@ -1,0 +1,475 @@
+
+<!DOCTYPE html>
+
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tutorial &#8212; Arbeitsmaterialien für Berufsorientierung IT</title>
+    
+  <link href="../_static/css/theme.css" rel="stylesheet" />
+  <link href="../_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/tabs.css" />
+    
+  <link rel="preload" as="script" href="../_static/js/index.1c5a1a01449ed65a7b51.js">
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/translations.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+    <script>mermaid.initialize({startOnLoad:true});</script>
+    <link rel="shortcut icon" href="../_static/ec_favicon.png"/>
+    <link rel="index" title="Stichwortverzeichnis" href="../genindex.html" />
+    <link rel="search" title="Suche" href="../search.html" />
+    <link rel="next" title="Erweiterungen für den Micro Bit" href="extensions.html" />
+    <link rel="prev" title="BBC micro:bit" href="index.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="../_static/ec_logo.png" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">Arbeitsmaterialien für Berufsorientierung IT</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Durchsuchen Sie die Dokumente ..." aria-label="Durchsuchen Sie die Dokumente ..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <ul class="current nav bd-sidenav">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../course/index.html">
+   Kursmaterialien
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../course/day_01/index.html">
+     Tag 1: Intro
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../course/day_02/index.html">
+     Tag 2: Grundbegriffe, Laptops, Computer
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../participants/index.html">
+   Teilnehmerinnen
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul class="simple">
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../mode.html">
+   Zusammenarbeit
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../lego/index.html">
+   Lego Mindstorms
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../raspberrypi.html">
+   Raspberry PI
+  </a>
+ </li>
+ <li class="toctree-l1 current active has-children">
+  <a class="reference internal" href="index.html">
+   BBC micro:bit
+  </a>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul class="current">
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
+     Tutorial
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="extensions.html">
+     Erweiterungen für den Micro Bit
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../website.html">
+   Website
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../learning.html">
+   Selber Lernen
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../orientation.html">
+   Berufsorientierung
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../education.html">
+   Bildungswege
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../contact.html">
+   Kontakt
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  
+Im Auftrag des
+<a href="http://www.ams.at/wien"><img src="https://www.ams.at/_images/900_logo_news.jpg" alt="Im Auftrag des AMS Wien"></a>
+
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Navigation umschalten" aria-controls="site-navigation"
+                title="Navigation umschalten" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Laden Sie diese Seite herunter"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../_sources/microbit/tutorial.md.txt"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Quelldatei herunterladen" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="In PDF drucken"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+
+<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Vollbildmodus"
+        title="Vollbildmodus"><i
+            class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show">
+            
+            <div class="tocsection onthispage pt-5 pb-3">
+                <i class="fas fa-list"></i> Inhalt
+            </div>
+            <nav id="bd-toc-nav" aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#hardware">
+   Hardware
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#software">
+   Software
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#let-s-code">
+   Let’s Code
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#ein-erster-schritt">
+     Ein erster Schritt 💗
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#weniger-aufwand-mit-webusb">
+     Weniger Aufwand mit WebUSB
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#ein-zweiter-schritt">
+     Ein zweiter Schritt 📛
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#ein-erstes-programm-die-wurfel-sind-gefallen">
+     Ein erstes Programm: „Die Würfel sind gefallen“ 🎲
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#emojis-wurfeln">
+     Emojis würfeln? 🎲 + 😃 = ❓
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#retrospektive-mit-emojis">
+     Retrospektive mit Emojis? 🤔
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#schere-stein-papier">
+     Schere, Stein, Papier ✂️ + 🪨 + 📑 = ❓
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#e-textile-mit-dem-micro-bit">
+     E-Textile mit dem Micro Bit: 👟 👕 + 💻 + 💡 = ❓
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="tex2jax_ignore mathjax_ignore section" id="tutorial">
+<h1>Tutorial<a class="headerlink" href="#tutorial" title="Link zu dieser Überschrift">¶</a></h1>
+<p>Der Micro Bit ist ein vielseitig programmierbarer Einplatinencomputer.</p>
+<p>Wichtige Links:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://microbit.org/">BBC micro:bit Webseite</a></p>
+<ul>
+<li><p><a class="reference external" href="https://microbit.org/code/">Let’s code</a> für Links zu Editoren und dem Classroom</p></li>
+</ul>
+</li>
+<li><p><a class="reference external" href="https://makecode.microbit.org/">Microsoft Make Code für micro:bit</a></p></li>
+</ul>
+<div class="section" id="hardware">
+<h2>Hardware<a class="headerlink" href="#hardware" title="Link zu dieser Überschrift">¶</a></h2>
+<p>Bevor wir mit dem Programmieren loslegen, wollen wir uns die
+Hardware genauer anschauen und versuchen, den Micro Bit zu
+beschreiben.</p>
+<p>Für die nun folgenden Übungen, könnt ihr die Antworten entweder
+auf einem Blatt Papier sammeln oder in diesem <a class="reference external" href="https://docs.google.com/document/d/1v3RRNOCWCH-AAel0rLvmqZ7z1ITs8gE5YW_xS7gk2Jw/edit?usp=sharing">Google Doc</a>
+eintragen.</p>
+</div>
+<div class="section" id="software">
+<h2>Software<a class="headerlink" href="#software" title="Link zu dieser Überschrift">¶</a></h2>
+<p>Wenn der Micro Bit tun soll, was wir wollen, muss Folgendes passieren:</p>
+<ol class="simple">
+<li><p>Ein Programm schreiben</p></li>
+<li><p>Das Programm kompilieren</p></li>
+<li><p>Das kompilierte Programm auf den Micro Bit kopieren</p></li>
+<li><p>Das kopierte Programm auf dem Micro Bit ausführen</p></li>
+</ol>
+</div>
+<div class="section" id="let-s-code">
+<h2>Let’s Code<a class="headerlink" href="#let-s-code" title="Link zu dieser Überschrift">¶</a></h2>
+<p>Es gibt verschiedene Möglichkeiten Programme für den Micro Bit zu schreiben
+und wir werden diese auch noch kennen lernen.</p>
+<p>Die ersten Schritte gehen wir alle gemeinsam mit Hilfe des <a class="reference external" href="https://microbit.org/join">Micro Bit Classrooms</a>.
+Danach kann jede für sich eigene Projekte mit <a class="reference external" href="https://makecode.microbit.org/">Microsoft Make Code Micro Bit</a> anlegen.</p>
+<div class="section" id="ein-erster-schritt">
+<h3>Ein erster Schritt 💗<a class="headerlink" href="#ein-erster-schritt" title="Link zu dieser Überschrift">¶</a></h3>
+</div>
+<div class="section" id="weniger-aufwand-mit-webusb">
+<h3>Weniger Aufwand mit WebUSB<a class="headerlink" href="#weniger-aufwand-mit-webusb" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Bis jetzt haben wir das Programm (HEX-Datei) heruntergeladen und auf den Micro Bit
+kopiert. Das geht auch etwas einfacher, wir brauchen dafür aber einen anderen Browser.</p>
+</div>
+<div class="section" id="ein-zweiter-schritt">
+<h3>Ein zweiter Schritt 📛<a class="headerlink" href="#ein-zweiter-schritt" title="Link zu dieser Überschrift">¶</a></h3>
+</div>
+<div class="section" id="ein-erstes-programm-die-wurfel-sind-gefallen">
+<h3>Ein erstes Programm: „Die Würfel sind gefallen“ 🎲<a class="headerlink" href="#ein-erstes-programm-die-wurfel-sind-gefallen" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Wir probieren jetzt eine Abwandlung des obigen Programms.
+An stelle von Zahlen, könnte man ja auch zufällige Emojis anzeigen, oder?</p>
+</div>
+<div class="section" id="emojis-wurfeln">
+<h3>Emojis würfeln? 🎲 + 😃 = ❓<a class="headerlink" href="#emojis-wurfeln" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Du weißt wie man einen Würfel baut und Symbole anzeigt.
+Kannst du das verbinden und an Stelle von Zahlen Emojis würfeln?</p>
+<p>Wir werden nun die Ideen und Konzepte der vorherigen Übungen weiter aufgreifen und
+noch die Möglichkeit von User Input durch Buttons berücksichtigen.</p>
+</div>
+<div class="section" id="retrospektive-mit-emojis">
+<h3>Retrospektive mit Emojis? 🤔<a class="headerlink" href="#retrospektive-mit-emojis" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Wir wollen ein Programm schreiben, über das wir anzeigen können, wie es uns
+geht oder wie uns der Tag gefallen hat. Wenn wir etwas gut finden, könnten wir
+einen 😃 anzeigen und wenn wir nicht so
+überzeugt sind bspw. einen 😐 darstellen.</p>
+</div>
+<div class="section" id="schere-stein-papier">
+<h3>Schere, Stein, Papier ✂️ + 🪨 + 📑 = ❓<a class="headerlink" href="#schere-stein-papier" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Kennst du das Spiel Schere, Stein, Papier?</p>
+<p>Falls nicht, auf Wikipedia gibt es eine Beschreibung in verschiedenen Sprachen:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://de.wikipedia.org/wiki/Schere,_Stein,_Papier">Deutsch</a></p></li>
+<li><p><a class="reference external" href="https://ar.wikipedia.org/wiki/%D8%AD%D8%AC%D8%B1-%D9%88%D8%B1%D9%82-%D9%85%D9%82%D8%B5">Arabisch</a></p></li>
+</ul>
+<p>Wir wollen versuchen, diese Spiel zu programmieren.</p>
+<p>Wir halten uns weiterhin an unser Motto</p>
+<blockquote>
+<div><p>Kleine Schritte, Stück für Stück</p>
+</div></blockquote>
+<p>Einen Teil der Funktionalität die wir brauchen
+haben wir sogar in ähnlicher Form schon einmal
+programmiert.
+Einen Teil kennen wir noch nicht, den machen wir dann gemeinsam.</p>
+<p>Wir wollen unser Programm nun so erweitern, dass die Micro Bits
+der Spieler_innen über Radio 📻 miteinander kommunizieren und das Symbol austauschen.
+Dann kann der Microbit anzeigen, ob man gewonnen hat oder nicht.</p>
+<p>Dazu schauen wir uns kurz an, wie Radio funktioniert.</p>
+</div>
+<div class="section" id="e-textile-mit-dem-micro-bit">
+<h3>E-Textile mit dem Micro Bit: 👟 👕 + 💻 + 💡 = ❓<a class="headerlink" href="#e-textile-mit-dem-micro-bit" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Der Micro Bit hat diverse Schnittstellen.
+Über diese Schnittstellen, kann man zusätzliche Geräte anschließen.</p>
+<p>Man kann beispielsweise kleine Lampen (LEDs) anschließen und über den
+Micro Bit steuern.</p>
+<p>Hast du Ideen, was man damit alles machen könnte?</p>
+</div>
+</div>
+</div>
+
+
+              </div>
+              
+        
+            
+
+
+
+<div class='prev-next-bottom'>
+    
+    <div id="prev">
+        <a class="left-prev" href="index.html" title="zurück Seite">
+            <i class="prevnext-label fas fa-angle-left"></i>
+            <div class="prevnext-info">
+                <p class="prevnext-label">zurück</p>
+                <p class="prevnext-title">BBC micro:bit</p>
+            </div>
+        </a>
+    </div>
+     <div id="next">
+        <a class="right-next" href="extensions.html" title="weiter Seite">
+            <div class="prevnext-info">
+                <p class="prevnext-label">weiter</p>
+                <p class="prevnext-title">Erweiterungen für den Micro Bit</p>
+            </div>
+            <i class="prevnext-label fas fa-angle-right"></i>
+        </a>
+     </div>
+
+</div>
+        
+        </div>
+    </div>
+    <footer class="footer">
+    <div class="container">
+      <p>
+        
+          Durch Claus Aichinger, Olga Drewitz<br/>
+        
+            &copy; Urheberrechte © 2021, everyone codes.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+  
+  <script src="../_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+
+  
+  </body>
+</html>
