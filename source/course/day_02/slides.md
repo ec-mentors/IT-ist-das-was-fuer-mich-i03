@@ -10,44 +10,23 @@ paginate: true
 
 ## Tag 2 🎈
 
-* Grundbegriffe
-* Laptop in Betrieb nehmen
-* Computer zerlegen
+- Laptop in Betrieb nehmen
+- Computer zerlegen und verstehen
+- Grundbegriffe sammeln
 
 ---
 
-## Intro 🌅
+## Abschluss Administration ✅
 
-*Big Picture*
+- Braucht ihr noch was?
+- Hat alles funktioniert?
 
----
-
-## Was passiert heute? 🗒️
-
-- Abschluss Administration
-- Grundbegriffe
-- Laptops in Betrieb nehmen
-  - Software installieren
-  - Wichtige Webseiten einrichten
-- Computer zerlegen
-  - Komponenten?
-  - Eigenschaften?
-  - Funktionen?
+- Habt ihr alle Hausschuhe mit?
+- Wo werdet ihr festhalten, was wir uns erarbeiten?
 
 ---
 
-## Abschluss Administration
-
-- Braucht noch jemand etwas?
-- DLU?
-- Datenschutzvereinbarung ausfüllen
-
----
-
-## Grundbegriffe 📖
-
-- Was kennen wir schon?
-- Was brauchen wir heute?
+## Wie heißt du? Wie heiße ich? 💬
 
 ---
 
@@ -57,9 +36,10 @@ Zu installieren:
 - Google Chrome Browser
 - Lego Software
 
-Optional:
-- Bildschirmhelligkeit
-- Datum und Zeit richtig einstellen
+Gut zu wissen:
+- Wie organisieren wir unseren Browser?
+- Kennt ihr Keyboard-Shortcuts?
+- Wie merken wir uns, was wir tun?
 
 ---
 
@@ -72,11 +52,11 @@ Optional:
 ## Computer ❓ 💻 👀
 
 - Woraus besteht ein Computer?
-- Was haben Computer gemeinsam?
+- Was haben (alle) Computer gemeinsam?
 
 ---
 
-### Woraus besteht ein Computer
+### Woraus besteht ein Computer? 🤔
 
 Wir sprechen über Hardware
 - Komponenten benennen und einordnen können
@@ -89,13 +69,7 @@ Fragen:
 
 ---
 
-### Woraus besteht ein Computer?
-
-Was wisst ihr schon?
-
----
-
-### Übung: Was machen folgende Komponenten?
+### Übung: Was machen folgende Komponenten? 🧗
 
 Komponenten
 - Prozessor
