@@ -1,0 +1,19 @@
+name: itorientation
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - make
+    - myst-parser
+    - pip
+    - python=3.9
+    - sphinx
+    - pip:
+          - linkify-it-py
+          - sphinx-book-theme
+          - sphinx-copybutton
+          - sphinx-exercise
+          - sphinx-tabs
+          - sphinx-togglebutton
+          - sphinxcontrib-mermaid
+          - sphinxemoji

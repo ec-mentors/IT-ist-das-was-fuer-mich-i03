@@ -1,0 +1,29 @@
+image: continuumio/miniconda3:latest
+
+stages:
+  - pages
+  - checklinks # checked after to build documentation anyway
+
+before_script:
+  - conda create -n itorientation python=3.9 pip # TODO: review this workaround
+  - source activate itorientation
+  - pip install -r requirements.txt
+
+pages:
+  stage: pages
+  script:
+    - sphinx-build -b html source/ public/
+  artifacts:
+    paths:
+      - public
+    expire_in: 1 day
+  only:
+    - main
+
+check links:
+  stage: checklinks
+  script:
+    - sphinx-build -b linkcheck -n -W source/ public/
+  artifacts:
+    paths:
+      - public/output.txt
