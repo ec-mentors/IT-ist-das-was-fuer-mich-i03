@@ -10,30 +10,69 @@ paginate: true
 
 ## Tag 3 🎈
 
-**Aufgaben & Anleitungen & Algorithmen**
+- Von der Idee zum Plan
+- Aufgaben & Anleitungen & Algorithmen
 
 ---
 
 ## Intro 🌅
 
-### Was passiert heute? 🗒️
+---
 
-- Aufgaben beschreiben
-- Algorithmen ableiten
 
-- Eine Aufgabe für Olga's Roboter ausarbeiten
+### Check In ⛈️ 🌥️ 🌈
+
+> Wie bist du da?
 
 ---
 
-### Was war gestern? 🕥
+### Was passiert heute? 🗒️
 
-**Woraus besteht ein Computer?**
+- Wiederholung
+- Aufgaben beschreiben
+- Anleitungen erstellen
+
+<!-- - Eine Aufgabe für Olga's Roboter ausarbeiten -->
+
+---
+
+### Was war gestern? 🤔
+
+---
+
+#### Woraus besteht ein Computer?
 
 Eine kleine Wiederholung:
 
 - Welche Komponenten kennst du?
 - Was machen diese?
 - Optional: Wie werden sie beschrieben?
+
+---
+
+#### Welche Keyboard Shortcuts waren praktisch?
+
+Eine kleine Wiederholung:
+
+- Ganz allgemein?
+- Im Browser?
+- Am Desktop?
+- Sonstwo?
+
+---
+
+#### Übung: Machen wir ein Plakat daraus! 👩‍🎨
+
+Zwei Gruppen.
+
+1. Gruppe: "Woraus besteht eine Computer?"
+1. Gruppe: "Nützliche Keyboard Shortcuts:"
+
+---
+
+# Pause ☕
+
+*Gleich geht's weiter.*
 
 ---
 
@@ -57,31 +96,6 @@ Ein paar Gedanken:
 
 ---
 
-# Pause ☕
-
-*Gleich geht's weiter.*
-
----
-
-### Übung: Ihr seid dran!
-
-Wir bilden 3 Gruppen, jede Gruppe bekommt 2 Dinge, jede Gruppe ist in einem eigenen Raum.
-
-In der Gruppe:
-1. Besprechen: Was ist das Ding? Wie baut man es?
-1. Ausarbeiten: Erstellt eine Anleitung zum Nachbau (für eine andere Gruppe)
-
-Danach: eine andere Gruppe versucht gemäß eurer Anleitung das Ding nachzubauen.
-
-Danach: Nachbesprechung
-
----
-
-# Pause ☕
-
-*Gleich geht's weiter.*
-
----
 
 ## Anleitung ➡️ Programm
 
@@ -101,6 +115,28 @@ Danach: Nachbesprechung
 1. Nachdenken: Was will ich? ➡️ Idee 💡
 1. Beschreiben: Was will ich genau? ➡️ Beschreibung/Anleitung 📝
 1. Übersetzen: Das will ich! ➡️ Programm 🤖
+
+---
+
+# Pause ☕
+
+*Gleich geht's weiter.*
+
+---
+
+### Übung: Ihr seid dran!
+
+Wir bilden 3 Gruppen, jede Gruppe bekommt 2 Dinge, jede Gruppe ist in einem eigenen Raum.
+
+In der Gruppe:
+1. Besprechen: Was ist das Ding? Wie baut man es?
+1. Ausarbeiten: Erstellt eine Anleitung zum Nachbau (für eine andere Gruppe)
+
+Danach: eine andere Gruppe versucht gemäß eurer Anleitung das Ding nachzubauen.
+
+Danach: Nachbesprechung
+
+<!--
 
 ---
 
@@ -126,12 +162,7 @@ Ein Roboter kann…
 - folgendes sagen: Farben, Good Job, Bravo, Okey-dokey
 
 Was soll der Roboter machen?
-
----
-
-## Pause ☕
-
-*Gleich geht's weiter.*
+-->
 
 ---
 
@@ -155,10 +186,7 @@ Was soll der Roboter machen?
 
 ---
 
-### Was kommt morgen?
-
-- Fortsetzung von heute
-- Erste Schritte mit den Robotern
+### Was kommt in der nächsten Einheit?
 
 ---
 
@@ -170,4 +198,4 @@ Was soll der Roboter machen?
 
 ---
 
-# Wir freuen uns auf morgen! 😃
+# Wir freuen uns auf euch! 😃
