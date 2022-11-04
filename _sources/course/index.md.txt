@@ -10,6 +10,7 @@ Beschreibung was wir an diesem Tag vor haben.
 
 day_01/index
 day_02/index
+day_03/index
 ```
 
 %day_*/index
