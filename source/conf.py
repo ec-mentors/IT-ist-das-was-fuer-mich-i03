@@ -79,7 +79,7 @@ extensions = [
     "sphinx_togglebutton",  # https://sphinx-togglebutton.readthedocs.io/
     "sphinxcontrib.mermaid",  # https://github.com/mgaitan/sphinxcontrib-mermaid
     # TODO: include once exercises are there
-    # "sphinx_exercise",  # https://github.com/executablebooks/sphinx-exercise
+    "sphinx_exercise",  # https://github.com/executablebooks/sphinx-exercise
     "sphinx_tabs.tabs",  # https://github.com/executablebooks/sphinx-tabs
     "sphinx_copybutton",  # https://github.com/executablebooks/sphinx-copybutton
     "sphinxemoji.sphinxemoji",  # https://github.com/sphinx-contrib/emojicodes
