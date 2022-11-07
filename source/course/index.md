@@ -5,7 +5,6 @@ Beschreibung was wir an diesem Tag vor haben.
 
 
 ```{toctree}
-:glob:
 :maxdepth: 1
 
 day_01/index
@@ -16,4 +15,4 @@ day_05_to_07_lego_robots/index
 day_08_peer_learning/index
 ```
 
-%day_*/index
+%:glob: day_*/index
