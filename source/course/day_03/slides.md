@@ -28,11 +28,16 @@ paginate: true
 
 ### Was passiert heute? 🗒️
 
+- Admin
 - Wiederholung
 - Aufgaben beschreiben
 - Anleitungen erstellen
 
 <!-- - Eine Aufgabe für Olga's Roboter ausarbeiten -->
+
+---
+
+### Administratives
 
 ---
 
