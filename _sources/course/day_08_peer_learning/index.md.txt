@@ -11,7 +11,7 @@ Heute steht Peer Learning am Programm.
 Wir haben uns einige Übungen überlegt. Die erste Aufgabe kannst du alleine lösen, die anderen gemeinsam mit deinem Partner. Es gibt zwei Pflicht-Aufgaben, wenn du fertig bist kannst du dich weiter mit dem Roboter beschäftigen.
 
 
-```{exercise} Pflicht: Wie war die erste Woche in der IT?
+```{exercise} Wie war die erste Woche in der IT?
 :label: exercise-motivation-it-1
 
 Beantworte dazu folgende Fragen über dich:
@@ -23,7 +23,7 @@ Beantworte die Aufgane in diesem [Dokument](https://docs.google.com/document/d/1
 ```
 
 
-```{exercise} Optional: Schreibe eine Anleitung
+```{exercise} LEGO MINDSTORMS Weltraum Expedition
 :label: exercise-design-an-algorithm
 
 In dieser Aufgabe werden alle Dinge, die du gelernt hast, zu einem vereint und ist schon fast ein kleines Projekt.
