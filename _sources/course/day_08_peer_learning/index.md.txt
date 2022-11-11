@@ -8,9 +8,7 @@ Heute steht Peer Learning am Programm.
 ```{include} ../_peer_learning.md
 ```
 
-Wir haben uns einige Übungen überlegt. Die erste Aufgabe kannst du alleine lösen, die anderen gemeinsam mit deinem Partner. Es gibt zwei Pflicht-Aufgaben, die anderen sind optional.
-
-Wenn du mit den Übungen fertig bist, kannst du weiter mit dem Roboter spielen. Vergiss nicht den Fortschritt im Excel Sheet einzutragen.
+Wir haben uns einige Übungen überlegt. Die erste Aufgabe kannst du alleine lösen, die anderen gemeinsam mit deinem Partner. Es gibt zwei Pflicht-Aufgaben, wenn du fertig bist kannst du dich weiter mit dem Roboter beschäftigen.
 
 
 ```{exercise} Pflicht: Wie war die erste Woche in der IT?
@@ -21,59 +19,33 @@ Beantworte dazu folgende Fragen über dich:
 - Was hat dir diese Woche gar nicht gefallen? Wieso hat dir das nicht gefallen?
 - Was glaubst du, sind deine drei besten Eigenschaften?
 
-Beantworte die Aufgane in diesem [Dokument](https://docs.google.com/document/d/1oW26r6sBmvNLDb1kjRYjzjnu1JR5OdNVOqEvgYIly5s/edit#).
-```
-
-```{exercise} Pflicht: Was macht eine IT-Systemtechnikerin
-:label: exercise-design-a-manual
-
-In Österreich wurden vor kurzem die IT-Lehrberufe neu gestaltet und es sind drei Lehrberufe entstanden:
-- Applikationsentwicklung Coding
-- Informationstechnologie - Schwerpunkt Systemtechnik
-- Informationstechnologie - Schwerpunkt Betriebstechnik
-
-Du kannst dich zu allen Lehrberufen auf [it-lehre.wien](https://it-lehre.wien/) informieren.
-
-Bei dieser Aufgabe schaust du dir zu einem Lehrberuf [in diesem Video](https://www.whatchado.com/de/stories/jasmin-gastgeb) an.
-
-Beantworte folgende Fragen [hier](https://docs.google.com/document/d/1oW26r6sBmvNLDb1kjRYjzjnu1JR5OdNVOqEvgYIly5s/edit#):
-- Was macht Jasmin Gastgeb?
-- Was macht sie in ihrer Lehre?
-- Findest du diese Lehre interessant?
-```
-
-```{exercise} Optional: Anforderungen und Missverständnisse
-:label: exercise-requirements
-
-Was möchte uns dieses Bild sagen?
-
-![Requirements meme](https://miro.medium.com/max/996/1*nhVE3RkKyhk2kEh3nuk3Lw.png)
-
-Fragen:
-- Hat du im Alltag schon Situationen erlebt, wo du missverstanden wurdest oder du eine andere Person
-falsch verstanden hast?
-- Warum war das so?
-- Was kann man tun, um solche Missverständnisse zu vermeiden?
-
-Diskutiert im Team und schreibt eine Checkliste mit Dingen die wichtig sind, wenn
-man Anforderungen formuliert.
-
-Die Checkliste kann entweder auf einem Blatt Papier sein, das ihr der Betreuungsperson gebt
-oder ihr fügt sie [hier](https://docs.google.com/document/d/1oW26r6sBmvNLDb1kjRYjzjnu1JR5OdNVOqEvgYIly5s/edit#) hinzu.
+Beantworte die Aufgane in diesem [Dokument](https://docs.google.com/document/d/1dKgmetiFjD2mPO-XZtkE3cUOAuMFajKl5XThaHb68MI/edit?usp=sharing).
 ```
 
 
 ```{exercise} Optional: Schreibe eine Anleitung
 :label: exercise-design-an-algorithm
 
-In dieser Aufgabe werden alle Dinge, die du gelernt hast zu einem vereint und ist schon fast ein kleines Projekt.
+In dieser Aufgabe werden alle Dinge, die du gelernt hast, zu einem vereint und ist schon fast ein kleines Projekt.
 Projektbeschreibung:
-- Überlege dir eine Aufgabe, die der Roboter erledigen soll (ähnlich wie wir was am Mittwoch für Olga gemacht haben). Wichtig: verwende nur Blöcke, die du und dein Partner kennen.
-- Beschreibe die Aufgabe, die der Roboter machen soll.
-- Schreibe einen Algorithmus auf Papier
-- Tauschen mit deiner Partnerin die Algorithmen aus und probiert sie zu programmieren.
+- Suche dir auf dem Spielfeld eine Aufgabe aus, die gerne lösen möchtest.
+- Beschreibe die Aufgabe: was ist zu tun?
+- Beschreibe was du brauchst um die Aufgabe zu lösen: was brauch ich?
+- Überlege dir eine Lösung (Anleitung): was muss der Roboter machen?
+- Programmier die Lösung
 
-Sobald ihr beide fertig seid: Machen die Roboter was ihr wolltet?
+Du wirst deine Arbeit am Montag dem Claus zeigen. Sei also bereit dafür, dass du deine Arbeit erklären/präsentieren kannst.
 
-Dokumentiert euer Erlebnis  [hier](https://docs.google.com/document/d/1oW26r6sBmvNLDb1kjRYjzjnu1JR5OdNVOqEvgYIly5s/edit#).
+Dokumentiert euer Erlebnis:
+-[Roda](https://docs.google.com/document/d/1sJ9SZ6Pu9a42xoXIqD9lxfaQaY_NvVE-mhATR8HQDpI/edit?usp=sharing).
+-[Angela](https://docs.google.com/document/d/1uS2s70ZhOvsNQrlSQj1wglqU9RPxzXBummJgQyeglpY/edit?usp=sharing).
+-[Sawsan](https://docs.google.com/document/d/1d-7P-G0aE6kkZ9GrVYjjfOPNKukU5fSXcdo6SAM_djM/edit?usp=sharing).
+-[Kenda](https://docs.google.com/document/d/1uTapwsFNufTAOmzeAGbzt71LQMn0273pOeUN4JhTtKU/edit?usp=sharing).
+-[Nergiz](https://docs.google.com/document/d/173QE4PcCrh80tCDfO6XzV55rvWuhuzocw4ff1_n0gek/edit?usp=sharing).
+-[Gamze](https://docs.google.com/document/d/1C2EVHjLjwcMl8mzEJoBtnwNYUWd0AIKWOtBnrGPfj9E/edit?usp=sharing).
+-[Beyza](https://docs.google.com/document/d/1S_IJGVzKlRoRHMIvrdajbH7rsfD75GlR658BIt2odAE/edit?usp=share_link).
+-[Tiffany](https://docs.google.com/document/d/1aQ4GS7dFuNON6-hl1dCfpKahO5hH8YAMCmFftTNsPRg/edit?usp=share_link).
+-[Melike](https://docs.google.com/document/d/1vSyuSn7ce_FF1b5Jjmg3ZB-MRw5bkt_Xc-iQMMB7R0k/edit?usp=sharing).
+-[Eleonore](https://docs.google.com/document/d/1oxZjnTr3LZ7j8x5mzp7Gn5OWc7w66-cfSikbXmmjknA/edit?usp=sharing).
+-[Bezawit](https://docs.google.com/document/d/1Vq91jJABlKzGoOonadMFqGHRIow0CXU7LbwuQeYSPnY/edit?usp=sharing).
 ```
