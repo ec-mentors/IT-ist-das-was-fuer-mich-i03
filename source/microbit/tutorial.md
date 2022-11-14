@@ -15,8 +15,7 @@ Hardware genauer anschauen und versuchen, den Micro Bit zu
 beschreiben.
 
 Für die nun folgenden Übungen, könnt ihr die Antworten entweder
-auf einem Blatt Papier sammeln oder in diesem [Google Doc](https://docs.google.com/document/d/1v3RRNOCWCH-AAel0rLvmqZ7z1ITs8gE5YW_xS7gk2Jw/edit?usp=sharing)
-eintragen.
+auf einem Blatt Papier sammeln oder in einem Google Doc eintragen.
 
 
 ```{exercise} Micro Bit Kennzahlen
@@ -33,11 +32,11 @@ Recherchiere und versuche folgende Fragen zu beantworten:
 Wofür sind diese drei Größen wichtig?
 ```
 
-```{solution} exercise-micro-bit-numbers
-:class: dropdown
-
-
-```
+% ```{solution} exercise-micro-bit-numbers
+% :class: dropdown
+%
+%
+% ```
 
 
 ```{exercise} Micro Bit Schnittstellen, Sensoren, ...
@@ -54,11 +53,11 @@ Beantworte dabei auch die folgenden Fragen:
 * Welche Möglichkeiten gibt es um mit dem Gerät zu interagieren?
 ```
 
-```{solution} exercise-micro-bit-interface-and-sensors
-:class: dropdown
-
-
-```
+% ```{solution} exercise-micro-bit-interface-and-sensors
+% :class: dropdown
+%
+%
+% ```
 
 ## Software
 
@@ -74,7 +73,7 @@ Wenn der Micro Bit tun soll, was wir wollen, muss Folgendes passieren:
 Es gibt verschiedene Möglichkeiten Programme für den Micro Bit zu schreiben
 und wir werden diese auch noch kennen lernen.
 
-Die ersten Schritte gehen wir alle gemeinsam mit Hilfe des [Micro Bit Classrooms](https://microbit.org/join).
+Die ersten Schritte gehen wir alle gemeinsam (mit Hilfe des [Micro Bit Classrooms](https://microbit.org/join)).
 Danach kann jede für sich eigene Projekte mit [Microsoft Make Code Micro Bit](https://makecode.microbit.org/) anlegen.
 
 ### Ein erster Schritt 💗
@@ -91,11 +90,11 @@ blinkendes Herz anzeigt.
 * Wie könnte das Programm aussehen?
 ```
 
-```{solution} exercise-micro-bit-flashing-heart
-:class: dropdown
-
-
-```
+% ```{solution} exercise-micro-bit-flashing-heart
+% :class: dropdown
+%
+%
+% ```
 
 ### Weniger Aufwand mit WebUSB
 
