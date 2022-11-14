@@ -13,6 +13,7 @@ day_03/index
 day_04_soft_skills_communication_and_presentation/index
 day_05_to_07_lego_robots/index
 day_08_peer_learning/index
+day_09_microbit_intro/index
 ```
 
 %:glob: day_*/index

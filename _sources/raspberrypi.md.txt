@@ -33,4 +33,3 @@ Es stellen sich zumindest zwei Fragen:
 * Was brauchen wir, damit wir das tun können?
 * Wie kommen wir dort hin?
 ```
-
