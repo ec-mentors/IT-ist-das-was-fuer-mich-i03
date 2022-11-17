@@ -38,7 +38,7 @@ Wir haben festgestellt, dass es weit mehr Sensoren gibt, als wir bisher genutzt 
 
 Entscheide dich für einen der Sensoren, die wir noch nicht verwendet haben.
 
-Fragen:
+**Fragen**
 - Wofür könnte man diesen Sensor verwenden?
 - Wo solche Sensoren zur Anwendung kommen und warum?
 - Wie verwendet man ihn beim Microbit?
@@ -56,7 +56,7 @@ Fragen:
 
 **Präsentation**
 - Präsentiere dein Miniplakat und zeige, was dein Microbit macht.
-- Beantworte Fragen
+- Beantworte Fragen der anderen Teilnehmerinnen
 
 Diese Aufgabe bearbeitet jede für sich.
 ```
@@ -116,6 +116,8 @@ Schau' dir folgende Seiten an:
   Was bedeuten sie Spalten?
 
 Diese Aufgabe bearbeitet jede für sich.
+
+PS: Siehe Kommentar in Nachricht auf GitHub.
 ```
 
 ## Steckbrief
