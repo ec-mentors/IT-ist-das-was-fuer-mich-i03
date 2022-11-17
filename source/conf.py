@@ -46,7 +46,7 @@ myst_substitutions = {
     #
     "doc_Berufe_und_Kurse": "https://docs.google.com/document/d/1vORYLDeZEz7u5dMc9WX6z2KzeS2PVfcRDErXGQS_MQU/edit?usp=sharing",
     "ask_for_feedback": dedent("""
-    ```{exercise} Feedback
+    ```{exercise} Feedback (10 Minuten)
 
     Wie war(en) die Woche(n) für dich?
 

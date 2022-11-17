@@ -33,7 +33,7 @@ Wir haben festgestellt, dass es weit mehr Sensoren gibt, als wir bisher genutzt 
 - Temperatur
 - Berührung (Logo)
 
-```{exercise} Microbit Sensoren entdecken
+```{exercise} Microbit Sensoren entdecken (60 Minuten)
 :label: exercise-microbit-sensor-discovery
 
 Entscheide dich für einen der Sensoren, die wir noch nicht verwendet haben.
@@ -65,7 +65,7 @@ Diese Aufgabe bearbeitet jede für sich.
 
 *Achtung, das ist eine große Aufgabe. Es geht noch nicht darum, sie komplett zu lösen.*
 
-```{exercise} Schere-Stein-Papier: Vorbereitung
+```{exercise} Schere-Stein-Papier: Vorbereitung (Open End)
 :label: exercise-rock-paper-scissor-prep
 
 Im Laufe der nächsten Kurstage wollen wir Schere-Stein-Papier
@@ -97,7 +97,7 @@ Markdown ist eine Technologie die uns dabei helfen wird, Inhalte
 für unsere Kursseite zu erstellen.
 Aber was ist Markdown?
 
-```{exercise} Markdown kennen lernen
+```{exercise} Markdown kennen lernen (15 Minuten)
 :label: exercise-markdown
 
 Was ist Markdown?
@@ -126,7 +126,7 @@ Ab nächster Woche werden wir beginnen, uns auch mit IT Ausbildungen und
 Berufen zu befassen.
 Was könnte euch denn interessieren?
 
-```{exercise} Steckbriefe gestalten
+```{exercise} Steckbriefe gestalten (30 Minuten)
 :label: exercise-steckbrief-update
 
 An der Rückwand hängen eure Steckbriefe.
