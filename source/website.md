@@ -11,8 +11,8 @@ Wir befassen uns unter anderem mit diesen Fragen:
 - Wie ist die Website für den Kurs aufgebaut?
 
 Werkzeuge:
-- [Visual Studio Code](https://code.visualstudio.com/) (VS Code)
 - Browser wie [Firefox](https://www.mozilla.org/en-US/firefox/new/) oder [Chrome](https://www.google.com/chrome/index.html)
+- Text Editor oder eine Entwicklungsumgebung wie [Visual Studio Code](https://code.visualstudio.com/) (VS Code)
 
 (web_tutorials_target)=
 Tutorials:
@@ -52,8 +52,8 @@ Da wir Markdown verwenden, ist es ein Leichtes, Inhalte der Website zu ändern -
 wissen, wie die Website im Detail funktioniert.
 
 
-```{exercise} User Account für GitLab.com
-:label: exercise-gitlab-user-account
+```{exercise} User Account für GitHub.com
+:label: exercise-github-user-account
 
 Nicht jede Person kann die Inhalte der Website ändern.
 Dazu braucht es bestimmte Berechtigungen.
