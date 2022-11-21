@@ -58,7 +58,7 @@ wissen, wie die Website im Detail funktioniert.
 Nicht jede Person kann die Inhalte der Website ändern.
 Dazu braucht es bestimmte Berechtigungen.
 
-Gehe auf https://gitlab.com/ und lege dort einen User Account an.
+Gehe auf https://github.com/ und lege dort einen User Account an.
 
 Du bekommst dann Zugriff auf unsere Kursseite.
 
@@ -68,7 +68,7 @@ Wenn das geklappt hat, hast du ein Mail von GitLab bekommen.
 Die Kursseite kann man sich als Ordner mit vielen Dateien vorstellen.
 Für jede Seite auf unserer Website gibt es auch eine Datei in diesem Ordner.
 
-Wenn du **https://gitlab.com/caichinger/it-ist-das-was-fuer-mich** öffnest,
+Wenn du **https://github.com/ec-mentors/it-ist-das-was-fuer-mich** öffnest,
 kannst du einen Blick hinter die Kulissen werfen.
 
 
@@ -78,7 +78,7 @@ kannst du einen Blick hinter die Kulissen werfen.
 Sobald du Zugriff auf die Website hast, kannst du Änderungen
 an den Dateien vornehmen.
 
-Jede von euch hat eine Datei in diesem Ordner: https://gitlab.com/caichinger/it-ist-das-was-fuer-mich/-/tree/main/source/participants, das ist eure persönliche Seite im
+Jede von euch hat eine Datei in diesem Ordner: https://github.com/ec-mentors/it-ist-das-was-fuer-mich/-/tree/main/source/participants, das ist eure persönliche Seite im
 Rahmen unseres Kurses. Genau dort, wollen wir ein paar Updates machen.
 
 Konkret wollen wir ein Foto einfügen und auch eine kleine Beschreibung.
