@@ -28,9 +28,6 @@ Ziele:
   * MakeCode: Screenshot eurer Projekte und eine Kopie
     des Quellcodes (JavaScript oder Python) in euer Projektdokument einfügen
 
-Sophie war so nett uns aus ihrer Arbeit zwei Dokumente zu schicken, in denen es um
-Ausbildungen und Jobs im Game Dev Bereich geht. Du findest sie {ref}`hier <sophie_gamedev_doc_target>`.
-
 
 ## Call mit Claus
 
