@@ -104,12 +104,15 @@ templates_path = ["_templates"]
 wip_exclude_patterns = [
     "**/*wip*",
     "*wip*",  #  to exclude folders/files in source/*wip*
+    "./source/participants/wip",
+    "./source/course/wip",
 ]
 
 # Permanent exclusion patterns for content that is never to be published
 permanent_exclude_patterns = [
     # templates
     "course/_peer_learning.md",
+
     "**/day_xx_template/*",
     # slides
     "**/slides.md",
