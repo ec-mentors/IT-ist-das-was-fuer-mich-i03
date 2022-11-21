@@ -1,4 +1,4 @@
-# Fehime Gül Dikmen
+# Fehime Gül Dikmen (ehemalige Teilnehmerin)
 
 1999|*Türkei*
 
