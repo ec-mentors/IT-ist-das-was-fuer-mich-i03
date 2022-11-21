@@ -6,4 +6,4 @@ Was mache ich gerne?
 
 Welche Berufe kann ich mir vorstellen?
 
-**Derzeit kann ich mir nur etwas in die Richtung Applikationsentwicklung vorstellen.**
+**Derzeit kann ich mir nur etwas aus der Richtung Applikationsentwicklung vorstellen.**
