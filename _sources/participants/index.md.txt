@@ -15,8 +15,7 @@ Leben füllen werden.
 ```{toctree}
 :titlesonly:
 
-
+mickey_mouse
 ```
-
-% :glob:
-% *
+%:glob:
+%*
