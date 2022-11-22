@@ -17,6 +17,7 @@ raspberrypi
 microbit/index
 website
 learning
+projects
 
 orientation
 education

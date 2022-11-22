@@ -29,7 +29,8 @@ Fragen:
 - ...
 
 Dokumente:
-- [Slides]()
+% TODO
+- Slides
 
 
 ## Nächste Schritte
@@ -40,4 +41,5 @@ Fragen:
 - ...
 
 Dokumente:
-- []()
+% TODO
+- Docs

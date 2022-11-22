@@ -1,11 +1,6 @@
----
-substitutions:
-  feedback_link: '[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdoGAZXZ-yFCyKIfl4GOzTW0Z_r2sgSNF8ywspQp07QCfa1EA/viewform?usp=sf_link)'
----
-(tag20_project_kickoff_target)=
-# Tag 20: Projektstart und Peer Learning
+# Tag 19 bis 23: Projektwoche
 
-**Projekt Kick Off!** 🚀
+## Projekt Kick Off! 🚀
 
 {download}`🎬 Slides <./slides.pdf>`
 
@@ -21,8 +16,6 @@ eures Projekts im Vordergrund:
 
 Fragen wie diese wollen wir im Rahmen der Projektbeschreibung beantworten.
 
+## Projektarbeit! 🏗️🚧👷
 
-## Feedback
-
-% supply link to feedback form through the feedback_link variable at the top
-{{ ask_for_feedback }}
+...

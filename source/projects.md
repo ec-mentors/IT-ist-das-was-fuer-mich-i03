@@ -1,12 +1,27 @@
----
-marp: true
-theme: default
-header: '![width:200px](../../_static/ec_logo_cropped.png)'
-footer: 'IT, ist das was für mich? Slides von Claus Aichinger (it-orientation@everyonecodes.io)'
-paginate: true
----
+# Projekte & Konzepte
 
-# IT, ist das was für mich? 👩‍💻
+> Jedes Problem ist ein Projekt
+
+# Tag 13: Programmieren mit dem Microbit II
+
+**Ideen weiterentwickeln!** 🎊
+
+Wir haben in den vergangenen Einheiten wichtige Konzepte
+wie Variablen, Verzweigungen und Schleifen eingeführt
+sowie nützliche Code Blöcke kennen gelernt.
+
+Hier wollen wir auch heute wieder anknüpfen und uns insbesondere
+darüber Gedanken machen, wie man verschiedene Komponenten eines
+Programms zusammen führen kann.
+
+
+Wir machen heute folgende Übung(en):
+- {ref}`exercise-micro-bit-retrospective`
+- {ref}`Schere-Stein-Papier (Teil 1) <exercise-rock-paper-scissor-part-1>`
+- {ref}`exercise-basic-radio`
+- {ref}`Schere-Stein-Papier (Teil 2) <exercise-rock-paper-scissor-part-2>`
+
+
 
 ## Tag 12
 
@@ -67,36 +82,3 @@ Dann... im Fall von Make Code:
 - Kann ich die Aufgabe vereinfachen?
 - Kleine Schritte
 - Ausprobieren (nach jedem Schritt)
-
----
-
-# Weiter auf unserer Website
-
-**https://caichinger.gitlab.io/it-ist-das-was-fuer-mich/**
-
----
-
-# Outro 🌆
-
-## Was haben wir heute gemacht? 📝
-
-- Wichtige Begriffe
-- Wichtige Zusammenhänge
-
----
-
-## Was kommt morgen?
-
-- Weiter beim Microbit
-
----
-
-## Retrospektive
-
-- Was hast du gelernt?
-- Was hat dich überrascht?
-- Was nimmst du mit für morgen?
-
----
-
-# Ich freue mich auf morgen! 😃

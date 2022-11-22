@@ -24,6 +24,29 @@ Tutorials:
 (markdown_target)=
 ## Markdown als Vorstufe zu HTML
 
+```{exercise} Markdown kennen lernen (15 Minuten)
+:label: exercise-markdown
+
+Was ist Markdown?
+
+Wirf zuerst einen Blick auf die [Wikipedia Seite](https://de.wikipedia.org/wiki/Markdown).
+
+Hat dir das geholfen?
+
+Oft ist es gut, Dinge einfach auszuprobieren.
+
+Schau' dir folgende Seiten an:
+- https://markdown-editor.github.io/:
+  Schreibe auf der linken Seite und formatiere den
+ Text mit Hilfe der Buttons. Was passiert?
+- https://www.markdownguide.org/basic-syntax/:
+  Was bedeuten sie Spalten?
+
+Diese Aufgabe bearbeitet jede für sich.
+
+PS: Siehe Kommentar in Nachricht auf GitHub.
+```
+
 Um in VS Code ein Markdown Dokument zu erstellen und zu bearbeiten mache folgendes:
 * Erstelle eine neue Datei (oder öffne eine existierende)
 * Speichere die Datei als Markdown Datei mit der Dateiendung `.md` ab

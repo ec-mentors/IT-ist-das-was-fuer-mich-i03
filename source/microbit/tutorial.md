@@ -217,6 +217,35 @@ Bei Fragen oder Unklarheiten einfach melden.
 
 ```
 
+```{exercise} Microbit Sensoren entdecken (60 Minuten)
+:label: exercise-microbit-sensor-discovery
+
+Entscheide dich für einen der Sensoren, die wir noch nicht verwendet haben.
+
+**Fragen**
+- Wofür könnte man diesen Sensor verwenden?
+- Wo solche Sensoren zur Anwendung kommen und warum?
+- Wie verwendet man ihn beim Microbit?
+
+**Erstelle ein A4 Miniplakat zu diesem Sensor**
+- Was macht der Sensor?
+- Wofür ist er gut?
+- Anwendungsbeispiele
+
+**Programmiere den Microbit**
+- Überlege dir eine kleines Programm, das den Sensor verwendet.
+  Das Programm soll helfen, den anderen Teilnehmerinnen zu zeigen,
+  wofür der Sensor gut ist und wie man ihn verwendet.
+- Programmiere den Microbit.
+
+**Präsentation**
+- Präsentiere dein Miniplakat und zeige, was dein Microbit macht.
+- Beantworte Fragen der anderen Teilnehmerinnen
+
+Diese Aufgabe bearbeitet jede für sich.
+```
+
+
 ### Schere, Stein, Papier ✂️ + 🪨 + 📑 = ❓
 
 Kennst du das Spiel Schere, Stein, Papier?
@@ -259,6 +288,31 @@ Wenn es Unklarheiten oder Probleme gibt, meldet euch.
 :class: dropdown
 
 🤷‍♀️
+```
+
+```{exercise} Schere-Stein-Papier: Vorbereitung (Open End)
+:label: exercise-rock-paper-scissor-prep
+
+Im Laufe der nächsten Kurstage wollen wir Schere-Stein-Papier
+mit dem Microbit umsetzen.
+Das heißt:
+- Wir verbinden zwei Microbits
+- Wir schütteln drei Mal
+- Jeder Microbit zeigt ein zufälliges Symbol an
+- Der eine gewinnt, der andere verliert
+
+Wie können wir diese Aufgabe angehen?
+
+Wir haben verschiedene Strategien besprochen um Probleme zu lösen.
+Schau dir unser Plakat "Wie löse ich ein Problem?" an.
+
+Versuche die Aufgabe besser zu verstehen:
+- Spiele das Spiel ein paar Mal mit jemandem in der Klasse
+- Fertige Skizzen an
+- Erstelle Beschreibungen
+- Versuche den Ablauf zu zeichnen
+
+Ihr könnt diese Aufgabe alleine oder in Teams bearbeiten.
 ```
 
 Wir wollen unser Programm nun so erweitern, dass die Micro Bits
@@ -307,6 +361,70 @@ Wenn es Unklarheiten oder Probleme gibt, meldet euch.
 
 🤷‍♀️
 ```
+
+
+
+## Schere-Stein-Papier
+
+Wir haben gestern weitere wichtige Komponenten für unser Programm erarbeitet.
+
+**Anwendung der Regeln**
+
+![Regeln für Schere-Stein-Papier](Regeln.png)
+
+**Datenaustausch zwischen zwei Microbits mit Radio**
+
+![Datenaustausch](Datenaustausch.png)
+
+Und unser Programm zum Testen:
+
+![Teste Datenaustausch](TesteDatenaustausch.png)
+
+
+```{exercise} Schere-Stein-Papier: Zeichnung für Spielablauf und Programmkomponenten
+:label: exercise-rock-paper-scissors-diagram
+
+Wir sind zwar schon öfter gemeinsam vor dem Whiteboard gestanden und
+haben die Aufgabe besprochen, hier geht es aber trotzdem noch einmal
+darum, eine Zeichnung (Skizze) anzufertigen, die den Spielablauf
+und die einzelnen Komponenten (Teile) des Programms beschreibt.
+
+Erstelle also eine neue Zeichnung aus der man ablesen kann:
+1. Den zeitlichen (was & wann?) und logischen (was & wie?) Ablauf des Spiels
+1. Wichtige Schritte, Konzepte oder Ereignisse im Spiel und die entsprechenden Komponenten im Programm
+   (bspw. "Schütteln", "Datenaustausch zwischen Microbits", ...)
+
+Verwende gerne Farben, Pfeile, Nummerierungen, Sprechblasen, Symbole oder andere Hilfsmittel die
+es dir erleichtern, die Zusammenhänge zu beschreiben.
+
+Wenn du fertig bist, präsentiere Sashka deine Beschreibung und führe
+sie auf dem Papier durch dein Programm.
+```
+
+```{exercise} Schere-Stein-Papier: Komponenten zusammen führen
+:label: exercise-rock-paper-scissors-all-in-one
+
+Deine Skizze beschreibt, wie welche Komponenten zusammenhängen,
+was, wann passiert und welche Daten/Variablen wo gebraucht werden.
+
+Versuche nun, die einzelnen Teile in einem neuen Projekt zusammen zu führen.
+
+Wenn dir noch Komponenten fehlen, beispielsweise diejenigen, die wir gestern
+im Kurs besprochen haben, erstelle diese zuerst separat.
+
+Ihr könnte dazu gerne auch im Team arbeiten. Wenn ihr das tut, vergesst nicht:
+* Regelmäßig abwechseln und
+* aussprechen was ihr tun wollt! 😃
+
+Wir besprechen eure Ergebnisse kommende Woche und werden den Prozess
+auch noch einmal gemeinsam durchgehen.
+
+Viel Spaß!
+
+P.S.: Das ist eine recht anspruchsvolle Übung, macht euch keine Sorgen, wenn
+es nicht gleich klappt!
+```
+
 
 
 ### E-Textile mit dem Micro Bit: 👟 👕 + 💻 + 💡 = ❓

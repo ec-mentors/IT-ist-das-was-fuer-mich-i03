@@ -1,10 +1,10 @@
 # Berufsorientierung
 
-```{important}
+Was macht mir Spaß?
+Was interessiert mich?
+Welche Berufe könnten zu mir passen?
 
-Wie geht es weiter? Auf dieser Seite findest du einen Überblick. Fange ruhig schon an, {{ '[Ideen zu sammeln und dir Notizen]({})'.format(doc_Berufe_und_Kurse) }} zu machen! 😃
-
-```
+Um diese und ähnliche Fragen geht es auf dieser Seite.
 
 
 ## Frauen in Technik - Angebote über das AMS
@@ -100,3 +100,83 @@ in eine Lehrausbildung.
 * BFI
 * https://codersbay.wien/
 * ...
+
+
+## Übungen
+
+```{exercise} Was gefällt dir an der IT?
+:label: exercise-what-do-you-like-about-it
+
+Du hattest in den letzten Tagen viele neue Dinge kennen gelernt.
+Du hast Computer zerlegt, Aufgaben mit dem Lego Roboter gelöst, kleine aber
+herausfordernde Programme mit dem Microbit erstellt.
+
+Stelle dir vor, du erzählst einer Freundin, dass du den Berufsorientierungskurs
+"IT, ist das was für mich?" besuchst.
+
+Wie würdest du diese Frage "IT, ist das was für mich?" im Moment beantworten und warum?
+
+Denke nach und schreibe einen kleinen Aufsatz.
+```
+
+
+```{exercise} Wie geht es weiter ...?
+:label: exercise-how-do-you-want-to-continue
+
+Wir wollen in diesem Kurs nicht nur Dinge ausprobieren und Neues lernen
+sondern auch Pläne schmieden.
+
+Solltest du nach fünf Wochen die Frage "IT, ist das was für mich?" mit "Ja!"
+(oder mit "Ich möchte mir das genauer anschauen") beantworten, werden wir
+gemeinsam mit dir einen Karriereplan entwickeln.
+Idealerweise beantwortet dieser Karriereplan die folgenden Fragen:
+* Welchen Beruf möchtest du ergreifen?
+* Welche Ausbildung brauchst du dafür?
+
+Diese Fragen sind natürlich nicht so leicht zu beantworten.
+
+Damit du dir dazu schon einmal Gedanken machen kannst, haben wir unten verschiedene
+Angebote zu Themen wie Förderungen, Ausbildungen und Berufsbildern gesammelt.
+
+Nimm dir Zeit und schau dir an, was es so alles gibt.
+
+Versuche folgende Fragen für dich zu beantworten:
+* Was hat dir Spaß gemacht?
+* Worüber möchtest du mehr erfahren?
+* Gibt es etwas in der IT, das dich anspricht?
+
+Denke nach und schreibe einen kleinen Aufsatz.
+```
+
+```{exercise} Berufsbilder auf Whatchado
+:label: exercise-it-orientation-whatchado
+
+Was sagst du zu folgenden beiden Berufen?
+- [Informations- & Telekommunikationstechnikerin](https://www.whatchado.com/de/stories/esther-binder)
+- [IT-Systemkauffrau](https://www.whatchado.com/de/stories/vivien-deutsche-telekom)
+
+Fasse deine Gedanken dazu stichwortartig zusammen.
+```
+
+```{exercise} FiT Ausbildung und Angebotsübersicht
+:label: exercise-fit-programme
+
+Recherchiere mit Hilfe der unten gelisteten Werkzeuge Berufe und Ausbildungen die dich ansprechen.
+
+* [Liste aller Fit Ausbildungen](https://www.ams.at/content/dam/download/allgemeine-informationen/001_fit_ausbildungsliste.pdf)
+* [Karrierekompass](https://www.karrierekompass.at/)
+* [Ausbildungskompass](https://www.ausbildungskompass.at/)
+
+Du kannst auch auf Webseiten von Schulungsanbietern Angebote heraussuchen,
+die dich ansprechen.
+
+Beispiele:
+* [WAFF](https://www.waff.at/jobs-ausbildung/jobs-mit-ausbildung/it-jobs-informationstechnologie/)
+* [BFI](https://www.bfi.wien/)
+* ...
+
+Beantworte folgende Fragen:
+* Welche Ausbildungen interessieren dich?
+* Warum möchtest du diese absolvieren?
+* Welche Voraussetzungen sind dafür zu erfüllen?
+```

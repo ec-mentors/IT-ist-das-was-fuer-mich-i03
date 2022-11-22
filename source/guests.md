@@ -47,7 +47,6 @@ Fragen:
 * Welche Fragen möchtest du Dagmar stellen?
 ```
 
-
 ## Softwareentwicklerin (Krisztina Horvat-Schwarcz)
 
 ```{exercise} Gastvortragende: Krisztina Horvath-Schwarcz
@@ -66,7 +65,6 @@ Fragen:
 ## Ehemalige Teilnehmerinnen
 
 ```{exercise} Gastvortragende: Ehemalige Teilnehmerinnen
-
 :label: exercise-it-guest-alumni
 
 Der Berufsorientierungskurs "IT, ist das was für mich?" hat schon ein

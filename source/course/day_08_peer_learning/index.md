@@ -19,7 +19,7 @@ Beantworte dazu folgende Fragen über dich:
 - Was hat dir diese Woche gar nicht gefallen? Wieso hat dir das nicht gefallen?
 - Was glaubst du, sind deine drei besten Eigenschaften?
 
-Beantworte die Aufgane in diesem [Dokument](https://docs.google.com/document/d/1dKgmetiFjD2mPO-XZtkE3cUOAuMFajKl5XThaHb68MI/edit?usp=sharing).
+Beantworte die Aufgabe in diesem [Dokument](https://docs.google.com/document/d/1dKgmetiFjD2mPO-XZtkE3cUOAuMFajKl5XThaHb68MI/edit?usp=sharing).
 ```
 
 
@@ -59,4 +59,16 @@ Dokumentiert euer Erlebnis:
 -[Eleonore](https://docs.google.com/document/d/1oxZjnTr3LZ7j8x5mzp7Gn5OWc7w66-cfSikbXmmjknA/edit?usp=sharing).
 
 -[Bezawit](https://docs.google.com/document/d/1Vq91jJABlKzGoOonadMFqGHRIow0CXU7LbwuQeYSPnY/edit?usp=sharing).
+```
+
+
+
+```{exercise} Das Spielfeld - Reflexion
+:label: exercise-week2-reflexion-exercise
+
+Diese Aufgabe ist für den Abschluss des Tages, diskutiere sind mit einer weiteren Person. Ihr müsste dazu nichts notieren.
+Beantworte die folgenden Fragen:
+- Wie hat es dir heute gefallen die Aufgabe auf dem Spielfeld zu lösen?
+- Wie hast du dich dabei gefühlt die Aufgabe zu lösen?
+- Könntest du dir vorstellen das jeden Tag zu machen?
 ```
