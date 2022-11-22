@@ -12,7 +12,7 @@ help : SlidesMakefile
 
 ## all         : Compile all slides.md to create PDF/HTML.
 .PHONY: all
-all : $(SLIDES_HTML)
+all : $(SLIDES_PDF)
 
 ## pdfs        : Create PDFs.
 .PHONY : pdfs
