@@ -2,7 +2,7 @@
 substitutions:
   feedback_link: '[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfQznmMspwBTtrHH5sxFycuvxenWmQvpKdP-7QF80IIHwZZpw/viewform?usp=sf_link)'
 ---
-# Tag 25: Frühstück, Abschluss und Ausblick
+# Tag 23: Frühstück, Abschluss und Ausblick
 
 **Auf zu neuen Ufern!** ☕ 🥐 🚀
 

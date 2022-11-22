@@ -1,4 +1,4 @@
-# Tag 16: Kommunikation und Präsentation
+# Kommunikation und Präsentation
 
 **Soft Skills!** 🤝
 
