@@ -11,8 +11,8 @@ Wir befassen uns unter anderem mit diesen Fragen:
 - Wie ist die Website für den Kurs aufgebaut?
 
 Werkzeuge:
-- [Visual Studio Code](https://code.visualstudio.com/) (VS Code)
 - Browser wie [Firefox](https://www.mozilla.org/en-US/firefox/new/) oder [Chrome](https://www.google.com/chrome/index.html)
+- Text Editor oder eine Entwicklungsumgebung wie [Visual Studio Code](https://code.visualstudio.com/) (VS Code)
 
 (web_tutorials_target)=
 Tutorials:
@@ -23,6 +23,29 @@ Tutorials:
 
 (markdown_target)=
 ## Markdown als Vorstufe zu HTML
+
+```{exercise} Markdown kennen lernen (15 Minuten)
+:label: exercise-markdown
+
+Was ist Markdown?
+
+Wirf zuerst einen Blick auf die [Wikipedia Seite](https://de.wikipedia.org/wiki/Markdown).
+
+Hat dir das geholfen?
+
+Oft ist es gut, Dinge einfach auszuprobieren.
+
+Schau' dir folgende Seiten an:
+- https://markdown-editor.github.io/:
+  Schreibe auf der linken Seite und formatiere den
+ Text mit Hilfe der Buttons. Was passiert?
+- https://www.markdownguide.org/basic-syntax/:
+  Was bedeuten sie Spalten?
+
+Diese Aufgabe bearbeitet jede für sich.
+
+PS: Siehe Kommentar in Nachricht auf GitHub.
+```
 
 Um in VS Code ein Markdown Dokument zu erstellen und zu bearbeiten mache folgendes:
 * Erstelle eine neue Datei (oder öffne eine existierende)
@@ -52,8 +75,8 @@ Da wir Markdown verwenden, ist es ein Leichtes, Inhalte der Website zu ändern -
 wissen, wie die Website im Detail funktioniert.
 
 
-```{exercise} User Account für GitLab.com
-:label: exercise-gitlab-user-account
+```{exercise} User Account für GitHub.com
+:label: exercise-github-user-account
 
 Nicht jede Person kann die Inhalte der Website ändern.
 Dazu braucht es bestimmte Berechtigungen.
