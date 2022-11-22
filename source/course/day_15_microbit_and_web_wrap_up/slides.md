@@ -8,11 +8,12 @@ paginate: true
 
 # IT, ist das was für mich? 👩‍💻
 
-## Tag 14
+## Tag 15
 
-Wir wiederholen und probieren was neues:
-- Wie funktionieren Webseiten?
-- Schere-Stein-Papier! ;)
+Unser Programm:
+* Zwischenstand
+* Vorbereitung für IT Gast
+* Schere-Stein-Papier Lösungsstrategie
 
 ---
 
@@ -33,65 +34,39 @@ Wir wiederholen und probieren was neues:
 
 ## Was passiert heute? 🗒️
 
-* Rückblick
-* Standortbestimmung
-* Diskussion zu Schere-Stein-Papier
-* Web Intro
+* Berufsorientierung und Ausbildungen
+* Berufsbild "IT Projektleiterin" und "Scrum Master"
+* Diskussion zur Strategie für Schere-Stein-Papier
 
 ---
 
-# Rückblick 🤔
+# Berufsorientierung und Ausbildungen 🗺️ 🧭
 
-* Wie war Peer Learning?
-* Wie war Soft Skills?
-
----
-
-# Standortbestimmung 🗺️ 🧭
-
-* Wo sind wir?
-* Woher kommen wir?
-* Wo gehen wir hin?
+* Fokus der 6. & 7. Woche
+* Begleitet durch Giulia
+* Je früher ihr euch Gedanken macht um so besser
+* **Siehe Webseite** 👈
 
 ---
 
-# Pause ☕
+# Berufsbild "IT Projektleiterin" und "Scrum Master"?
 
-Gleich geht's weiter.
-
----
-
-# Web Intro 🌐 🤓
-
-* Was weißt du über das Internet?
-* Was passiert, wenn du eine Webseite aufrufst?
-* Was ist eine Webseite?
-* Wie erstelle ich eine Webseite?
+* Um 10:00 haben wir einen Call mit Dagmar
+* Wir bereiten uns darauf vor
 
 ---
 
 # Pause ☕
 
-Gleich geht's weiter.
-
 ---
 
-# Schere-Stein-Papier
+# Funktionieren unsere Problemlösungsstrategien?
 
-* Können wir vereinfachen?
-* Wie können wir vereinfachen?
+Schere-Stein-Papier...
 
-
-* Können wir zerlegen?
-* Wie können wir zerlegen?
-
----
-
-## Was haben wir heute gelernt? 📝
-
-## Begriffe & Zusammenhänge
-
-*Was war euch wichtig?*
+Halten wir einen Moment inne:
+* Wieso ist die Aufgabe nicht "einfach"?
+* Was brauchst du um sie zu lösen?
 
 ---
 
@@ -101,16 +76,16 @@ Gleich geht's weiter.
 
 ## Was war heute?
 
-* Standortbestimmung
-* Web Intro
+* Zwischenstand
+* IT Gast
 * Problemlösungsstrategien
 
 ---
 
 ## Was kommt morgen?
 
-* Ähnlich wie heute
-* Gastvortragende um 10:00
+* Soft Skills mit Sashka
+* Stressmanagement und Lernen lernen
 
 ---
 
