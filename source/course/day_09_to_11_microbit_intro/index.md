@@ -39,7 +39,7 @@ genauer ansehen:
 
 Wir machen folgende Übungen
 1. {ref}`exercise-micro-bit-retrospective`
-1. {ref}`exercise-rock-paper-scissor-part-1`
+1. {ref}`exercise-rock-paper-scissor-part-1-reading`
 
 
 % Wir haben Plakate gemacht

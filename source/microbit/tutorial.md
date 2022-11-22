@@ -32,12 +32,6 @@ Recherchiere und versuche folgende Fragen zu beantworten:
 Wofür sind diese drei Größen wichtig?
 ```
 
-% ```{solution} exercise-micro-bit-numbers
-% :class: dropdown
-%
-%
-% ```
-
 
 ```{exercise} Micro Bit Schnittstellen, Sensoren, ...
 :label: exercise-micro-bit-interface-and-sensors
@@ -53,22 +47,19 @@ Beantworte dabei auch die folgenden Fragen:
 * Welche Möglichkeiten gibt es um mit dem Gerät zu interagieren?
 ```
 
-% ```{solution} exercise-micro-bit-interface-and-sensors
-% :class: dropdown
-%
-%
-% ```
 
 ## Software
 
-Wenn der Micro Bit tun soll, was wir wollen, muss Folgendes passieren:
-1. Ein Programm schreiben
-1. Das Programm kompilieren
-1. Das kompilierte Programm auf den Micro Bit kopieren
-1. Das kopierte Programm auf dem Micro Bit ausführen
+Wenn der Microbit tun soll, was wir wollen, müssen wir ein Programm
+schreiben, das genaue Anweisungen gibt.
+Überblicksmäßig muss folgende passieren:
+1. Programmieren: Wir erstellen ein Programm
+1. Kompilieren: Das Programm wird in eine Form gebracht die der Prozessor versteht
+1. Kopieren: Wir übertragen das kompilierte Programm auf den Microbit
+1. Ausführen: Der Microbit führt das Programm aus
 
 
-## Let's Code
+## Erste kleine Programme 🐣
 
 Es gibt verschiedene Möglichkeiten Programme für den Micro Bit zu schreiben
 und wir werden diese auch noch kennen lernen.
@@ -76,30 +67,25 @@ und wir werden diese auch noch kennen lernen.
 Die ersten Schritte gehen wir alle gemeinsam (mit Hilfe des [Micro Bit Classrooms](https://microbit.org/join)).
 Danach kann jede für sich eigene Projekte mit [Microsoft Make Code Micro Bit](https://makecode.microbit.org/) anlegen.
 
-### Ein erster Schritt 💗
-
-```{exercise} Flashing Heart
+```{exercise} Flashing Heart 💗
 :label: exercise-micro-bit-flashing-heart
 
 Wir wollen den Micro Bit so programmieren, dass die LED-Matrix ein
 blinkendes Herz anzeigt.
 
 <img src="https://pxt.azureedge.net/blob/bd3236c80ed86cbf0b99ff39f26469683c512ebc/static/mb/projects/a1-display.png" alt="Flashing Heart Tutorial" width="200px" align="center">
-
-* Was muss grundsätzlich passieren?
-* Wie könnte das Programm aussehen?
 ```
 
-% ```{solution} exercise-micro-bit-flashing-heart
-% :class: dropdown
-%
-%
-% ```
+```{exercise} Name Tag (Namenskärtchen) 📛
+:label: exercise-micro-bit-name-tag
 
-### Weniger Aufwand mit WebUSB
+Wir wollen den Micro Bit so programmieren, dass er unseren Vornamen anzeigt.
 
-Bis jetzt haben wir das Programm (HEX-Datei) heruntergeladen und auf den Micro Bit
-kopiert. Das geht auch etwas einfacher, wir brauchen dafür aber einen anderen Browser.
+<img src="https://pxt.azureedge.net/blob/e03f64a983c3650f5487009bd9952b1248954e45/static/mb/projects/name-tag.png" alt="Name Tage Tutorial" width="200px" align="center">
+```
+
+Wir können das kompilierte Programm (HEX-Datei) händisch herunterladen und auf den Micro Bit
+kopieren. Das geht auch etwas einfacher.
 
 ```{exercise} Chrome & WebUSB Unterstützung
 :label: exercise-micro-bit-chrome-webusb
@@ -115,43 +101,27 @@ auch einen Blick in [hierher](https://caniuse.com/webusb) werfen und probieren,
 ob WebUSB mit einem anderen Browser klappt.
 ```
 
-### Ein zweiter Schritt 📛
+## Etwas größere Aufgaben :baby_chick:
 
-```{exercise} Name Tag (Namenskärtchen)
-:label: exercise-micro-bit-name-tag
-
-Wir wollen den Micro Bit so programmieren, dass er unseren Vornamen anzeigt.
-
-<img src="https://pxt.azureedge.net/blob/e03f64a983c3650f5487009bd9952b1248954e45/static/mb/projects/name-tag.png" alt="Name Tage Tutorial" width="200px" align="center">
-
-* Was muss grundsätzlich passieren?
-* Wie könnte das Programm aussehen?
-```
-
-```{solution} exercise-micro-bit-name-tag
-:class: dropdown
+In den obigen Beispielen ergab sich das Programm sehr direkt.
+Wir haben den passenden Block gewählt und waren fast schon fertig.
+Wir werden uns nun ansehen, wie man etwas größere Programme aus
+kleinen Einzelteilen zusammen setzen kann.
 
 
-```
-
-### Ein erstes Programm: "Die Würfel sind gefallen" 🎲
+### Zahlen würfeln? 🎲
 
 ```{exercise} Dice (Würfel)
 :label: exercise-micro-bit-dice
 
 Wir wollen den Micro Bit so programmieren, dass man ihn verwenden kann wie einen Würfel:
-Wenn man ihn schüttelt, soll er eine Zahl anzeigen.
+Wenn man ihn schüttelt, soll er eine zufällige Zahl anzeigen.
 
 <img src="https://pxt.azureedge.net/blob/cb81642a25f424bc62d30f74f6072e07b6db85d9/static/mb/projects/dice.png" alt="Dice Tutorial" width="200px" align="center">
 
-* Was muss grundsätzlich passieren?
-* Wie könnte das Programm aussehen?
-```
-
-```{solution} exercise-micro-bit-dice
-:class: dropdown
-
-
+Fragen:
+* Welche Blöcke brauchen wir?
+* Wie hängen sie zusammen?
 ```
 
 Wir probieren jetzt eine Abwandlung des obigen Programms.
@@ -167,19 +137,17 @@ Kannst du das verbinden und an Stelle von Zahlen Emojis würfeln?
 
 Wenn man den Micro Bit schüttelt, soll jedes Mal ein anderes Emoji angezeigt werden.
 
-* Was muss grundsätzlich passieren?
-* Wie könnte das Programm aussehen?
+Fragen:
+* Was ist anders im Vergleich zum Würfel?
+* Welchen Teil vom Programm muss man deiner Meinung nach ändern?
+* Wie könntest du "zufälliges Emoji" im Programm ausdrücken?
 ```
 
-```{solution} exercise-micro-bit-emoji-dice
-:class: dropdown
-
-
-```
+Wir haben soeben eine wichtigen Schritt getan:
+Wir haben aus den bestehenden Grundbausteinen etwas neues geschaffen!
 
 Wir werden nun die Ideen und Konzepte der vorherigen Übungen weiter aufgreifen und
 noch die Möglichkeit von User Input durch Buttons berücksichtigen.
-
 
 ### Retrospektive mit Emojis? 🤔
 
@@ -197,25 +165,26 @@ Das gewünschte Verhalten siehst du hier:
 
 ![Emoji Retrospektive mit dem Micro Bit](emoji_retro.gif)
 
-Aufgaben und beantwortende Fragen:
-1. Beschreibt das Verhalten in Worten
-1. Gibt es ein kleineres Programm (eine Abwandlung) von
-   der ihr schon wisst, wie sie funktioniert?
-1. Aus welchem Komponenten besteht das Programm?
-1. Wie hängen diese Komponenten zusammen?
+Aufgaben und zu beantwortende Fragen:
+1. Beschreibe das Verhalten in Worten
+1. Gibt es eine vereinfachte Aufgabe, die
+   leichter umzusetzen ist? Kann du zunächst mit dieser anfangen?
+1. Welche Blöcke wirst du brauchen?
+1. Wie hängen die Blöcke zusammen?
 
 Skizziere das Programm auf Papier oder einem Whiteboard.
-Versuche dir zuerst Gedanken zu machen und die obigen Fragen zu beantworten
-und erst dann Code zu schreiben.
+Versuche dir zuerst Gedanken zu machen und die obigen Fragen
+zu beantworten und erst dann den Code zu erstellen.
 
 Bei Fragen oder Unklarheiten einfach melden.
 ```
 
-```{solution} exercise-micro-bit-retrospective
-:class: dropdown
 
+### Mehr Sensoren 🤹
 
-```
+Bis jetzt haben wir nur einen kleinen Ausschnitt der Funktionen
+des Microbits verwendet.
+Das wollen wir nun ändern.
 
 ```{exercise} Microbit Sensoren entdecken (60 Minuten)
 :label: exercise-microbit-sensor-discovery
@@ -224,13 +193,13 @@ Entscheide dich für einen der Sensoren, die wir noch nicht verwendet haben.
 
 **Fragen**
 - Wofür könnte man diesen Sensor verwenden?
-- Wo solche Sensoren zur Anwendung kommen und warum?
+- Wo kommen solche Sensoren zur Anwendung kommen und warum?
 - Wie verwendet man ihn beim Microbit?
 
 **Erstelle ein A4 Miniplakat zu diesem Sensor**
 - Was macht der Sensor?
 - Wofür ist er gut?
-- Anwendungsbeispiele
+- Gib Anwendungsbeispiele
 
 **Programmiere den Microbit**
 - Überlege dir eine kleines Programm, das den Sensor verwendet.
@@ -241,57 +210,65 @@ Entscheide dich für einen der Sensoren, die wir noch nicht verwendet haben.
 **Präsentation**
 - Präsentiere dein Miniplakat und zeige, was dein Microbit macht.
 - Beantworte Fragen der anderen Teilnehmerinnen
-
-Diese Aufgabe bearbeitet jede für sich.
 ```
+
+### Microbits verbinden 📡🤝
+
+Wir können Microbits per Funk miteinander verbinden, so dass diese
+untereinander Informationen austauschen können.
+
+Nachdem das ein wenig verwirrend sein kann, wollen wir uns das
+in Ruhe ansehen.
+
+
+```{exercise} Radio
+:label: exercise-basic-radio
+
+Wir wollen zwei Micro Bits miteinander verbinden.
+Wenn man auf einem Micro Bit einen Button drückt, soll das auf dem
+anderen angezeigt werden.
+
+Aufgaben und Fragen:
+1. Welche Blöcke gibt es in der Rubrik "Radio"?
+1. Welche Blöcke brauchen wir noch?
+
+Hinweis:
+* Damit klar ist, welche Micro Bits miteinander kommunizieren (und welche nicht),
+wählt man eine Gruppe aus. Informationen werden dann innerhalb dieser Gruppe ausgetauscht.
+* Im Simulator gibt es zwei Microbits aber nur ein Programm.
+  Versuche in der Ich-Perspektive zu bleiben.
+```
+
+```{solution} exercise-basic-radio
+:class: dropdown
+
+![Share button events in group](share_button_events_in_group.png)
+```
+
+Datenaustausch zwischen zwei Microbits:
+* ![Datenaustausch](Datenaustausch.png)
+* ![Teste Datenaustausch](TesteDatenaustausch.png)
+
+
+## Eine große Aufgabe 🧗
+
+Wir werden uns nun länger mit ein und derselben Aufgabe befassen.
+Konkret wollen wir das Spiel "Schere, Stein, Papier" mit dem Microbit
+umsetzen.
+Das ist schon eine Herausforderung und wir werden uns daher folgende Fragen stellen:
+* Was kann ich tun, wenn ich nicht mehr weiter weiß?
+* Wie gehe ich damit um, wenn das Lösen einer Aufgabe länger dauert?
+* Welche Problemlösungsstrategien gibt es?
 
 
 ### Schere, Stein, Papier ✂️ + 🪨 + 📑 = ❓
 
 Kennst du das Spiel Schere, Stein, Papier?
 
-Falls nicht, auf Wikipedia gibt es eine Beschreibung in verschiedenen Sprachen:
+Es gibt einen Wikipedia dazu:
 - [Deutsch](https://de.wikipedia.org/wiki/Schere,_Stein,_Papier)
 - [Arabisch](https://ar.wikipedia.org/wiki/%D8%AD%D8%AC%D8%B1-%D9%88%D8%B1%D9%82-%D9%85%D9%82%D8%B5)
 
-Wir wollen versuchen, diese Spiel zu programmieren.
-
-Wir halten uns weiterhin an unser Motto
-
-> Kleine Schritte, Stück für Stück
-
-Einen Teil der Funktionalität die wir brauchen
-haben wir sogar in ähnlicher Form schon einmal
-programmiert.
-Einen Teil kennen wir noch nicht, den machen wir dann gemeinsam.
-
-```{exercise} Schere, Stein, Papier
-:label: exercise-rock-paper-scissor-part-1
-
-Bildet Teams.
-Falls ihr das Spiel nicht kennt, lest auch den Artikel auf Wikipedia durch.
-
-Aufgaben:
-1. Spiel das Spiel ein paar Mal.
-   Wisst ihr, man es spielt?
-   Gibt es eine Strategie, mit der man öfter gewinnen kann?
-1. Schreibt eine kurze Anleitung, wie man das Spiel spielt
-   und wann, wer gewinnt.
-1. Übersetzt eure Anleitung in ein Programm.
-
-So wie bisher, skizziert die Anleitung und Programm zuerst auf dem Whiteboard.
-Wenn ihr Fragen habt, meldet euch.
-Wenn es Unklarheiten oder Probleme gibt, meldet euch.
-```
-
-```{solution} exercise-rock-paper-scissor-part-1
-:class: dropdown
-
-🤷‍♀️
-```
-
-```{exercise} Schere-Stein-Papier: Vorbereitung (Open End)
-:label: exercise-rock-paper-scissor-prep
 
 Im Laufe der nächsten Kurstage wollen wir Schere-Stein-Papier
 mit dem Microbit umsetzen.
@@ -303,126 +280,141 @@ Das heißt:
 
 Wie können wir diese Aufgabe angehen?
 
-Wir haben verschiedene Strategien besprochen um Probleme zu lösen.
-Schau dir unser Plakat "Wie löse ich ein Problem?" an.
 
-Versuche die Aufgabe besser zu verstehen:
-- Spiele das Spiel ein paar Mal mit jemandem in der Klasse
-- Fertige Skizzen an
-- Erstelle Beschreibungen
-- Versuche den Ablauf zu zeichnen
+```{exercise} Spiel kennen lernen
+:label: exercise-rock-paper-scissor-part-1-reading
 
-Ihr könnt diese Aufgabe alleine oder in Teams bearbeiten.
-```
+Zu Beginn wollen wir noch gar kein Programm schreiben
+sondern uns mit dem Spiel selbst vertraut machen.
 
-Wir wollen unser Programm nun so erweitern, dass die Micro Bits
-der Spieler_innen über Radio 📻 miteinander kommunizieren und das Symbol austauschen.
-Dann kann der Microbit anzeigen, ob man gewonnen hat oder nicht.
-
-Dazu schauen wir uns kurz an, wie Radio funktioniert.
-
-```{exercise} Radio
-:label: exercise-basic-radio
-
-Wir wollen zwei Micro Bits miteinander verbinden.
-Wenn man auf einem Micro Bit einen Button drückt, soll das auf dem
-anderen angezeigt werden.
+Falls du das Spiel nicht kennst, lies dir die den Artikel
+auf Wikipedia durch.
 
 Aufgaben:
-1. Welche Blöcke gibt es in der Rubrik "Radio"?
-1. Welche Blöcke brauchen wir noch?
+1. Suche dir eine Partnerin.
+1. Spielt das Spiel ein paar Mal.
+   * Wisst ihr, man es spielt?
+   * Gibt es eine Strategie, mit der man öfter gewinnen kann?
+   * Versucht zu beschreiben was ihr tut, während ihr das Spiel
+     spielt (auch wenn sich das komisch anfühlt).
+1. Versucht eine Anleitung zu schreiben, wie man das Spiel
+   spielt.
+1. Vergleiche deine Anleitung mit der Beschreibung
+   auf Wikipedia.
 
-Hinweise: Damit klar ist, welche Micro Bits miteinander kommunizieren (und welche nicht),
-wählt man eine Gruppe aus. Informationen werden dann innerhalb dieser Gruppe ausgetauscht.
-```
-
-```{solution} exercise-basic-radio
-:class: dropdown
-
-![Share button events in group](share_button_events_in_group.png)
-```
-
-```{exercise} Schere, Stein, Papier
-:label: exercise-rock-paper-scissor-part-2
-
-Aufgaben:
-1. Besprecht, was der Mikro Bit tun soll, wenn feststeht, dass man
-   gewonnen oder verloren hat.
-1. Erweitert das Programm so, dass die Symbole zwischen den Micro Bits
-   ausgetauscht werden und das Ergebnis mitgeteilt wird.
-
-So wie bisher, skizziert die Anleitung und Programm zuerst auf dem Whiteboard.
-Wenn ihr Fragen habt, meldet euch.
-Wenn es Unklarheiten oder Probleme gibt, meldet euch.
-```
-
-```{solution} exercise-rock-paper-scissor-part-2
-:class: dropdown
-
-🤷‍♀️
+Fragen:
+- Wie ist es dir dabei gegangen eine Anleitung zu schreiben?
+- Hast du auch versucht Skizzen zu machen?
 ```
 
 
+```{exercise} Aufgabe analysieren
+:label: exercise-rock-paper-scissor-1-description
 
-## Schere-Stein-Papier
+In aller Kürze könnte man das Spiel so beschreiben:
+1. Wir verbinden zwei Microbits
+1. Wir schütteln drei Mal
+1. Jeder Microbit zeigt ein zufälliges Symbol an
+1. Der eine gewinnt, der andere verliert
 
-Wir haben gestern weitere wichtige Komponenten für unser Programm erarbeitet.
+Das Programm, das wir später erstellen wollen, muss
+alle diese Dinge tun.
 
-**Anwendung der Regeln**
+Wie können wir so ein Programm umsetzen?
 
-![Regeln für Schere-Stein-Papier](Regeln.png)
+Wir haben verschiedene Strategien besprochen um Probleme
+zu lösen:
+- Kannst du das Problem vereinfachen? Wie?
+- Kannst du das Problem in Teilprobleme zerlegen? Welche?
+- Kannst du den Ablauf beschreiben? Mit Worten oder Zeichnungen? Versuche es.
+- Kannst du jemandem die Aufgabe im Detail beschreiben?
+  Suche dir eine Partnerin und probiere es.
 
-**Datenaustausch zwischen zwei Microbits mit Radio**
-
-![Datenaustausch](Datenaustausch.png)
-
-Und unser Programm zum Testen:
-
-![Teste Datenaustausch](TesteDatenaustausch.png)
-
-
-```{exercise} Schere-Stein-Papier: Zeichnung für Spielablauf und Programmkomponenten
-:label: exercise-rock-paper-scissors-diagram
-
-Wir sind zwar schon öfter gemeinsam vor dem Whiteboard gestanden und
-haben die Aufgabe besprochen, hier geht es aber trotzdem noch einmal
-darum, eine Zeichnung (Skizze) anzufertigen, die den Spielablauf
-und die einzelnen Komponenten (Teile) des Programms beschreibt.
-
-Erstelle also eine neue Zeichnung aus der man ablesen kann:
-1. Den zeitlichen (was & wann?) und logischen (was & wie?) Ablauf des Spiels
-1. Wichtige Schritte, Konzepte oder Ereignisse im Spiel und die entsprechenden Komponenten im Programm
-   (bspw. "Schütteln", "Datenaustausch zwischen Microbits", ...)
-
-Verwende gerne Farben, Pfeile, Nummerierungen, Sprechblasen, Symbole oder andere Hilfsmittel die
-es dir erleichtern, die Zusammenhänge zu beschreiben.
-
-Wenn du fertig bist, präsentiere Sashka deine Beschreibung und führe
-sie auf dem Papier durch dein Programm.
+Wenn du dir nicht sicher bist, Spiele das Spiel noch
+einmal mit jemandem und beschreibt gleichzeitig was ihr tut.
 ```
 
-```{exercise} Schere-Stein-Papier: Komponenten zusammen führen
+
+```{exercise} Aufgabe zeichnen
+:label: exercise-rock-paper-scissors-1-diagram
+
+Oft sagt ein Bild mehr als tausend Worte.
+Wir wollen daher noch einen Anlauf unternehmen und versuchen, das Spiel
+in ein Bild zu fassen.
+Unser Ziel ist dabei, den Spielablauf zu beschreiben und einzelne
+Teile der Aufgabe zu erkennen.
+
+Erstelle eine Zeichnung aus der man ablesen kann:
+- Wann passiert etwas? Zeitlicher Ablauf.
+- Warum passiert etwas? Logischer Ablauf.
+- Gibt es wichtige Ereignisse, Schritte oder "Dinge" die für den
+  Ablauf wichtig sind (bspw. "schütteln", "3 Mal", ...)?s", ...)
+
+Verwende gerne Farben, Pfeile, Nummerierungen, Sprechblasen, Symbole oder
+andere Hilfsmittel die es dir leichter machen, die Zusammenhänge zu beschreiben.
+```
+
+Wenn wir das Gefühl haben, die Aufgabe verstanden zu haben,
+können wir probieren sie Schritt für Schritt zu lösen.
+Oft merken wir dann, dass wir uns doch ein paar Details unklar sind.
+Das ist okay.
+
+
+```{exercise} Teilaufgaben umsetzen
+:label: exercise-rock-paper-scissor-2-implementation
+
+Wir wollen versuchen Schere-Stein-Papier zu programmieren.
+
+Wir halten uns weiterhin an unser Motto
+
+> Kleine Schritte, Stück für Stück
+
+Versuche ganz bewusst zuerst einmal nur kleinere Teilaufgaben
+zu lösen. Wenn das klappt, füge sie zu einem Ganzen zusammen.
+
+
+**Aufgaben:**
+Für jedes Teilproblem oder jede Vereinfachung:
+1. Worin besteht die Aufgabe?
+1. Welche Blöcke brauchst du?
+1. Setze die Blöcke Schritt für Schritt zusammen und prüfe
+   bei jeder Änderung, ob alles so funktioniert, wie du dir
+   das vorstellst.
+```
+
+
+```{exercise} Regeln anwenden
+:label: exercise-rock-paper-scissor-2-rules
+
+Wer gewinnt und wer verliert wird durch Regeln beschrieben.
+
+Wenn wir diesen Teil des Programms umsetzen wollen, müssen
+wir uns für eine Sichtweise entscheiden.
+
+Es macht Sinn, das Programm aus der Ich-Form zu schreiben.
+
+**Aufgaben und Fragen:**
+1. Wie lauten die Regeln?
+1. Wie beschreibst du "das Ergebnis vom Schütteln" für jede
+   Spielerin?
+1. Was soll passieren, wenn man gewonnen oder verloren hat?
+1. Versuche ein Programm zu schreiben, das die Regeln anwendet.
+```
+
+% ![Regeln für Schere-Stein-Papier](Regeln.png)
+
+
+```{exercise} Schere-Stein-Papier
 :label: exercise-rock-paper-scissors-all-in-one
 
-Deine Skizze beschreibt, wie welche Komponenten zusammenhängen,
-was, wann passiert und welche Daten/Variablen wo gebraucht werden.
+Wenn du alle Teilaufgaben gelöst hast, versuche die einzelnen
+Teile zu einem Ganzen zusammen zu fügen.
 
-Versuche nun, die einzelnen Teile in einem neuen Projekt zusammen zu führen.
-
-Wenn dir noch Komponenten fehlen, beispielsweise diejenigen, die wir gestern
-im Kurs besprochen haben, erstelle diese zuerst separat.
+Wenn dir noch ein Teil fehlt, erstelle diesen zuerst separat.
 
 Ihr könnte dazu gerne auch im Team arbeiten. Wenn ihr das tut, vergesst nicht:
 * Regelmäßig abwechseln und
 * aussprechen was ihr tun wollt! 😃
-
-Wir besprechen eure Ergebnisse kommende Woche und werden den Prozess
-auch noch einmal gemeinsam durchgehen.
-
-Viel Spaß!
-
-P.S.: Das ist eine recht anspruchsvolle Übung, macht euch keine Sorgen, wenn
-es nicht gleich klappt!
 ```
 
 

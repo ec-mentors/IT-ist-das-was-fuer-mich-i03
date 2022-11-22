@@ -35,11 +35,13 @@ Wir haben festgestellt, dass es weit mehr Sensoren gibt, als wir bisher genutzt 
 
 {ref}`exercise-microbit-sensor-discovery`
 
+Diese Aufgabe bearbeitet jede für sich.
+
 ## Schere-Stein-Papier
 
 *Achtung, das ist eine große Aufgabe. Es geht noch nicht darum, sie komplett zu lösen.*
 
-{ref}`exercise-rock-paper-scissor-prep`
+{ref}`exercise-rock-paper-scissor-1-description`
 
 ## Markdown
 
