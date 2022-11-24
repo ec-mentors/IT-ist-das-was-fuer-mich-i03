@@ -25,10 +25,10 @@ Fragen:
 
 ```
 
-Sophie war so freundlich uns nach einem ihrer vergagenen Besuche folgende Dokumente zur
+Sophie war so freundlich uns nach einem ihrer vergangenen Besuche folgende Dokumente zur
 Verfügung zu stellen:
-* {download}`Game Dev: Ausbildungen in Österreich <./_static/AusbildungenInOesterreich.pdf>`
-* {download}`Game Dev: Jobs in der Spieleindustrie <./_static/JobsInDerSpieleIndustrie.pdf>`
+* {download}`Game Dev Ausbildungen in Österreich <./_static/AusbildungenInOesterreich.pdf>`
+* {download}`Game Dev Jobs in der Spieleindustrie <./_static/JobsInDerSpieleIndustrie.pdf>`
 
 
 ## Projektleiterin und Scrum Master (Dagmar Labes)
@@ -43,9 +43,13 @@ Fragen:
 * Was macht die Firma?
 * Um welche Branche handelt es sich?
 * Was macht eine Projektleitern?
-* Was ist ein Srum Master?
+* Was ist ein Scrum Master?
 * Welche Fragen möchtest du Dagmar stellen?
 ```
+
+Dagmar war so freundlich uns ihre Slides zu schicken:
+* {download}`Frauen in der Technik - Dagmar bei Sportradar <./source/_static/Frauen in der Technik - Dagmar bei Sportradar.pdf>`
+
 
 ## Softwareentwicklerin (Krisztina Horvat-Schwarcz)
 
