@@ -16,6 +16,7 @@ lego/index
 raspberrypi
 microbit/index
 website
+projects
 learning
 
 orientation

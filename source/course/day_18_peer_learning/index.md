@@ -13,20 +13,33 @@ Heute steht wieder Peer Learning am Programm.
 
 Wir haben verschiedene Themenblöcke vorgesehen:
 1. Feedback: Wie war die Woche für dich?
+1. Projekt: Womit willst du dich kommende Woche ausführlicher befassen?
 1. Berufsbilder und Ausbildungen:
    * Diskussion mit einer Gastvortragenden
    * Verstehen, was es mit dem "Karriereplan" als Abschlussbericht für das AMS auf sich hat
-1. Projekt: Womit willst du dich kommende Woche ausführlicher befassen?
 
-## Feedback
+## Feedback 🐜
 
 % supply link to feedback form in through the preamble's feedback_link variable
 {{ ask_for_feedback }}
 
+## Projektwoche 🐐
+
+Am Montag startet die Projektwoche.
+
+**Was für ein Projekt möchtest du umsetzen?**
+
+Was interessiert dich? Worauf hast du Lust?
+
+Lies dir zur Einstimmung die {ref}`Einleitung <_project_ideas_target>` durch
+und bearbeite dann die folgende Übung:
+
+👉 {ref}`exercise-collect-project-ideas` 👈
+
 
 ## Berufsbilder und Ausbildungen
 
-### Gastvortragende Krisztina
+### Gastvortragende Krisztina 🐻
 
 Wir haben heute wieder eine Gastvortragende zu Besuch.
 
@@ -39,24 +52,17 @@ Genau dafür ist heute Zeit.
 
 Sie freut sich schon darauf euch kennen zu lernen!
 
-{ref}`exercise-it-guest-krisztina`
+Widme dich zur Vorbereitung der folgenden Übung:
 
-### Karriereplan
+👉 {ref}`exercise-it-guest-krisztina` 👈
+
+### Karriereplan 🐐
 
 Wie schon öfter erwähnt, werden wir am Ende des Kurses einen
 Bericht für das AMS verfassen - den so genannten Karriereplan.
 
-{ref}`exercise-understand-career-plan`
+In dieser Übung haben wir ein paar wichtige Fragen zusammen gefasst:
 
+👉 {ref}`exercise-understand-career-plan` 👈
 
-## Projekte 🤖
-
-Am Montag startet die Projektwoche.
-In dieser Woche hast du Gelegenheit dich einem Thema das dich interessiert
-ausführlicher zu widmen.
-
-Was interessiert dich? Worauf hast du Lust?
-
-
-## Schere Stein Papier: Das große Finale! :medal_sports:
 

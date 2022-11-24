@@ -25,12 +25,12 @@ paginate: true
 
 ## Grober Zeitplan 📆
 
-| Tag                     | Thema                                    |
-| ----------------------- | ---------------------------------------- |
-| Fr, 18.2.               | Vorbereitung der Projekte                |
-| Mo, 21.2. bis Mi, 23.2. | Umsetzung der Projekte                   |
-| Do, 24.2.               | Abschluss der Projekte                   |
-| Fr, 25.2.               | Abschlusspräsentationen (+ Frühstück 🥐☕) |
+| Tag                         | Thema                                     |
+| --------------------------- | ------------------------------------------|
+| Fr, 25.11.                  | Projektideen sammeln                      |
+| Mo, 28.11. bis Mi, 30.11.   | Umsetzung der Projekte                    |
+| Do, 01.12.                  | Abschluss der Projekte                    |
+| Fr, 02.12.                  | Abschlusspräsentationen (+ Frühstück 🥐☕) |
 
 *Zusätzlich Einzelgespräche.*
 
