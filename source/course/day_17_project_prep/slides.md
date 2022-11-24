@@ -57,11 +57,11 @@ Ist ein Angebot des AMS Wien:
 
 ## Dein Karriereplan...
 
-... ist die Antwort auf die Frage
+... ist deine Antwort auf die Frage
 
 > Wie komme ich in die IT?
 
-für das AMS.
+Für dich und das das AMS.
 
 ---
 
