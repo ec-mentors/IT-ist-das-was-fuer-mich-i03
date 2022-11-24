@@ -2,6 +2,6 @@
 
 Heute steht "Stressmanagement und Lernen lernen" am Programm.
 
-% TODO add Sashka's slides
-% {download}`🎬 Slides <./slides.pdf>`
+% IT, ist das was für mich? | Stressmanagement & Learning how to learn
+{download}`🎬 Slides <./slides.pdf>`
 % {download}`🗒️ Arbeitsblatt <./worksheet.pdf>`
