@@ -1,8 +1,21 @@
 # Gamze
-Was mache ich gerne?
+Eigenschfaten: 
 
-* Ich schaue gerne Serien oder Filme, höre musik und gehe mit Freunden raus. 
+* Organisationstalent 
+* Teamfähigkeit 
+* Zeilsträbigkeit 
 
-Welche Berufe kann ich mir vorstellen? 
+Interesssen & Hobbies: 
 
-* Finanz-und Rechnungswesenassistentin oder Bürokaufrau. 
+* Musik hören 
+* lesen 
+* Serien schauen 
+
+Ausbildung & Berufserfahrung: 
+
+* höchste Abgeschlosenne Ausbildung: 
+   * Pflichtschule 
+
+* Beruferfahrung: 
+   * 5 Tägiges Berufspraktikum als Ordinationsassistentin 
+   * 2 Tägiges Berufspraktikum als Augenoptikerin 
