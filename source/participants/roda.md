@@ -30,6 +30,3 @@ Welche Beruf kann ich mir vorstellen?
 - Pflichtschuleabschluss 
 - assistent und Übersetzer beim Arzt in berufsprakitsche Tage.
 
-### Weitere Erfahrungen
-
-- Keins
