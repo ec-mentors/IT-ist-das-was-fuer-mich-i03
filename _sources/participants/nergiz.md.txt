@@ -1,6 +1,17 @@
 # Nergiz
-Meine Hobbys sind spazieren und lesen musik hören.
-Mich interriesert es mit computer zum arbeiten
-Ich schaue gerne horror filme.
-Ich mag es tanzen und singen.
-Ich koche gerne.
+Eigenschaften
+
+Teamfähig
+Pünktlichkeit
+Selbstsändig
+
+Interrésse & Hobbies
+Kochen
+lesen
+Musik hören
+
+Ausbildung & Berufserfahrung
+Pflichtschule 
+Restaurantfachfrau 1 Jahr  gearbeitet nicht abgeschlossen
+Hak Schule gerade
+
