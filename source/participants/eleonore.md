@@ -10,3 +10,21 @@ Was mache ich gerne?
 Welche Berufe kann ich mir vorstellen?
 
 - Applikationsentwicklerin - Coding
+
+## Über mich
+
+Eigenschaften
+
+- zielstrebig
+- ehrlich
+- sorgfältig
+- hilfsbereit
+- geduldig
+
+Ausbildung und Berufserfahrung
+
+- Pflichtschulabschluss
+
+Weitere Erfahrungen
+
+- Berufspraktische Tage als Einzelhandelskauffrau
