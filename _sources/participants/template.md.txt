@@ -6,15 +6,17 @@
 
 ### Eigenschaften
 
-- ...
+- hartnäckig
+- ehrgeizig
 
 ### Interessen & Hobbies
 
-- ...
+- Musik, Kochen, verschiedene Kulturen
 
 ### Ausbildung & Berufserfahrung
 
-- ...
+- hochste abgeschlossene AUsbildung: AHS-Matura
+- Berufserfahrung: Nebenjob in der gastronomie (Servicekraft)
 
 ### Weitere Erfahrungen
 
@@ -38,7 +40,7 @@ Dokumente:
 Fragen:
 - Welche Berufe sprechen dich an?
 - Welche Ausbildungen könntest du dir vorstellen?
-- ...
+- LEHRE APPLIKATIONSENTWICKLUNG
 
 Dokumente:
 % TODO
