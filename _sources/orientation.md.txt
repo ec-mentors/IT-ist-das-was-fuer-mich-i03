@@ -167,16 +167,6 @@ Versuche folgende Fragen für dich zu beantworten:
 Denke nach und schreibe einen kleinen Aufsatz.
 ```
 
-```{exercise} Berufsbilder auf Whatchado
-:label: exercise-it-orientation-whatchado
-
-Was sagst du zu folgenden beiden Berufen?
-- [Informations- & Telekommunikationstechnikerin](https://www.whatchado.com/de/stories/esther-binder)
-- [IT-Systemkauffrau](https://www.whatchado.com/de/stories/vivien-deutsche-telekom)
-
-Fasse deine Gedanken dazu stichwortartig zusammen.
-```
-
 ```{exercise} FiT Ausbildung und Angebotsübersicht
 :label: exercise-fit-programme
 
@@ -198,4 +188,14 @@ Beantworte folgende Fragen:
 * Welche Ausbildungen interessieren dich?
 * Warum möchtest du diese absolvieren?
 * Welche Voraussetzungen sind dafür zu erfüllen?
+```
+
+```{exercise} Berufsbilder auf Whatchado
+:label: exercise-it-orientation-whatchado
+
+Was sagst du zu folgenden beiden Berufen?
+- [Informations- & Telekommunikationstechnikerin](https://www.whatchado.com/de/stories/esther-binder)
+- [IT-Systemkauffrau](https://www.whatchado.com/de/stories/vivien-deutsche-telekom)
+
+Fasse deine Gedanken dazu stichwortartig zusammen.
 ```
