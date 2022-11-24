@@ -13,8 +13,9 @@ Heute steht wieder Peer Learning am Programm.
 
 Wir haben verschiedene Themenblöcke vorgesehen:
 1. Feedback: Wie war die Woche für dich?
-1. Berufsbilder und Ausbildungen: Um 11:00 haben wir mit Krisztina eine Gastvortragende
-   die uns aus ihrem Job erzählen wird.
+1. Berufsbilder und Ausbildungen:
+   * Diskussion mit einer Gastvortragenden
+   * Verstehen, was es mit dem "Karriereplan" als Abschlussbericht für das AMS auf sich hat
 1. Projekt: Womit willst du dich kommende Woche ausführlicher befassen?
 
 ## Feedback
@@ -25,10 +26,12 @@ Wir haben verschiedene Themenblöcke vorgesehen:
 
 ## Berufsbilder und Ausbildungen
 
+### Gastvortragende Krisztina
+
 Wir haben heute wieder eine Gastvortragende zu Besuch.
 
-Mit Krisztina als Gast habt ihr die Gelegenheit jemanden kennen zu lernen der
-für sich entschieden hat, den Schritt in die IT zu wagen.
+Mit Krisztina als Gast habt ihr die Gelegenheit eine Person kennen zu lernen,
+die sich dafür entschieden hat, den Schritt in die IT zu wagen.
 
 Wieso hat sie das gemacht? Wie geht es jetzt ihr damit?
 
@@ -36,15 +39,24 @@ Genau dafür ist heute Zeit.
 
 Sie freut sich schon darauf euch kennen zu lernen!
 
-Der Termin findet online statt.
+{ref}`exercise-it-guest-krisztina`
 
-LINK
+### Karriereplan
+
+Wie schon öfter erwähnt, werden wir am Ende des Kurses einen
+Bericht für das AMS verfassen - den so genannten Karriereplan.
+
+{ref}`exercise-understand-career-plan`
 
 
-## Projekte
+## Projekte 🤖
 
 Am Montag startet die Projektwoche.
 In dieser Woche hast du Gelegenheit dich einem Thema das dich interessiert
 ausführlicher zu widmen.
 
 Was interessiert dich? Worauf hast du Lust?
+
+
+## Schere Stein Papier: Das große Finale! :medal_sports:
+

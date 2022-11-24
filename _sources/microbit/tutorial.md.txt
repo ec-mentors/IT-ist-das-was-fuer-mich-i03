@@ -239,15 +239,15 @@ wählt man eine Gruppe aus. Informationen werden dann innerhalb dieser Gruppe au
   Versuche in der Ich-Perspektive zu bleiben.
 ```
 
-```{solution} exercise-basic-radio
-:class: dropdown
-
-![Share button events in group](share_button_events_in_group.png)
-```
-
-Datenaustausch zwischen zwei Microbits:
-* ![Datenaustausch](Datenaustausch.png)
-* ![Teste Datenaustausch](TesteDatenaustausch.png)
+% ```{solution} exercise-basic-radio
+% :class: dropdown
+%
+% ![Share button events in group](share_button_events_in_group.png)
+% ```
+%
+% Datenaustausch zwischen zwei Microbits:
+% * ![Datenaustausch](Datenaustausch.png)
+% * ![Teste Datenaustausch](TesteDatenaustausch.png)
 
 
 ## Eine große Aufgabe 🧗
