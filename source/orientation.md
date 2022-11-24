@@ -119,6 +119,25 @@ Wie würdest du diese Frage "IT, ist das was für mich?" im Moment beantworten u
 Denke nach und schreibe einen kleinen Aufsatz.
 ```
 
+```{exercise} Was ist der Karriereplan?
+:label: exercise-understand-career-plan
+
+Der Karriereplan ist ein Bericht, den wir für das AMS ausstellen
+und gemeinsam mit euch erarbeiten wollen.
+
+Der Karriereplan soll unter anderem folgende Fragen beantworten:
+1. Welche Berufswünsche hast du?
+1. Welche Ausbildungen (Qualifizierungsmaßnahmen) kommen für dich in Frage?
+
+Schau dir den Karriereplan in Ruhe an.
+
+Wie fühlst du dich, wenn du dir das Dokument anschaust?
+Hast du Fragen dazu?
+Kannst du dir vorstellen, was dieses Dokument bedeutet?
+
+Lass und das in der Gruppe besprechen.
+```
+
 
 ```{exercise} Wie geht es weiter ...?
 :label: exercise-how-do-you-want-to-continue
