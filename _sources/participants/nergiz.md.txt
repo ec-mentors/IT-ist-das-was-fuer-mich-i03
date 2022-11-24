@@ -1,20 +1,19 @@
 # Nergiz
+Eigenschaften
 
-## Eigenschaften
+* Teamfähig
+* Pünktlichkeit
+* Selbstsändig
 
-- Teamfähig
-- Pünktlichkeit
-- Selbstsändig
+Interrésse & Hobbies
 
-## Interrésse & Hobbies
+* Kochen
+* lesen
+* Musik hören
 
-- Kochen
-- lesen
-- Musik hören
+Ausbildung & Berufserfahrung
+* Pflichtschule 
 
-## Ausbildung & Berufserfahrung
-
-- Pflichtschule 
-- Restaurantfachfrau 1 Jahr  gearbeitet nicht abgeschlossen
-- Hak Schule gerade
+* Restaurantfachfrau 1 Jahr  gearbeitet nicht abgeschlossen
+* Hak Schule gerade
 
