@@ -2,7 +2,7 @@
 
 Wir haben heute das erste Mal einen Gast zu Besuch.
 Als Vorbereitung werden wir uns etwas mit dem Berufsbild
-"Projektleiterin" auseinander setzen und bei dieser Gelegenheit
+"IT Projektleiterin" und "Scrum Master" auseinander setzen und bei dieser Gelegenheit
 noch einmal darauf eingehen, wie es im Kurs weiter gehen wird.
 
 Die zweite Hälfte der heutigen Einheit widmen wir wieder
