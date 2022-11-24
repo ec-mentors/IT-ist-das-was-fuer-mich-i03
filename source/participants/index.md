@@ -13,6 +13,7 @@ Leben füllen werden.
 
 
 ```{toctree}
+:maxdepth: 1
 :glob:
 *
 
