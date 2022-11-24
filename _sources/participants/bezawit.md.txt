@@ -17,4 +17,3 @@
 
 ### Weitere Erfahrungen
 - ...
-## Mein Projekt 
