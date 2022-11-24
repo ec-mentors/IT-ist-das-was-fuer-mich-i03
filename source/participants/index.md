@@ -9,7 +9,7 @@ Jede von euch hat daher einen eigenen Eintrag auf unserer
 Kursseite den wir in den kommenden fünf Wochen mit
 Leben füllen werden.
 
-%![Participants](IMG-1035.jpg)
+![Participants](Gruppenbild_Kickoff_MP.jpeg)
 
 
 ```{toctree}
