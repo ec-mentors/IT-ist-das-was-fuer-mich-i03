@@ -16,6 +16,7 @@ Eigenschaften
 
 * **hartnäckig**
 * **ehrgeizig**
+* **strukturiert**
 
 
 Ausbildung & Berufserfahrung
