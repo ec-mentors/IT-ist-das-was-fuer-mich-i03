@@ -8,17 +8,9 @@ paginate: true
 
 # IT, ist das was für mich? 👩‍💻
 
-## Tag 14
+## Tag 17
 
-Wir wiederholen und probieren was neues:
-- Wie funktionieren Webseiten?
-- Schere-Stein-Papier! ;)
-
----
-
-# Intro 🌅
-
-*Eine neue Woche, ein neuer Tag*
+Projektideen und Karrierepläne 🚀
 
 ---
 
@@ -31,27 +23,61 @@ Wir wiederholen und probieren was neues:
 
 ---
 
+## Wie war es gestern? 😃
+
+---
+
 ## Was passiert heute? 🗒️
 
-* Rückblick
-* Standortbestimmung
+* Intro Karriereplan
+* Aktualisierung eurer Kursseite
 * Diskussion zu Schere-Stein-Papier
-* Web Intro
+  * Microbits tauschen Informationen aus
+  * Zusammen fügen...
+* Ausblick Projektwoche
 
 ---
 
-# Rückblick 🤔
-
-* Wie war Peer Learning?
-* Wie war Soft Skills?
+# Intro Karriereplan
 
 ---
 
-# Standortbestimmung 🗺️ 🧭
+## Unser Kurs
 
-* Wo sind wir?
-* Woher kommen wir?
-* Wo gehen wir hin?
+Ist ein Angebot des AMS Wien:
+* 5 Wochen "ausprobieren"
+
+> Will ich in die IT?
+
+* +2 Wochen "planen" für alle die wollen
+
+> Wie komme ich in die IT?
+
+---
+
+## Dein Karriereplan...
+
+... ist die Antwort auf die Frage
+
+> Wie komme ich in die IT?
+
+für das AMS.
+
+---
+
+## Worum geht es in diesem Karriereplan?
+
+*Morgen noch einmal im Detail.*
+
+---
+
+## Deine Kursseite
+
+* Ort für wichtige Infos
+* Hilft uns bei Projekten
+* Hilft uns beim Koordinieren
+
+*Die wollen wir jetzt erweitern!* 🏗️
 
 ---
 
@@ -61,12 +87,11 @@ Gleich geht's weiter.
 
 ---
 
-# Web Intro 🌐 🤓
+# Diskussion: Schere-Stein-Papier
 
-* Was weißt du über das Internet?
-* Was passiert, wenn du eine Webseite aufrufst?
-* Was ist eine Webseite?
-* Wie erstelle ich eine Webseite?
+Was fehlt uns noch?
+* Microbits tauschen Informationen aus
+* Teile zusammen fügen
 
 ---
 
@@ -76,22 +101,7 @@ Gleich geht's weiter.
 
 ---
 
-# Schere-Stein-Papier
-
-* Können wir vereinfachen?
-* Wie können wir vereinfachen?
-
-
-* Können wir zerlegen?
-* Wie können wir zerlegen?
-
----
-
-## Was haben wir heute gelernt? 📝
-
-## Begriffe & Zusammenhänge
-
-*Was war euch wichtig?*
+# Ausblick Projektwoche 📡
 
 ---
 
@@ -99,22 +109,7 @@ Gleich geht's weiter.
 
 ---
 
-## Was war heute?
-
-* Standortbestimmung
-* Web Intro
-* Problemlösungsstrategien
-
----
-
-## Was kommt morgen?
-
-* Ähnlich wie heute
-* Gastvortragende um 10:00
-
----
-
-## Retrospektive
+# Retrospektive
 
 * Was hast du gelernt?
 * Was hat dich überrascht?

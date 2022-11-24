@@ -104,8 +104,10 @@ an den Dateien vornehmen.
 Jede von euch hat eine Datei in diesem Ordner: https://github.com/ec-mentors/it-ist-das-was-fuer-mich/-/tree/main/source/participants, das ist eure persönliche Seite im
 Rahmen unseres Kurses. Genau dort, wollen wir ein paar Updates machen.
 
-Konkret wollen wir ein Foto einfügen und auch eine kleine Beschreibung.
-Den ersten Schritt gehen wir gemeinsam, danach könnt ihr das selber.
+Nutze deinen Eintrag auf der Kursseite um dich kurz vorzustellen:
+* Wie heißt du?
+* Was machst du gerne?
+* Wofür interessierst du dich?
 
 *Damit wir nicht durcheinander kommen, mache bitte keine Änderungen in anderen
 Dateien, nur in eurer eigenen.*
@@ -116,3 +118,25 @@ Es gibt Baukastensysteme, mit denen man ganz ohne Programmierkenntnisse Webseite
 bauen kann.
 Unsere Kursseite ist nur eine Möglichkeit und wir wollen euch die Gelegenheit
 geben, hier einen Blick hinein zu werfen.
+
+
+```{exercise} Persönliche Kursseite als Mini-Lebenslauf
+:label: exercise-update-personal-page-properly
+
+Wir werden die Kursseite nutzen, um einen stichwortartigen Lebenslauf
+von euch anzulegen.
+
+Gehe auf https://github.com/ec-mentors/it-ist-das-was-fuer-mich/-/tree/main/source/participants
+und schau dir die Vorlage an.
+Passe dann deinen persönlichen Eintrag an,
+in dem du dem Vorschlag entsprechend Änderungen an deiner Seite vornimmst.
+
+Du kannst die Inhalte auch gerne anders strukturieren und gestalten.
+Wichtig ist nur, dass genannten Informationen in übersichtlicher Art und Weise
+zu finden sind.
+
+Wenn du Hilft brauchst, wende dich an eine Kollegin.
+
+*Damit wir nicht durcheinander kommen, mache bitte keine Änderungen in anderen
+Dateien, nur in eurer eigenen.*
+```
