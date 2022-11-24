@@ -3,10 +3,10 @@ Eigenschaften:
 -ehrgeizig
 -Stur 
 
-Intressesn und Hobbies
+Intressesn und Hobbies:
 -Zeichnen, Fahrrad fahren, lesen 
 
-Ausbildung und Berufserfahrung 
+Ausbildung und Berufserfahrung: 
 - laufend-HTL 
 - keine Arbritserfahrung 
 
