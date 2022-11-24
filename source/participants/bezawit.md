@@ -12,7 +12,7 @@
 - Recherieren zu verschiedenen Themen (Informatik, Geschichtliches, Kulturelles usw.)
 
 ### Ausbildung & Berufserfahrung
-- 5 Jahre HTL wirtschaftsingenieurwesen (Matura nicht komplett abgeschlossen)
+- 5 Jahre HTL Wirtschaftsingenieurwesen (Matura nicht komplett abgeschlossen)
 - Praktika bei AGES jeweils ein Monat (Tabak- und Medizinmarktabteilung)
 
 ### Weitere Erfahrungen
