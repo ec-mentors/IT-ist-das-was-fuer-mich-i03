@@ -1,25 +1,21 @@
 # IT, ist das was für mich?
 
-Lecture notes and course material.
-Entry Point for participants.
-
-This repository includes both instructions for the website
-as well as for the slides.
+Course notes and material for "IT, ist das was für mich?".
 
 ## Website
 
-### Development
-
-Using your favorite method, create (virtual) Python environment
-based on the specifications in `environment.yml` or `requirements.txt`.
-You may take a look at `.gitlab-ci.yml`.
+The website serves as entry point for the participants and
+helps organize course notes as well as additional material
+relevant for the participants.
 
 ### Technical Background
 
+The website is markdown-based and rendered using a static site generator.
+
 The following tools are at play:
 * [Sphinx](https://www.sphinx-doc.org/)
-* [Markedly Structured Text (MyST)](https://myst-parser.readthedocs.io/)
 * [Sphinx Book Theme](https://sphinx-book-theme.readthedocs.io/)
+* [Markedly Structured Text (MyST)](https://myst-parser.readthedocs.io/)
 
 Sphinx is a mature, feature rich, versatile and extensible documentation generator.
 
@@ -33,6 +29,11 @@ Extensions are specified in the Sphinx configuration file `conf.py`.
 
 The listed tools are used within the [executable books project](https://github.com/executablebooks).
 
+### Setup
+
+Use your favorite method to create a (virtual) Python environment
+based on the specifications in `environment.yml` or `requirements.txt`.
+Take a look at the CI workflow, i.e. `.github/workflows/gh-pages.yml` (or `.gitlab-ci.yml`).
 
 ### Editing
 
@@ -47,23 +48,7 @@ New documents need to be included through a `toctree` directive.
 Take a look at both MyST and the theme to learn more about how to write content.
 To better understand the underlying principles, take a look at Sphinx.
 
-
-### Building
-
-Once everything is set up (see below), you can create both the
-website and the slides doing `$ ./run.sh`.
-
-Note that `run.sh` builds the development or work in progress (wip) version
-of the website whereas the CI service only builds publication-ready-content.
-See how the `exclude_patterns` is specified in `conf.py`. The toggle is
-implemented using [`tags` passed to the build commands](https://www.sphinx-doc.org/en/master/usage/configuration.html#conf-tags).
-
-#### Setup
-
-Using your favorite approach, create a (virtual) Python environment
-based on the instructions in `.gitlab-ci.yml`.
-
-#### Commands
+### Rendering/Building
 
 To build locally, do
 
@@ -87,20 +72,20 @@ $ rm -r public  # to remove the build
 Links are automatically checked in the CI pipeline.
 To run these checks locally, see the CI config.
 
+### CI Pages
 
-#### Pages
-
-A CI pipeline is configured and the build is automatically
-published using GitLab pages.
+A CI pipeline is configured and the build is automatically published.
 
 
 ## Slides
 
-Slides are markdown-based as well and the content can be included
-in the website's source.
-For presentation purposes, the source is converted to PDF or HTML slides.
+### Technical Background
 
-### Installation
+Slides are markdown-based and rendered using [Marp](https://marp.app/).
+
+Note: To included slides on the website, at the PDF version as download.
+
+### Setup
 
 #### VS Code Plugin
 
@@ -115,18 +100,23 @@ There is a [CLI that can be installed through npm](https://www.npmjs.com/package
 $ npm install -g @marp-team/marp-cli
 ```
 
-### Building
+### Editing
 
-To convert a markdown file into e.g. html, do
+Source files reside in the `sources/course/days_*/slides.md` and are written in
+[Markdown](https://marpit.marp.app/markdown).
+
+### Rendering/Building
+
+To convert a markdown file into e.g. PDF, do
 
 ```console
-$ marp slides.md -o slides.html
-$ npx @marp-team/marp-cli@latest slides.md -o slides.html  # included marp update
+$ marp slides.md -o slides.pdf
+$ npx @marp-team/marp-cli@latest slides.md -o slides.pdf  # included marp update
 ```
 
 or use the VS Code plugin.
 
-To simplify automation, use the SlidesMakefile, i.e. do
+To simplify automation, use the SlidesMakefile.
 
 ```console
 $ make --makefile=SlidesMakefile all  # to compile all slides
@@ -136,9 +126,19 @@ $ make --makefile=SlidesMakefile help  # to see other options
 
 ### Spell Checking
 
-[CSpell] can be used for spell checking.
+[CSpell](https://cspell.org/) can be used for spell checking.
 
 There is an
 [extension for VS Code](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 as well a
 [dictionary for German](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-german).
+
+
+## Building Everything
+
+`$ ./run.sh` to render both slides and website in one go.
+
+Note that `run.sh` builds the development or work in progress (wip) version
+of the website whereas the CI service only builds publication-ready-content.
+See how the `exclude_patterns` is specified in `conf.py`. The toggle is
+implemented using [`tags` passed to the build commands](https://www.sphinx-doc.org/en/master/usage/configuration.html#conf-tags).
