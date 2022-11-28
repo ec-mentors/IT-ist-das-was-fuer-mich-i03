@@ -1,21 +1,25 @@
 # Gamze
-Eigenschfaten: 
+Eigenschfaten:
 
-* Organisationstalent 
-* Teamfähigkeit 
-* Zeilsträbigkeit 
+* Organisationstalent
+* Teamfähigkeit
+* Zeilsträbigkeit
 
-Interesssen & Hobbies: 
+Interesssen & Hobbies:
 
-* Musik hören 
-* lesen 
-* Serien schauen 
+* Musik hören
+* lesen
+* Serien schauen
 
-Ausbildung & Berufserfahrung: 
+Ausbildung & Berufserfahrung:
 
-* höchste Abgeschlosenne Ausbildung: 
-   * Pflichtschule 
+* höchste Abgeschlosenne Ausbildung:
+   * Pflichtschule
 
-* Beruferfahrung: 
-   * 5 Tägiges Berufspraktikum als Ordinationsassistentin 
-   * 2 Tägiges Berufspraktikum als Augenoptikerin 
+* Beruferfahrung:
+   * 5 Tägiges Berufspraktikum als Ordinationsassistentin
+   * 2 Tägiges Berufspraktikum als Augenoptikerin
+
+## Projektwoche
+
+- [Beispielpräsentation](https://docs.google.com/presentation/d/1aNJChxFJn68zFPRr3UmH0p7FRcCY9U0Ug5S2srKaSP8/edit?usp=share_link)

@@ -22,3 +22,7 @@ Eigenschaften
 Ausbildung & Berufserfahrung
 * **höchste abgeschlossene Ausbildung: AHS-Matura**
 * **Berufserfahrung: Nebenjob in der Gastronomie (Servicekraft)**
+
+## Projektwoche
+
+- [Beispielpräsentation](https://docs.google.com/presentation/d/1Teiy5eXkRVQ8IY-S_4EIzVFqOOtCmaFHlc4QCWOKiNo/edit?usp=share_link)

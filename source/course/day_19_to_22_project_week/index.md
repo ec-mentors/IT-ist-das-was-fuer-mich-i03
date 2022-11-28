@@ -19,3 +19,8 @@ Fragen wie diese wollen wir im Rahmen der Projektbeschreibung beantworten.
 ## Projektarbeit! 🏗️🚧👷
 
 ...
+
+## Projektpräsentation
+
+* [Slides 101](https://docs.google.com/presentation/d/17A2lxyleXD9bYi8OMQAQDo1G8mJGSZb0nTpzdF4LC9E/edit?usp=sharing)
+* [Mein Handy - Beispielpräsentation](https://docs.google.com/presentation/d/11nOwvqYCZQ5xXZ3HMQG8hUhvTIQ90kuYwJtY5GoAusw/edit?usp=sharing)
