@@ -1,14 +1,17 @@
 # Sawsan
 Eigenschaften:
 - ehrgeizig
-- Stur 
+- Stur
 
 Intressesn und Hobbies:
 - Zeichnen
 - Fahrrad fahren
-- Lesen 
+- Lesen
 
-Ausbildung und Berufserfahrung: 
-- laufend-HTL 
-- keine Arbritserfahrung 
+Ausbildung und Berufserfahrung:
+- laufend-HTL
+- keine Arbritserfahrung
 
+## Projektwoche
+
+- [Beispielpräsentation](https://docs.google.com/presentation/d/1coL9f7XFtBgXr-aBsTwPRjsKWXihPmux3AMAUcQu0gs/edit?usp=share_link)

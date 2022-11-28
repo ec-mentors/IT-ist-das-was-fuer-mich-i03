@@ -1,6 +1,10 @@
 # Bildungswege
 
-*Entweder direkt hier die Website aktualisieren oder im [Google Doc](https://docs.google.com/document/d/1PykTpxyFCgST-wZjfGTPiP55jg8Egk7RLA1YWifUtgI/edit?usp=sharing).*
+Du weißt was dich interessiert oder welche Berufe zu dir passen könnten.
+
+Welche Ausbildungen gibt es? Was kommt für mich in Frage?
+
+Um diese und ähnliche Fragen geht es auf dieser Seite.
 
 ## Lehre
 
@@ -67,6 +71,8 @@ Lehrlingsentschädigung:
 ### Voraussetzungen
 
 *Welche Voraussetzungen muss man mitbringen, um diese Kurse zu absolvieren?*
+
+Von Kurs zu Kurs verschieden.
 
 * Matura, Berufsreifeprüfung, abgeschlossene Lehre.
 * Beim AMS Wien arbeitslos oder arbeitsuchend gemeldet.

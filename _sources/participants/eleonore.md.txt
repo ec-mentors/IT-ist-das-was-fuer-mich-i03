@@ -26,3 +26,7 @@
 ### Weitere Erfahrungen
 
 - Berufspraktische Tage als Einzelhandelskauffrau
+
+## Projektwoche
+
+- [Beispielpräsentation](https://docs.google.com/presentation/d/1xFwveIY-PsrJhy17JOR4NjotweNimQKcJjkWpjgEgwg/edit?usp=share_link)

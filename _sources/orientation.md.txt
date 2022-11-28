@@ -63,6 +63,10 @@ und vieles mehr.
 
 ## Betreuungsangebote für Mädchen und Frauen
 
+### [#futurefactory](https://futurefactory.blog/)
+
+TODO
+
 ### [Mädchen-Berufs-Zentrum (MBZ) bei sprungbrett!](https://sprungbrett.or.at/)
 
 > Ein besonderes Angebot des AMS Wien für Mädchen und junge Frauen,
@@ -92,14 +96,6 @@ in eine Lehrausbildung.
 > Du bist zwischen 15 und 21 Jahre alt, beim AMS Wien vorgemerkt und suchst eine Lehrstelle oder einen Job. Dann komm zu A|B|O Jugend!
 > Wir unterstützen dich bestmöglich beim Berufseinstieg!
 > Die Zubuchung zu A|B|O Jugend erfolgt über das AMS Wien Jugendliche.
-
-
-## Weitere Aus- und Weiterbildungsangebote
-
-* WAFF
-* BFI
-* https://codersbay.wien/
-* ...
 
 
 ## Übungen

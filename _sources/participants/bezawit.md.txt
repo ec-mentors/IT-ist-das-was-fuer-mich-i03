@@ -17,3 +17,9 @@
 
 ### Weitere Erfahrungen
 - ...
+
+## Projektwoche
+
+- [Beispielpräsentation](https://docs.google.com/presentation/d/1QygTJg01cjkd6A_rUdjz_TNCJpY0xkBZVSvni5-lbww/edit?usp=share_link)
+
+
