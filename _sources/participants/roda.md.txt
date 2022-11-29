@@ -10,7 +10,7 @@ Welche Beruf kann ich mir vorstellen?
 
   * Applikataionsentwicklerin- Coding.
 
-### Eigenschaften
+## Eigenschaften
 
 - hilfsbereit
 - offen
@@ -21,11 +21,11 @@ Welche Beruf kann ich mir vorstellen?
 - sorgfältig
 - geduldig
 
-### Interessen & Hobbies
+## Interessen & Hobbies
 
 - Schreiben, Lesen und Lernen.
 
-### Ausbildung & Berufserfahrung
+## Ausbildung & Berufserfahrung
 
 - Pflichtschuleabschluss
 - assistent und Übersetzer beim Arzt in berufsprakitsche Tage.

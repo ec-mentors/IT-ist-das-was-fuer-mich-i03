@@ -1,5 +1,119 @@
 # Tag 19 bis 23: Projektwoche
 
+## Tages- und Wochenplan
+
+Diese Woche schauen unsere Tage so aus
+
+%<table>
+%<thead>
+%<tr>
+%<th>Uhrzeit</th>
+%<th>Fokus</th>
+%</tr>
+%</thead>
+%<tbody>
+%<tr>
+%<td>09:00-09:10</td>
+%<td>Check In</td>
+%</tr>
+%<tr>
+%<td>09:10-10:00</td>
+%<td>Arbeit</td>
+%</tr>
+%<tr>
+%<td>10:00-10:10</td>
+%<td>Daily</td>
+%</tr>
+%<tr>
+%<td>10:10-11:00</td>
+%<td>Arbeit</td>
+%</tr>
+%<tr>
+%<td>11:00-11:30</td>
+%<td>Große Pause</td>
+%</tr>
+%<tr>
+%<td>11:30-12:50</td>
+%<td>Arbeit</td>
+%</tr>
+%<tr>
+%<td>12:50-13:00</td>
+%<td>Check Out</td>
+%</tr>
+%</tbody>
+%</table>
+
+| Uhrzeit | Fokus |
+|---------|-------|
+| 09:00-09:10 | Check In |
+| 09:10-10:00 | Arbeit |
+| 10:00-10:10 | Daily |
+| 10:10-11:00 | Arbeit |
+| 11:00-11:30 | Große Pause |
+| 11:30-12:50 | Arbeit |
+| 12:50-13:00 | Check Out |
+
+**Check In**
+* Wie bist du heute da?
+* Wie geht es dir?
+
+**Daily**
+* Woran wirst du heute arbeiten?
+* Was ist dein Ziel?
+* Wie können wir dich unterstützen?
+
+**Check Out**
+* Wie ist es heute gelaufen?
+* Was nimmst du mit?
+* Was steht für morgen am Programm?
+
+
+Der Zeitplan für die Woche ist in etwa folgender:
+
+%<table>
+%<thead>
+%<tr>
+%<th>Wochentag</th>
+%<th>Fokus</th>
+%</tr>
+%</thead>
+%<tbody>
+%<tr>
+%<td>Montag</td>
+%<td>Kick Off &amp; Start</td>
+%</tr>
+%<tr>
+%<td>Dienstag - Donnerstag</td>
+%<td>Projektarbeit</td>
+%</tr>
+%<tr>
+%<td>Freitag</td>
+%<td>Projektabschluss</td>
+%</tr>
+%</tbody>
+%</table>
+
+| Wochentag | Fokus |
+|-----------|-------|
+| Montag | Kick Off & Start |
+| Dienstag - Donnerstag | Projektarbeit |
+| Freitag | Projektabschluss |
+
+
+**Kick Off**
+* Was möchtest du machen?
+* Wie könntest du dein Projekt umsetzen?
+* Wo brauchst du Hilfe?
+
+**Projektarbeit**
+* Projektbeschreibung und Anleitung
+* Schritt für Schritt zur Umsetzung
+
+**Projektabschluss**
+* Präsentation der Projekte
+* Gemeinsames Frühstück
+
+
 ## Projekt Kick Off! 🚀
 
 {download}`🎬 Slides <./slides.pdf>`
