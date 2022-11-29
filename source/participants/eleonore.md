@@ -1,17 +1,17 @@
 # Eleonore
 
-### Was mache ich gerne?
+## Was mache ich gerne?
 
 - Ich verbringe die meiste Zeit am PC
 - Ich liebe Videospiele
 - Ich mag es Rätsel zu lösen (Sudokus,..)
 - Musik hören
 
-### Welche Berufe kann ich mir vorstellen?
+## Welche Berufe kann ich mir vorstellen?
 
 - Applikationsentwicklerin - Coding
 
-### Eigenschaften
+## Eigenschaften
 
 - zielstrebig
 - ehrlich
@@ -19,11 +19,11 @@
 - hilfsbereit
 - geduldig
 
-### Ausbildung und Berufserfahrung
+## Ausbildung und Berufserfahrung
 
 - Pflichtschulabschluss
 
-### Weitere Erfahrungen
+## Weitere Erfahrungen
 
 - Berufspraktische Tage als Einzelhandelskauffrau
 
