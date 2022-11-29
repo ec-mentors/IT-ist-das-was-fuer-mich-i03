@@ -45,7 +45,10 @@ Setze dich mit einer anderen Kursteilnehmerin, mit der du noch nicht
 zusammen gearbeitet hast, wenn du was neues ausprobieren möchtest.
 ```
 
-
+% TBD
+% Schleifen, Bedingungen
+% Variablen
+% Funktionen
 % > Jedes Problem ist ein Projekt
 %
 % # Tag 13: Programmieren mit dem Microbit II
