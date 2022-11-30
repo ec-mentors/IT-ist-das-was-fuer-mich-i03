@@ -10,6 +10,6 @@ make html SPHINXOPTS="-t dev"
 
 # Running linkcheck
 echo "Linkcheck"
-sphinx-build -b linkcheck -n -W source/ public/
+sphinx-build -b linkcheck -n -q -w linkcheck.txt source/ public/
 
 echo "Done \o/"
