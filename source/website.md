@@ -36,10 +36,10 @@ Hat dir das geholfen?
 Oft ist es gut, Dinge einfach auszuprobieren.
 
 Schau' dir folgende Seiten an:
-- https://markdown-editor.github.io/:
+- https://markdown-editor.github.io/
   Schreibe auf der linken Seite und formatiere den
- Text mit Hilfe der Buttons. Was passiert?
-- https://www.markdownguide.org/basic-syntax/:
+  Text mit Hilfe der Buttons. Was passiert?
+- https://www.markdownguide.org/basic-syntax/
   Was bedeuten sie Spalten?
 
 Diese Aufgabe bearbeitet jede für sich.
