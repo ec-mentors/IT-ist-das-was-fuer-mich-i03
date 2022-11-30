@@ -1,6 +1,7 @@
 ---
-substitutions:
-  feedback_link: '[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfQznmMspwBTtrHH5sxFycuvxenWmQvpKdP-7QF80IIHwZZpw/viewform?usp=sf_link)'
+myst:
+  substitutions:
+    feedback_link: '[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfQznmMspwBTtrHH5sxFycuvxenWmQvpKdP-7QF80IIHwZZpw/viewform?usp=sf_link)'
 ---
 # Tag 23: Frühstück, Abschluss und Ausblick
 

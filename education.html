@@ -4,11 +4,13 @@
 <html lang="de">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Bildungswege &#8212; Arbeitsmaterialien für Berufsorientierung IT</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet" />
-  <link href="_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,41 +20,56 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/exercise.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/tabs.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.1c5a1a01449ed65a7b51.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
-    <script src="_static/togglebutton.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script src="_static/translations.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script src="_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
-    <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
-    <script>mermaid.initialize({startOnLoad:true});</script>
     <link rel="shortcut icon" href="_static/ec_favicon.png"/>
     <link rel="index" title="Stichwortverzeichnis" href="genindex.html" />
     <link rel="search" title="Suche" href="search.html" />
     <link rel="next" title="Menschen aus der IT" href="guests.html" />
     <link rel="prev" title="Berufsorientierung" href="orientation.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="en" />
+    <meta name="docsearch:language" content="de">
+    
+
+    <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -61,9 +78,10 @@
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
         <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
@@ -78,7 +96,7 @@
     </a>
 </div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
   <i class="icon fas fa-search"></i>
-  <input type="search" class="form-control" name="q" id="search-input" placeholder="Durchsuchen Sie die Dokumente ..." aria-label="Durchsuchen Sie die Dokumente ..." autocomplete="off" >
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search the docs ..." aria-label="Search the docs ..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
         <ul class="current nav bd-sidenav">
@@ -341,15 +359,20 @@
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            
 Im Auftrag des
 <a href="http://www.ams.at/wien"><img src="https://www.ams.at/_images/900_logo_news.jpg" alt="Im Auftrag des AMS Wien"></a>
 
-</div>
-
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -357,61 +380,117 @@ Im Auftrag des
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Navigation umschalten" aria-controls="site-navigation"
-                title="Navigation umschalten" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Laden Sie diese Seite herunter"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/education.md.txt"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Quelldatei herunterladen" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="In PDF drucken"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/education.md.txt"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Vollbildmodus"
-        title="Vollbildmodus"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Inhalt
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#lehre">
    Lehre
@@ -507,24 +586,135 @@ Im Auftrag des
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Bildungswege</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#lehre">
+   Lehre
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#beispiele">
+     Beispiele
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#voraussetzungen">
+     Voraussetzungen
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#dauer">
+     Dauer
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#finanzen">
+     Finanzen
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#kurse-bootcamps-weiterbildungen">
+   Kurse, Bootcamps, Weiterbildungen, …
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#id1">
+     Beispiele
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#id2">
+     Voraussetzungen
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#id3">
+     Dauer
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#id4">
+     Finanzen
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#schule-und-studium">
+   Schule und Studium
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#id5">
+     Beispiele
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#tu-wien">
+   TU Wien
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#fh-campus-wien">
+   FH Campus Wien
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#id6">
+     Voraussetzungen
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#id7">
+     Dauer
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#id8">
+     Finanzen
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="bildungswege">
-<h1>Bildungswege<a class="headerlink" href="#bildungswege" title="Link zu dieser Überschrift">¶</a></h1>
+  <section id="bildungswege">
+<h1>Bildungswege<a class="headerlink" href="#bildungswege" title="Link zu dieser Überschrift">#</a></h1>
 <p>Du weißt was dich interessiert oder welche Berufe zu dir passen könnten.</p>
 <p>Welche Ausbildungen gibt es? Was kommt für mich in Frage?</p>
 <p>Um diese und ähnliche Fragen geht es auf dieser Seite.</p>
-<div class="section" id="lehre">
-<h2>Lehre<a class="headerlink" href="#lehre" title="Link zu dieser Überschrift">¶</a></h2>
-<div class="section" id="beispiele">
-<h3>Beispiele<a class="headerlink" href="#beispiele" title="Link zu dieser Überschrift">¶</a></h3>
+<section id="lehre">
+<h2>Lehre<a class="headerlink" href="#lehre" title="Link zu dieser Überschrift">#</a></h2>
+<section id="beispiele">
+<h3>Beispiele<a class="headerlink" href="#beispiele" title="Link zu dieser Überschrift">#</a></h3>
 <p><em>Welche Lehren gibt es im IT Bereich?</em></p>
 <ul class="simple">
 <li><p>Applikationsentwicklung – Coding,</p></li>
@@ -541,9 +731,9 @@ Im Auftrag des
 <li><p><a class="reference external" href="https://www.wienerlinien.at/lehrlingsausbildung">https://www.wienerlinien.at/lehrlingsausbildung</a></p></li>
 <li><p>Und viele mehr!</p></li>
 </ul>
-</div>
-<div class="section" id="voraussetzungen">
-<h3>Voraussetzungen<a class="headerlink" href="#voraussetzungen" title="Link zu dieser Überschrift">¶</a></h3>
+</section>
+<section id="voraussetzungen">
+<h3>Voraussetzungen<a class="headerlink" href="#voraussetzungen" title="Link zu dieser Überschrift">#</a></h3>
 <p><em>Welche Voraussetzungen muss man mitbringen, um eine Lehre zu absolvieren?</em></p>
 <ul class="simple">
 <li><p><strong>Pflichtschulabschluss</strong></p></li>
@@ -553,40 +743,40 @@ Im Auftrag des
 <li><p>Du arbeitest gerne mit Menschen und kannst auf Kund:innen eingehen.</p></li>
 <li><p>Du bist bereit, dich im Laufe deiner Karriere weiterzubilden und bezüglich Hard- und Software auf dem neusten Stand zu bleiben.</p></li>
 </ul>
-</div>
-<div class="section" id="dauer">
-<h3>Dauer<a class="headerlink" href="#dauer" title="Link zu dieser Überschrift">¶</a></h3>
+</section>
+<section id="dauer">
+<h3>Dauer<a class="headerlink" href="#dauer" title="Link zu dieser Überschrift">#</a></h3>
 <p><em>Wie lange dauert eine Lehre?</em></p>
 <p>3-4 Jahre (mit Matura evtl. kürzer)</p>
-</div>
-<div class="section" id="finanzen">
-<h3>Finanzen<a class="headerlink" href="#finanzen" title="Link zu dieser Überschrift">¶</a></h3>
+</section>
+<section id="finanzen">
+<h3>Finanzen<a class="headerlink" href="#finanzen" title="Link zu dieser Überschrift">#</a></h3>
 <p><em>Welche finanzielle Unterstützung/Entschädigung bekommen man?</em></p>
 <p>Lehrlingsentschädigung:</p>
-<ol class="simple">
+<ol class="arabic simple">
 <li><p>Lehrjahr: 610,- €</p></li>
 <li><p>Lehrjahr: 770,- €</p></li>
 <li><p>Lehrjahr: 950,- €</p></li>
 <li><p>Lehrjahr: 1300,- €</p></li>
 </ol>
-</div>
-</div>
-<div class="section" id="kurse-bootcamps-weiterbildungen">
-<h2>Kurse, Bootcamps, Weiterbildungen, …<a class="headerlink" href="#kurse-bootcamps-weiterbildungen" title="Link zu dieser Überschrift">¶</a></h2>
-<div class="section" id="id1">
-<h3>Beispiele<a class="headerlink" href="#id1" title="Link zu dieser Überschrift">¶</a></h3>
+</section>
+</section>
+<section id="kurse-bootcamps-weiterbildungen">
+<h2>Kurse, Bootcamps, Weiterbildungen, …<a class="headerlink" href="#kurse-bootcamps-weiterbildungen" title="Link zu dieser Überschrift">#</a></h2>
+<section id="id1">
+<h3>Beispiele<a class="headerlink" href="#id1" title="Link zu dieser Überschrift">#</a></h3>
 <p><em>Welche Angebote gibt es?</em></p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://www.waff.at/jobs-ausbildung/jobs-mit-ausbildung/it-jobs-informationstechnologie/junior-software-developer/">Software Entwickler/innen (Förderungsfonds Waff )</a></p></li>
-<li><p><a class="reference external" href="https://everyonecodes.io/programs/ux-design">UX design</a></p></li>
+<li><p><a class="reference external" href="https://everyonecodes.io/programmes/ux-design">UX design</a></p></li>
 <li><p><a class="reference external" href="https://upleveled.io/web-development-bootcamp">WEB DEVELOPMENT</a></p></li>
 <li><p><a class="reference external" href="https://www.smartninja.at/javascript">Javascript</a></p></li>
 <li><p><a class="reference external" href="https://www.smartninja.at/hacking-und-internet-security">Haking und Internet security</a></p></li>
 <li><p>Und viele mehr!</p></li>
 </ul>
-</div>
-<div class="section" id="id2">
-<h3>Voraussetzungen<a class="headerlink" href="#id2" title="Link zu dieser Überschrift">¶</a></h3>
+</section>
+<section id="id2">
+<h3>Voraussetzungen<a class="headerlink" href="#id2" title="Link zu dieser Überschrift">#</a></h3>
 <p><em>Welche Voraussetzungen muss man mitbringen, um diese Kurse zu absolvieren?</em></p>
 <p>Von Kurs zu Kurs verschieden.</p>
 <ul class="simple">
@@ -598,27 +788,27 @@ Im Auftrag des
 <li><p>Gute deutschkenntnisse (Niveau c1).</p></li>
 <li><p>Gute Englischkenntnisse (Niveau B2).</p></li>
 </ul>
-</div>
-<div class="section" id="id3">
-<h3>Dauer<a class="headerlink" href="#id3" title="Link zu dieser Überschrift">¶</a></h3>
+</section>
+<section id="id3">
+<h3>Dauer<a class="headerlink" href="#id3" title="Link zu dieser Überschrift">#</a></h3>
 <p><em>Wie lange dauern diese Angebote?</em></p>
 <p>12 Monate (je nach Kurs)</p>
-</div>
-<div class="section" id="id4">
-<h3>Finanzen<a class="headerlink" href="#id4" title="Link zu dieser Überschrift">¶</a></h3>
+</section>
+<section id="id4">
+<h3>Finanzen<a class="headerlink" href="#id4" title="Link zu dieser Überschrift">#</a></h3>
 <p><em>Wie viel kosten solche Kurse?</em></p>
 <p>Von Kurs zu Kurs verschieden. Förderung durch AMS möglich.</p>
-</div>
-</div>
-<div class="section" id="schule-und-studium">
-<h2>Schule und Studium<a class="headerlink" href="#schule-und-studium" title="Link zu dieser Überschrift">¶</a></h2>
-<div class="section" id="id5">
-<h3>Beispiele<a class="headerlink" href="#id5" title="Link zu dieser Überschrift">¶</a></h3>
+</section>
+</section>
+<section id="schule-und-studium">
+<h2>Schule und Studium<a class="headerlink" href="#schule-und-studium" title="Link zu dieser Überschrift">#</a></h2>
+<section id="id5">
+<h3>Beispiele<a class="headerlink" href="#id5" title="Link zu dieser Überschrift">#</a></h3>
 <p><em>Welche Studienrichtungen gibt es mit IT Bezug?</em></p>
-</div>
-</div>
-<div class="section" id="tu-wien">
-<h2>TU Wien<a class="headerlink" href="#tu-wien" title="Link zu dieser Überschrift">¶</a></h2>
+</section>
+</section>
+<section id="tu-wien">
+<h2>TU Wien<a class="headerlink" href="#tu-wien" title="Link zu dieser Überschrift">#</a></h2>
 <p><img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/TU_Logo.svg/200px-TU_Logo.svg.png" /></p>
 <ul class="simple">
 <li><p>Medieninformatik und Visual Computing</p></li>
@@ -632,9 +822,9 @@ Im Auftrag des
 <li><p>Technische Informatik</p></li>
 <li><p>Wirtschaftsinformatik</p></li>
 </ul>
-</div>
-<div class="section" id="fh-campus-wien">
-<h2>FH Campus Wien<a class="headerlink" href="#fh-campus-wien" title="Link zu dieser Überschrift">¶</a></h2>
+</section>
+<section id="fh-campus-wien">
+<h2>FH Campus Wien<a class="headerlink" href="#fh-campus-wien" title="Link zu dieser Überschrift">#</a></h2>
 <p><img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/FHCampusWien_inkl-gesch%C3%BCtzterBereich.svg/169px-FHCampusWien_inkl-gesch%C3%BCtzterBereich.svg.png" /></p>
 <ul class="simple">
 <li><p>Angewandte Elektronik</p></li>
@@ -642,8 +832,8 @@ Im Auftrag des
 <li><p>Computer Science and Digital Communications</p></li>
 <li><p>Clinical Engineering</p></li>
 </ul>
-<div class="section" id="id6">
-<h3>Voraussetzungen<a class="headerlink" href="#id6" title="Link zu dieser Überschrift">¶</a></h3>
+<section id="id6">
+<h3>Voraussetzungen<a class="headerlink" href="#id6" title="Link zu dieser Überschrift">#</a></h3>
 <p><em>Welche Voraussetzungen muss man mitbringen, um Studium zu absolvieren</em></p>
 <ul class="simple">
 <li><p>Allgemeine Hochschulreife:</p>
@@ -658,16 +848,16 @@ Im Auftrag des
 <li><p>Deutschkenntnisse B2</p></li>
 <li><p>Einschlägige berufliche Qualifikation mit Zusatzprüfungen</p></li>
 </ul>
-</div>
-<div class="section" id="id7">
-<h3>Dauer<a class="headerlink" href="#id7" title="Link zu dieser Überschrift">¶</a></h3>
+</section>
+<section id="id7">
+<h3>Dauer<a class="headerlink" href="#id7" title="Link zu dieser Überschrift">#</a></h3>
 <p><em>Wie lange dauert ein Studium?</em></p>
 <ul class="simple">
 <li><p>Die Studiengänge an der TU Wien und der FH Campus Wien dauern im Durchschnitt 6 Semester.</p></li>
 </ul>
-</div>
-<div class="section" id="id8">
-<h3>Finanzen<a class="headerlink" href="#id8" title="Link zu dieser Überschrift">¶</a></h3>
+</section>
+<section id="id8">
+<h3>Finanzen<a class="headerlink" href="#id8" title="Link zu dieser Überschrift">#</a></h3>
 <p><em>Welche finanzielle Unterstützung/Entschädigung bekommen man?</em></p>
 <ul class="simple">
 <li><p>Studienbeihilfe</p>
@@ -695,61 +885,55 @@ die ein Stipendium beantragen</p></li>
 <li><p>Hier kann man nachsehen, für welche Förderungen man die Anforderungen erfüllt:
 <a class="reference external" href="https://erwachsenenbildung.at/bildungsinfo/kursfoerderung/">https://erwachsenenbildung.at/bildungsinfo/kursfoerderung/</a></p></li>
 </ul>
-</div>
-</div>
-</div>
+</section>
+</section>
+</section>
 
 
               </div>
               
-        
-            
-
-
-
-<div class='prev-next-bottom'>
-    
-    <div id="prev">
-        <a class="left-prev" href="orientation.html" title="zurück Seite">
-            <i class="prevnext-label fas fa-angle-left"></i>
-            <div class="prevnext-info">
-                <p class="prevnext-label">zurück</p>
-                <p class="prevnext-title">Berufsorientierung</p>
-            </div>
-        </a>
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+    <a class='left-prev' id="prev-link" href="orientation.html" title="zurück Seite">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">zurück</p>
+            <p class="prev-next-title">Berufsorientierung</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="guests.html" title="weiter Seite">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">weiter</p>
+        <p class="prev-next-title">Menschen aus der IT</p>
     </div>
-     <div id="next">
-        <a class="right-next" href="guests.html" title="weiter Seite">
-            <div class="prevnext-info">
-                <p class="prevnext-label">weiter</p>
-                <p class="prevnext-title">Menschen aus der IT</p>
-            </div>
-            <i class="prevnext-label fas fa-angle-right"></i>
-        </a>
-     </div>
-
+    <i class="fas fa-angle-right"></i>
+    </a>
 </div>
-        
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-    <div class="container">
-      <p>
-        
-          Durch Claus Aichinger, Olga Drewitz<br/>
-        
-            &copy; Urheberrechte © 2021, everyone codes.<br/>
-      </p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Claus Aichinger, Olga Drewitz<br/>
+  
+      &copy; Copyright 2021, everyone codes.<br/>
+</p>
+        </footer>
     </div>
-  </footer>
-</main>
+    
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
 
-  
+
   </body>
 </html>

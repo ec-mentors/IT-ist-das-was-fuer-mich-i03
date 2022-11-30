@@ -62,7 +62,7 @@ Lehrlingsentschädigung:
 *Welche Angebote gibt es?*
 
 * [Software Entwickler/innen (Förderungsfonds Waff )](https://www.waff.at/jobs-ausbildung/jobs-mit-ausbildung/it-jobs-informationstechnologie/junior-software-developer/)
-* [UX design](https://everyonecodes.io/programs/ux-design)
+* [UX design](https://everyonecodes.io/programmes/ux-design)
 * [WEB DEVELOPMENT](https://upleveled.io/web-development-bootcamp)
 * [Javascript](https://www.smartninja.at/javascript)
 * [Haking und Internet security](https://www.smartninja.at/hacking-und-internet-security)

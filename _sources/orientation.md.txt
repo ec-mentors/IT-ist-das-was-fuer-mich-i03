@@ -75,13 +75,11 @@ Berufsausbildung bzw. Berufswahl nützen wollen; hier erhalten sie
 kompetente Begleitung bei der Berufsorientierung und allem,
 das (sie) bewegt!
 
-### [Frauenberufszentrum (FBZ) Wien](https://www.abzaustria.at/angebote-projekte/abz-frauenberufszentrum-wien)
+### [ABZ*AUSTRIA](https://www.abzaustria.at/de/projekte-abz-austria/abz-beratung-fuer-frauen)
 
-> Das neue FBZ Wien bietet Kundinnen des AMS Wien besondere
-Beratungs- und Betreuungsangebote. Das FBZ unterstützt Frauen
-individuell und kostenlos. Neben Einzelberatungen gibt es
-Workshop-Angebote zu unterschiedlichen Themenschwerpunkten,
-aus denen Kundinnen auswählen können.
+> Die ABZ*Beratung für Frauen wendet sich an Frauen mit Fragen und
+Problemstellungen zu Beruf und Arbeit, die momentan nicht beim AMS
+gemeldet sind.
 
 ### [Bildungswege mit Lobby16](https://www.lobby16.org/projekt-bildungswege/)
 

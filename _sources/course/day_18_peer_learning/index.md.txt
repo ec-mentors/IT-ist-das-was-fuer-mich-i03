@@ -1,6 +1,7 @@
 ---
-substitutions:
-  feedback_link: '[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfYIkqJW5yjLn3BLKrMiFW5EDt3eE9UF64n8uc8--K-xlNORQ/viewform?usp=sf_link)'
+myst:
+  substitutions:
+    feedback_link: '[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfYIkqJW5yjLn3BLKrMiFW5EDt3eE9UF64n8uc8--K-xlNORQ/viewform?usp=sf_link)'
 ---
 # Tag 18: Peer Learning
 

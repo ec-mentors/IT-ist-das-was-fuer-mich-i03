@@ -101,7 +101,7 @@ kannst du einen Blick hinter die Kulissen werfen.
 Sobald du Zugriff auf die Website hast, kannst du Änderungen
 an den Dateien vornehmen.
 
-Jede von euch hat eine Datei in diesem Ordner: https://github.com/ec-mentors/it-ist-das-was-fuer-mich/-/tree/main/source/participants, das ist eure persönliche Seite im
+Jede von euch hat eine Datei in diesem Ordner: https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/tree/main/source/participants, das ist eure persönliche Seite im
 Rahmen unseres Kurses. Genau dort, wollen wir ein paar Updates machen.
 
 Nutze deinen Eintrag auf der Kursseite um dich kurz vorzustellen:
@@ -126,7 +126,7 @@ geben, hier einen Blick hinein zu werfen.
 Wir werden die Kursseite nutzen, um einen stichwortartigen Lebenslauf
 von euch anzulegen.
 
-Gehe auf https://github.com/ec-mentors/it-ist-das-was-fuer-mich/-/tree/main/source/participants
+Gehe auf https://github.com/ec-mentors/IT-ist-das-was-fuer-mich/tree/main/source/participants
 und schau dir die Vorlage an.
 Passe dann deinen persönlichen Eintrag an,
 in dem du dem Vorschlag entsprechend Änderungen an deiner Seite vornimmst.
