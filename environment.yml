@@ -6,14 +6,15 @@ dependencies:
     - make
     - myst-parser
     - pip
-    - python=3.9
+    - python=3.10
     - sphinx
     - pip:
+          - docutils<0.18
+          - jinja2<=3
           - linkify-it-py
           - sphinx-book-theme
           - sphinx-copybutton
           - sphinx-exercise
           - sphinx-tabs
           - sphinx-togglebutton
-          - sphinxcontrib-mermaid
           - sphinxemoji
