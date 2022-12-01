@@ -65,7 +65,14 @@ und vieles mehr.
 
 ### [#futurefactory](https://futurefactory.blog/)
 
-TODO
+> #futurefactory ist ein Projekt des AMS Wien im Rahmen der Wiener Ausbildungsgarantie bis 25 Jahre.
+> Es gibt Angebote rund um
+> * Coaching
+> * Persönlichkeitsentwicklung
+> * Berufskunde
+> * Deutsch, Englisch, Mathe, IT, Werkstatt
+> in Form von Kursen, Workshops und Exkursionen.
+
 
 ### [Mädchen-Berufs-Zentrum (MBZ) bei sprungbrett!](https://sprungbrett.or.at/)
 
@@ -87,7 +94,6 @@ gemeldet sind.
 in eine Lehrausbildung.
 > Gemeinsam mit Unternehmen und unserem Netzwerk an ehemaligen Projektteilnehmer*innen und Ehrenamtlichen bilden wir eine Brücke zwischen dem Pflichtschulabschluss und dem Einstieg in den Arbeitsmarkt.
 > Wir wissen, dass der Beginn und das Durchhalten herausfordend sein können - wir begleiten die Jugendlichen daher in ihre Lehre und sind bis zum Lehrabschluss für sie da!
-
 
 ### [A|B|O Jugend](https://abo-jugend.at/)
 
