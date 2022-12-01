@@ -33,3 +33,5 @@ Welche Beruf kann ich mir vorstellen?
 ## Projektwoche
 
 - [Beispielpräsentation](https://docs.google.com/presentation/d/1Wl9AnKdeVt_1ff5ma7_jYd2nnp-qcXuAavCq0PUe0F4/edit?usp=share_link)
+
+- [Projektpräsentation](https://docs.google.com/presentation/d/1qyLBVOZjivlYfnxl0-G_09inaSzNgzkRvbz8zMG8qsk/edit?usp=sharing)

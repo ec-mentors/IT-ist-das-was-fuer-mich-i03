@@ -23,3 +23,5 @@ Ausbildung & Berufserfahrung:
 ## Projektwoche
 
 - [Beispielpräsentation](https://docs.google.com/presentation/d/1aNJChxFJn68zFPRr3UmH0p7FRcCY9U0Ug5S2srKaSP8/edit?usp=share_link)
+
+- [Projektpräsentation](https://docs.google.com/presentation/d/1-hysWCY7uHWxgoAYaUYgrbVBIk1cpgpTd8D93rOH3nw/edit?usp=sharing)

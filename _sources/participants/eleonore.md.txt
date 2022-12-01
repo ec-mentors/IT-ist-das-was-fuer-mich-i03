@@ -30,3 +30,5 @@
 ## Projektwoche
 
 - [Beispielpräsentation](https://docs.google.com/presentation/d/1xFwveIY-PsrJhy17JOR4NjotweNimQKcJjkWpjgEgwg/edit?usp=share_link)
+
+- [Projektpräsentation](https://docs.google.com/presentation/d/1hTu6iE6vEsrBhaPYrhPC8XYGKUEIeCQUYBdATbpXgCY/edit?usp=sharing)
