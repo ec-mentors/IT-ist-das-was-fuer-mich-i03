@@ -65,15 +65,15 @@ und vieles mehr.
 
 Auf dem [Videoportal des AMS](https://www.karrierevideos.at/berufe/) gibt es einen Einblick zu einigen IT Berufen:
 
-* [Game Designer])(https://www.karrierevideos.at/video/1313-game-designer/)
-* [Internetsystembetreuer*in])(https://www.karrierevideos.at/video/813-internetsystembetreuerin/)
-* [Mechatroniker*in])(https://www.karrierevideos.at/video/1127-mechatronikerin-mechatroniker/)
-* [IT System Engineer])(https://www.karrierevideos.at/video/971-it-system-engineering/)
-* [IT Netzwerktechniker*in])(https://www.karrierevideos.at/video/969-it-netzwerktechnik/)
-* [EDV Analytiker*in])(https://www.karrierevideos.at/video/808-edv-analytikerin/)
-* [IT Web Development])(https://www.karrierevideos.at/video/970-it-web-development/)
-* [Applikationsentwickler*in-Coding])(https://www.karrierevideos.at/video/1310-applikationsentwicklerin-coding/)
-* [EDV-Kaufmann/-frau])(https://www.youtube.com/watch?v=xDN2KWMoNtM)
+* [Game Designer](https://www.karrierevideos.at/video/1313-game-designer/)
+* [Internetsystembetreuer*in](https://www.karrierevideos.at/video/813-internetsystembetreuerin/)
+* [Mechatroniker*in](https://www.karrierevideos.at/video/1127-mechatronikerin-mechatroniker/)
+* [IT System Engineer](https://www.karrierevideos.at/video/971-it-system-engineering/)
+* [IT Netzwerktechniker*in](https://www.karrierevideos.at/video/969-it-netzwerktechnik/)
+* [EDV Analytiker*in](https://www.karrierevideos.at/video/808-edv-analytikerin/)
+* [IT Web Development](https://www.karrierevideos.at/video/970-it-web-development/)
+* [Applikationsentwickler*in-Coding](https://www.karrierevideos.at/video/1310-applikationsentwicklerin-coding/)
+* [EDV-Kaufmann/-frau](https://www.youtube.com/watch?v=xDN2KWMoNtM)
 
 % TODO Whatchadoo verlinken
 
