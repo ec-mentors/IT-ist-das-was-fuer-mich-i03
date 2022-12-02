@@ -12,3 +12,7 @@
 - [Beispielpräsentation](https://docs.google.com/presentation/d/17lbpRA6xH-IBHKxaKKA5b4tA6uEEPaquL8jpiYgtENc/edit?usp=share_link)
 
 - [Projektpräsentation](https://docs.google.com/presentation/d/1iLca0EucVLFW8GUFceM6h00nwu_4d-BL82BtTWYReNo/edit?usp=sharing)
+
+## Nächste Schritte
+
+- [Berufswunsch](https://docs.google.com/presentation/d/1WfySQ--ouFaOTtZR_ieIQL1GTvJdS-oZeNQGJJtOaq8/edit?usp=sharing)

@@ -28,3 +28,7 @@ Ausbildung & Berufserfahrung
 - [Beispielpräsentation](https://docs.google.com/presentation/d/1Teiy5eXkRVQ8IY-S_4EIzVFqOOtCmaFHlc4QCWOKiNo/edit?usp=share_link)
 
 - [Projektpräsentation](https://docs.google.com/presentation/d/1FhroJgTil6nmuyJ770Xhtae9lbFCpGOy_UlgVVmuRpA/edit?usp=sharing)
+
+## Nächste Schritte
+
+- [Berufswunsch](https://docs.google.com/presentation/d/1CBTPwh0D0FZp0WPurR3zB5U0hUA7H5zgB4EbcuFpuW0/edit?usp=sharing)
