@@ -24,3 +24,6 @@
 
 - [Projektpräsentation](https://docs.google.com/presentation/d/1utDwTWmVB_cbss6f3S1MzUQ3cpWFs8Zfzn4ul87lJZk/edit?usp=sharing)
 
+## Nächste Schritte
+
+- [Berufswunsch](https://docs.google.com/presentation/d/1KsxnqiqeajkCCSvtG936aVDMzrVcgnfML8gon0K1r_0/edit?usp=sharing)
