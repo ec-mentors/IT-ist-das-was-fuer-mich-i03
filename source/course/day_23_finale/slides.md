@@ -2,7 +2,7 @@
 marp: true
 theme: default
 header: '![width:200px](../../_static/ec_logo_cropped.png)'
-footer: 'IT, ist das was für mich? Slides von Olga Drewitz und Claus Aichinger (it-orientation@everyonecodes.io)'
+footer: 'IT, ist das was für mich? Slides von Claus Aichinger (it-orientation@everyonecodes.io)'
 paginate: true
 ---
 
@@ -10,7 +10,7 @@ paginate: true
 
 ## Tag 25
 
-Abschluss 🎊
+Projektabschluss und Kursübergang 🎊
 
 ---
 
@@ -18,11 +18,18 @@ Abschluss 🎊
 
 ## Was passiert heute? 🗒️
 
+* Projekte und Präsentationen abschließen
+* Feedback
 * Frühstück
 * Projektpräsentationen
 * Zertifikate
-* Feedback
 * Nächste Schritte
+
+---
+
+# Feedback
+
+Bitte füllt das Feedback Formular auf unserer Kursseite aus.
 
 ---
 
@@ -50,40 +57,41 @@ Wir hoffen, ihr konntet einiges mitnehmen!
 
 ---
 
-# Feedback
+# Wie geht es weiter? 🤔
 
-Bitte füllt das Feedback Formular auf unserer Kursseite aus.
+---
+
+# Rückschau und Ausblick
+
+Bis jetzt:
+
+> IT, ist das was für mich?
+
+Ab jetzt:
+
+> Ja (vielleicht)! Wie komme ich da hin?
 
 ---
 
 # Nächste Schritte
 
-## Wenn ihr noch nicht wisst, wie es weiter gehen soll...
-
-▶️ Es gibt tolle Beratungsangebote!
-
-* Mädchen-Berufs-Zentrum (MBZ) bei sprungbrett
-* Frauenberufszentrum (FBZ)
-* Lobby16
-* A|B|O Jugend
+Fokus:
+* Berufsorientierung
+* Bildungswege
+* Bewerbungen
 
 ---
 
-## Wenn ihr in die IT gehen wollt...
+# Claus verabschiedet sich 👋
 
-▶️ Das AMS bekommt unsere Empfehlung für euch!
-
-* Wir werden auch mit der Kursverantwortlichen beim AMS
-  reden, damit ihr die notwendige Unterstützung bekommt.
-* Karrierewege sind nicht immer gerade - das ist okay.
-* Viel Erfolg bei den weiteren Ausbildungen!
+> Toll, dass ihr dabei wart! 😃
 
 ---
 
-## Wenn ihr etwas anderes tun werdet...
+# Outro 🌅
 
-Auch da wünschen wir euch alles, alles Gute!
+## Retrospektive
 
----
-
-# Toll, dass ihr dabei wart! 😃
+* Wie war die Projektwoche für dich?
+* Worauf bist du stolz?
+* War nimmst du mit für die nächsten Wochen?

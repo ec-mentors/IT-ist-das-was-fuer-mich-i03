@@ -1,7 +1,7 @@
 ---
 myst:
   substitutions:
-    feedback_link: '[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfQznmMspwBTtrHH5sxFycuvxenWmQvpKdP-7QF80IIHwZZpw/viewform?usp=sf_link)'
+    feedback_link: '[Feedback](https://forms.gle/ywJgSAC77C3itHFK7)'
 ---
 # Tag 23: Frühstück, Abschluss und Ausblick
 
@@ -19,8 +19,7 @@ den weiteren Berufsweg alles, alles Gute!!**
 
 ## Feedback
 
-Die Umfrage ist etwas ausführlicher als sonst, weil es um
-den Kurs als Ganzes geht.
+Wie war die Projektwoche für dich?
 
 % supply link to feedback form in through the preamble's feedback_link variable
 {{ ask_for_feedback }}
@@ -28,7 +27,7 @@ den Kurs als Ganzes geht.
 
 ## Webseite und Weiterlernen
 
-Die Webseite wird noch ein paar Tage online bleiben.
+Die Webseite wird noch länger Tage online bleiben.
 
 Wenn es Seiten gibt, die ihr speichern wollt, ladet diese bitte
 als PDF oder Markdown herunter (siehe Download-Button recht oben).
@@ -57,7 +56,7 @@ unter {ref}`Selber Lernen <learning_target>` gesammelt.
 >
 > Jeder einzelnen von euch wünsche ich alles, alles Gute!
 >
-> Ganz liebe Grüße aus der Quarantäne, <br>
+> Ganz liebe Grüße, <br>
 > Claus
 >
 > PS: Es würde mich freuen in Zukunft von euch zu hören.
