@@ -12,14 +12,22 @@ Um diese und ähnliche Fragen geht es auf dieser Seite.
 
 *Welche Lehren gibt es im IT Bereich?*
 
-* Applikationsentwicklung – Coding,
+**Videos:**
+* [Applikationsentwicklung-Coding](https://www.youtube.com/watch?v=HIYNtgVid4w&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=10)
+* [Elektronik-Angewandte Elektronik](https://www.youtube.com/watch?v=TscYHebkwfc&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=40)
+* [Elektrotechnik-Elektro- und Gebäudetechnik](https://www.youtube.com/watch?v=dBv7a6BhLJA&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=35)
+* [Mechatronik - Automatisierungstechnik](https://www.youtube.com/watch?v=szleLKKVF4k&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=41)
+* [Informationstechnologie - Informatik](https://www.youtube.com/watch?v=_-xh9IBl1EI&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=43)
+* [Elektrotechnik-Automatisierungs- und Prozessleittechnik](https://www.youtube.com/watch?v=8ETgNZkQyAY&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=47)
+
+Außerdem gibt es noch:
 * Informationstechnologie – Schwerpunkt Systemtechnik
 * Informationstechnologie –Schwerpunkt Betriebstechnik
-* ELEKTROTECHNIK – ANLAGEN- UND BETRIEBS­TECHNIK
 * EDV-Kaufmann / EDV-Kauffrau
-* ELEKTRONIK – INFORMATIONS- UND TELE­KOMMUNIKATIONS­TECHNIK
+* ...
 
 Links:
+* [Einige von uns recherchierte Lehrstellen](https://docs.google.com/spreadsheets/d/1kj5LgGYDuBvxP11F6OAgPpWsyINekqs-hecn6tnTS5A/edit#gid=0)
 * https://www.oeamtc.at/karriere-portal/ (gibt auch Angebote für Lehrlinge)
 * https://www.nasicher.at/de/technisch
 * https://www.wienerlinien.at/lehrlingsausbildung
@@ -67,6 +75,8 @@ Lehrlingsentschädigung:
 * [Javascript](https://www.smartninja.at/javascript)
 * [Haking und Internet security](https://www.smartninja.at/hacking-und-internet-security)
 * Und viele mehr!
+
+
 
 ### Voraussetzungen
 
