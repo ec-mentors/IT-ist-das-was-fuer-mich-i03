@@ -1,6 +1,7 @@
 # Bildungswege
 
-Du weißt was dich interessiert oder welche Berufe zu dir passen könnten.
+Du weißt, was dich interessiert oder welche Berufe zu dir passen
+könnten.
 
 Welche Ausbildungen gibt es? Was kommt für mich in Frage?
 
@@ -12,31 +13,37 @@ Um diese und ähnliche Fragen geht es auf dieser Seite.
 
 *Welche Lehren gibt es im IT Bereich?*
 
-* Applikationsentwicklung – Coding,
-* Informationstechnologie – Schwerpunkt Systemtechnik
-* Informationstechnologie –Schwerpunkt Betriebstechnik
-* ELEKTROTECHNIK – ANLAGEN- UND BETRIEBS­TECHNIK
-* EDV-Kaufmann / EDV-Kauffrau
-* ELEKTRONIK – INFORMATIONS- UND TELE­KOMMUNIKATIONS­TECHNIK
+Es gibt sehr viele verschiedene Arten von
+Lehren, [hier](https://it-lehre.wien/) ist eine Seite, die wichtige
+Informationen zusammenfasst. Trotzdem ein paar konkrete
+Beispiele:
+
+* [Applikationsentwicklung – Coding](https://www.wko.at/service/bildung-lehre/berufs-und-brancheninfo-applikationsentwicklung-coding.html)
+* [Informationstechnologie – Schwerpunkt Systemtechnik](https://www.wko.at/service/bildung-lehre/berufs-brancheninfo-informationstechnologie-systemtechnik.html)
+* [Informationstechnologie – Schwerpunkt Betriebstechnik](https://www.wko.at/service/bildung-lehre/berufs-brancheninfo-informationstechnologie-betriebstechnik.html)
+* [EDV-Kaufmann / EDV-Kauffrau](https://www.wko.at/service/bildung-lehre/berufs-und-brancheninfo-edv-kaufmannfrau.html)
 
 Links:
-* https://www.oeamtc.at/karriere-portal/ (gibt auch Angebote für Lehrlinge)
+
+* https://www.oeamtc.at/karriere-portal/ (gibt auch Angebote für
+  Lehrlinge)
 * https://www.nasicher.at/de/technisch
 * https://www.wienerlinien.at/lehrlingsausbildung
 * Und viele mehr!
 
-
 ### Voraussetzungen
 
-*Welche Voraussetzungen muss man mitbringen, um eine Lehre zu absolvieren?*
+*Welche Voraussetzungen muss man mitbringen, um eine Lehre zu
+absolvieren?*
 
 * **Pflichtschulabschluss**
 * Du hast Spaß am Umgang mit PCs, Software und Apps.
-* Du bist kommunikativ, arbeitest gerne im Team und liebst neue Herausforderungen.
+* Du bist kommunikativ, arbeitest gerne im Team und liebst neue
+  Herausforderungen.
 * Du arbeitest gerne selbstständig und eigenverantwortlich.
 * Du arbeitest gerne mit Menschen und kannst auf Kund:innen eingehen.
-* Du bist bereit, dich im Laufe deiner Karriere weiterzubilden und bezüglich Hard- und Software auf dem neusten Stand zu bleiben.
-
+* Du bist bereit, dich im Laufe deiner Karriere weiterzubilden und
+  bezüglich Hard- und Software auf dem neusten Stand zu bleiben.
 
 ### Dauer
 
@@ -48,123 +55,170 @@ Links:
 
 *Welche finanzielle Unterstützung/Entschädigung bekommen man?*
 
-Lehrlingsentschädigung:
-1. Lehrjahr: 610,- €
-1. Lehrjahr: 770,- €
-1. Lehrjahr: 950,- €
-1. Lehrjahr: 1300,- €
+Die Entschädigung als Lehrling hängt grundsätzlich vom Lehrberuf ab.
+Als IT-Techniker beträgt diese zum Beispiel kollektivvertraglich
+mindestens:
 
+1. Lehrjahr: 730€
+1. Lehrjahr: 900€
+1. Lehrjahr: 1.080€
+1. Lehrjahr: 1.410€
 
-## Kurse, Bootcamps, Weiterbildungen, ...
+## Kurse
 
 ### Beispiele
 
 *Welche Angebote gibt es?*
 
-* [Software Entwickler/innen (Förderungsfonds Waff )](https://www.waff.at/jobs-ausbildung/jobs-mit-ausbildung/it-jobs-informationstechnologie/junior-software-developer/)
-* [UX design](https://everyonecodes.io/programs/ux-design)
-* [WEB DEVELOPMENT](https://upleveled.io/web-development-bootcamp)
-* [Javascript](https://www.smartninja.at/javascript)
-* [Haking und Internet security](https://www.smartninja.at/hacking-und-internet-security)
-* Und viele mehr!
+Je nachdem in welcher Programmiersprache du dich vertiefen willst (bzw.
+in welchen Teilbereich der Informatik) gibt es verschiedene Kursangebote, die sich auch in Länge und Dauer unterscheiden.
+
+Einerseits gibt es Kurse, die direkt von Organisationen angeboten
+werden, wie zum Beispiel:
+
+* [Java Basic](https://everyonecodes.io/programmes/java-basic), [Java Advanced](https://everyonecodes.io/programmes/java-advanced) von everyone codes
+* [Python Programming](https://codefactory.wien/en/python-programming-en/), [Full Stack Web Development](https://codefactory.wien/en/full-stack-web-developer-en/) von Code Factory
+* [Java für Einsteiger:innen](https://www.wifiwien.at/kurs/18171x-ausbildung-zum-geprueften-software-developer-java-fuer-einsteigerinnen) vom WIFI
+* [Software Entwickler/innen](https://www.waff.at/jobs-ausbildung/jobs-mit-ausbildung/it-jobs-informationstechnologie/junior-software-developer/) vom waff
+* [Web Development Bootcamp](https://upleveled.io/web-development-bootcamp) von upLeveled
+* Und viele weitere!
+
+Wenn du jemand bist, der auch sehr gerne eigenständig lernt, gibt es allerdings
+auch viele Webseiten wo Online-Kurse für spezifische
+Programmiersprachen angeboten werden, zum Beispiel auf:
+
+* [Udemy](https://www.udemy.com/)
+* [Coursera](https://www.coursera.org/)
 
 ### Voraussetzungen
 
-*Welche Voraussetzungen muss man mitbringen, um diese Kurse zu absolvieren?*
+*Welche Voraussetzungen muss man mitbringen, um diese Kurse zu
+absolvieren?*
 
-Von Kurs zu Kurs verschieden.
+Von Kurs zu Kurs verschieden, aber mögliche Voraussetzungen könnten
+sein:
 
 * Matura, Berufsreifeprüfung, abgeschlossene Lehre.
 * Beim AMS Wien arbeitslos oder arbeitsuchend gemeldet.
 * Mindestalter: 20 Jahre.
 * Hauptwohnsitz Wien.
 * Sehr gute EDV-Kenntnisse.
-* Gute deutschkenntnisse (Niveau c1).
+* Gute Deutschkenntnisse (Niveau C1).
 * Gute Englischkenntnisse (Niveau B2).
 
 ### Dauer
 
 *Wie lange dauern diese Angebote?*
 
-12 Monate (je nach Kurs)
+Je nach Art des Kurses zwischen ein paar Tagen (für "Schnupperkurse")
+bis zu mehreren Monaten (für tiefgehendere Kurse). Online-Kurse können
+oft im eigenen Rhythmus absolviert werden.
 
 ### Finanzen
 
 *Wie viel kosten solche Kurse?*
 
-Von Kurs zu Kurs verschieden. Förderung durch AMS möglich.
+Von Kurs zu Kurs verschieden. Bei manchen Kursen ist eine Förderung
+durch das AMS möglich.
 
-
-## Schule und Studium
+## Schule
 
 ### Beispiele
 
-*Welche Studienrichtungen gibt es mit IT Bezug?*
+*In welchen Schulen kann ich mich in die IT-Richtung weiterbilden?*
 
-## TU Wien
-
-![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/TU_Logo.svg/200px-TU_Logo.svg.png)
-
-* Medieninformatik und Visual Computing
-* Medizinische Informatik
-* Software & Information
-* Technische Informatik
-* Wirtschaftsinformatik
-* Medieninformatik und Visual Computing
-* Medizinische Informatik
-* Software & Information Engineering
-* Technische Informatik
-* Wirtschaftsinformatik
-
-## FH Campus Wien
-![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/FHCampusWien_inkl-gesch%C3%BCtzterBereich.svg/169px-FHCampusWien_inkl-gesch%C3%BCtzterBereich.svg.png)
-
-* Angewandte Elektronik
-* High Tech Manufacturing
-* Computer Science and Digital Communications
-* Clinical Engineering
+* [Informatik](https://www.spengergasse.at/?page_id=2114), [Medizininformatik](https://www.spengergasse.at/?page_id=2112) (HTL Spengergasse)
+* [Informatik (Abendschule)](https://www.htlwienwest.at/abendschule-informatik/#) (HTL Wien West)
+* Und noch viele andere HTLs...
 
 ### Voraussetzungen
 
-*Welche Voraussetzungen muss man mitbringen, um Studium zu absolvieren*
+* Erfolgreicher Abschluss der 8. Schulstufe.
+* In manchen Fällen muss man auch eine Aufnahmeprüfung machen.
+
+### Dauer
+
+* 5 Jahre
+
+## Studium
+
+### Beispiele
+
+Welche Einrichtungen und Studienrichtungen gibt es mit IT-Bezug?
+
+#### Universität
+
+* TU Wien
+    * [Software and Information Engineering](https://informatics.tuwien.ac.at/bachelor/software-and-information-engineering/)
+    * [Medieninformatik und Visual Computing](https://informatics.tuwien.ac.at/bachelor/medieninformatik-und-visual-computing/)
+    * [Technische Informatik](https://informatics.tuwien.ac.at/bachelor/technische-informatik/)
+    * [Medizinische Informatik](https://informatics.tuwien.ac.at/bachelor/medizinische-informatik/)
+    * [Wirtschaftsinformatik](https://informatics.tuwien.ac.at/bachelor/wirtschaftsinformatik/)
+* Universität Wien
+    * [Informatik](https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-informatik/)
+    * [Wirtschaftsinformatik](https://informatik.univie.ac.at/studium/studienangebot/bachelor/bachelor-wirtschaftsinformatik/)
+* TU Graz
+    * [Informatik](https://www.tugraz.at/studium/studienangebot/bachelorstudien/informatik#c340410)
+
+#### Fachhochschule
+
+* FH Campus Wien
+    * [Angewandte Elektronik](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/angewandte-elektronik-bachelor.html)
+    * [Computer Science and Digital Communications](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/computer-science-and-digital-communications-vollzeit.html)
+    * [Clinical Engineering](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/clinical-engineering-bachelor.html)
+    * [High Tech Manufacturing](https://www.fh-campuswien.ac.at/studium-weiterbildung/studien-und-lehrgangsangebot/high-tech-manufacturing-bachelor.html)
+
+* FH Technikum Wien
+    * Zu viele zum
+      Auflisten, [hier](https://www.technikum-wien.at/studium/) ist
+      eine Übersicht.
+
+### Voraussetzungen
+
+*Welche Voraussetzungen muss man mitbringen, um ein Studium zu
+absolvieren?*
 
 * Allgemeine Hochschulreife:
-    - Reifezeugnis einer Allgemeinbildenden oder Berufsbildenden Höheren Schule
+    - Reifezeugnis einer Allgemeinbildenden oder Berufsbildenden
+      Höheren Schule
     - Berufsreifeprüfung
-    - Gleichwertiges ausländisches Zeugnis (=gleichwertig ist es, wenn es völkerrechtlich vereinbart ist oder nostrifiziert wurde. Die Studiengangsleitung kann das Zeugnis auch im Einzelfall anerkennen.)
-* Studienberechtigungsprüfung (Elektrotechnik oder Informatik)
-* Studienbeihilfe zur Studienberechtigungsprüfung/Zusatzprüfung
-* Deutschkenntnisse B2
-* Einschlägige berufliche Qualifikation mit Zusatzprüfungen
-
+    - Gleichwertiges ausländisches Zeugnis (=gleichwertig ist es, wenn
+      es völkerrechtlich vereinbart ist oder nostrifiziert wurde. Die
+      Studiengangsleitung kann das Zeugnis auch im Einzelfall
+      anerkennen.)
+* Falls keine
+  Matura, [Studienberechtigungsprüfung möglich](https://www.tuwien.at/studium/zulassung/studieren-ohne-matura).
+* A2 Deutschkentnisse bei Antragsstellung, C1 Deutschkenntnisse für
+  Zulassung zum ordentlichen Studium.
 
 ### Dauer
 
 *Wie lange dauert ein Studium?*
-* Die Studiengänge an der TU Wien und der FH Campus Wien dauern im Durchschnitt 6 Semester.
+
+* Bei den FHs ist eine Studiendauer von 3 Jahren vorgesehen.
+* Bei der Universität ist eine Studiendauer von 3 Jahren vorgesehen.
+  In der Realität repräsentiert das aber nur die Mindeststudiendauer,
+  im Durchschnitt braucht man c.a. 4 Jahre für ein Studium in diesem
+  Bereich.
 
 ### Finanzen
 
-*Welche finanzielle Unterstützung/Entschädigung bekommen man?*
+*Welche finanzielle Unterstützung/Entschädigung kann man bekommen?*
 
-* Studienbeihilfe
-   - Zwischen 5 € -  475 € im Monat
-   - Ausnahme 679 € für Studierende (Entfernung am Studienort, Eltern verstorben,  Selbsterhalter*innen-Stipendium beziehende)
-   - bei Bezug der Studienbeihilfe erhalten die Studierenden den Studienbeitrag von 376,36 Euro zurück erstattet.
-* Leistungsstipendium der FH Campus Wien
-   - Voraussetzung ist ein Notendurchschnitt von ≤ 2,00 (auf zwei Kommastellen gerundet). Für die Berechnung werden die Studienleistungen
-   Studienjahres herangezogen. Die Höhe des Stipendiums beträgt rund 1.000 Euro, ist jedoch abhängig von der Anzahl der Studierenden,
-   die ein Stipendium beantragen
-* Zusätzliche Beihilfen:
-* Wohnbeihilfe (MA 50)
-* Familienbeihilfe
-* WAFF - Wiener Arbeitnehmer*innen Förderungsfonds
-* WAFF - Wiener Arbeitnehmer*innen Förderungsfonds – Stiftung Jugend & Zukunftsberufe
-  -für ausgewählte Bachelorstudiengänge in den Bereichen Gesundheits- und Krankenpflege, Soziales und Technik,..
-* NÖ Bildungsförderung
-* AMS
-* Hier kann man nachsehen, für welche Förderungen man die Anforderungen erfüllt:
- <https://erwachsenenbildung.at/bildungsinfo/kursfoerderung/>
+* **Studienbeihilfe**: Wenn die Eltern das Studium des Kindes nicht
+  mit eigenen Mitteln bezahlen können (max. 923€ im Monat).
+* **Studienzuschuss**: Studienbeihilfebezieher erhalten den vollen
+  Studienbeitrag in Form eines Zuschusses refundiert.
+* **Selbsterhaltungsstipendium**: Für Leute, die vor ihrem Studium
+  schon eine Zeit lang gearbeitet haben (max 801€ im Monat).
+* **Leistungsstipendium**: Bei hervorragenden Leistungen im Studium (
+  750€ - 1500€ pro Studienjahr).
+* **Wohnbeihilfe für Studenten** (mehr
+  Informationen [hier](https://www.studieren.at/studienfinanzierung/wohnbeihilfe/))
+* **Familienbeihilfe für Studenten**: Wenn du studierst hast du noch
+  bis zum 24. Lebensjahr Anspruch auf Familienbeihilife (
+  siehe [hier](https://www.studieren.at/studienfinanzierung/familienbeihilfe/))
+  .
 
 
 
