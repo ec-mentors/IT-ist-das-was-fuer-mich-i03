@@ -13,12 +13,12 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-
+import datetime
 
 # -- Project information -----------------------------------------------------
 
 project = "IT, ist das was für mich?"
-copyright = "2021, everyone codes"
+copyright = f"{datetime.date.today().year}, everyone codes"
 author = "Claus Aichinger, Olga Drewitz"
 
 # https://sphinx-book-theme.readthedocs.io/en/latest/customize/sidebar-primary.html
