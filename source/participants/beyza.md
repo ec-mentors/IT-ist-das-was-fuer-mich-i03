@@ -16,3 +16,4 @@
 ## Nächste Schritte
 
 - [Berufswunsch](https://docs.google.com/presentation/d/1WfySQ--ouFaOTtZR_ieIQL1GTvJdS-oZeNQGJJtOaq8/edit?usp=sharing)
+- [Lebenslauf](https://docs.google.com/document/d/1_vmjPeTPBeGHvIn6nO4ZK3AW5Oot5mD9P3eduawCYOo/edit)

@@ -26,3 +26,4 @@ Ausbildung & Berufserfahrung
 ## Nächste Schritte
 
 - [Berufswunsch](https://docs.google.com/presentation/d/1ykuUynJ-TMwR1HMLsWz3eZroKhLS43pFrvNvxcgSgxA/edit?usp=sharing)
+- [Lebenslauf](https://docs.google.com/document/d/1Z35eD-drq8VV9ZnDUMyenGQLk-dl69_P2dVqDGYsQvw/edit)

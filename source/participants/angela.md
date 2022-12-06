@@ -32,3 +32,4 @@ Ausbildung & Berufserfahrung
 ## Nächste Schritte
 
 - [Berufswunsch](https://docs.google.com/presentation/d/1CBTPwh0D0FZp0WPurR3zB5U0hUA7H5zgB4EbcuFpuW0/edit?usp=sharing)
+- [Lebenslauf](https://docs.google.com/document/d/1Q_p3nfuC7THpxwTzGiQYkgC8tqwTV3G_z2WzW9GvhnA/edit)

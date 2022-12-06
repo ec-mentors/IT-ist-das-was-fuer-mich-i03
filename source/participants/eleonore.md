@@ -36,3 +36,4 @@
 ## Nächste Schritte
 
 - [Berufswunsch](https://docs.google.com/presentation/d/1Lqlr9yywdu5CyoRnemU-U6JCQr9n4q2lHetvF1mDWgA/edit?usp=sharing)
+- [Lebenslauf](https://docs.google.com/document/d/1g-nv2LtP20jnXeR-VE0YY-S6b4xyEon8dpcV0eywoAg/edit?usp=drive_web&ouid=116279722375095095256)

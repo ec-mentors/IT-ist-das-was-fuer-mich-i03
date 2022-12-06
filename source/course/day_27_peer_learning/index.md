@@ -60,5 +60,6 @@ Perfekt - dann schicke ihn uns per Mail an it-orientation@everyonecodes.io.
 
 Wenn du noch keinen hast, dann erstelle bis Sonntag einen und schicke ihn uns.
 
-Damit es dir etwas leichter fällt, haben wir eine Vorlage (TODO Link), mit der du arbeiten kannst.
+Damit es dir etwas leichter fällt, haben wir auf deiner {ref}`Kursseite <participants_target_>`
+eine Vorlage angelegt, mit der du arbeiten kannst.
 ```
