@@ -7,7 +7,20 @@ Welche Ausbildungen gibt es? Was kommt für mich in Frage?
 
 Um diese und ähnliche Fragen geht es auf dieser Seite.
 
-% TODO: Intro
+% TODO: Bitte hervorheben, dass wir hier nur beispielhaft Infos sammeln.
+
+% TODO: Bitte Intro einfügen "Welche Möglichkeisten gibt es?"
+% * Lehre
+% * Schule & Kolleg
+% * Studium
+% * Kurs
+
+% TODO: Bitte Abschnitt mit Reflexionsfragen einfügen
+%       Fragen die mir helfen mich zu orientieren.
+% * Worin unterscheiden sich Varianten?
+% * Will ich Tiefe (Kurs) vs Breite (Schule, Studium)
+% * Wieviel Struktur brauche ich? (Wie viel Betreuung)
+% * Wie sieht mein persönlicher Rahmen aus? (Geld, Zeit, ...)
 
 ## Lehre
 
@@ -22,6 +35,7 @@ Beispiele:
 
 **Videos:**
 * [Applikationsentwicklung-Coding](https://www.youtube.com/watch?v=HIYNtgVid4w&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=10)
+  * [Beschreibung der Wirtschaftskammer](https://www.wko.at/service/bildung-lehre/berufs-und-brancheninfo-applikationsentwicklung-coding.html)
 * [Elektronik-Angewandte Elektronik](https://www.youtube.com/watch?v=TscYHebkwfc&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=40)
 * [Elektrotechnik-Elektro- und Gebäudetechnik](https://www.youtube.com/watch?v=dBv7a6BhLJA&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=35)
 * [Mechatronik - Automatisierungstechnik](https://www.youtube.com/watch?v=szleLKKVF4k&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=41)
@@ -29,15 +43,14 @@ Beispiele:
 * [Elektrotechnik-Automatisierungs- und Prozessleittechnik](https://www.youtube.com/watch?v=8ETgNZkQyAY&list=PLzdy6a59zb8xCYtC_mQh3_Va5Me--1BK6&index=47)
 
 Außerdem gibt es noch:
-* [Applikationsentwicklung – Coding](https://www.wko.at/service/bildung-lehre/berufs-und-brancheninfo-applikationsentwicklung-coding.html)
 * [Informationstechnologie – Schwerpunkt Systemtechnik](https://www.wko.at/service/bildung-lehre/berufs-brancheninfo-informationstechnologie-systemtechnik.html)
 * [Informationstechnologie – Schwerpunkt Betriebstechnik](https://www.wko.at/service/bildung-lehre/berufs-brancheninfo-informationstechnologie-betriebstechnik.html)
 * [EDV-Kaufmann / EDV-Kauffrau](https://www.wko.at/service/bildung-lehre/berufs-und-brancheninfo-edv-kaufmannfrau.html)
 
-Ein paar derzeit offene Lehrstellen:
+Ein paar derzeit offene Lehrstellen von uns recherchiert:
 * [Lehrstellensammlung](https://docs.google.com/spreadsheets/d/1kj5LgGYDuBvxP11F6OAgPpWsyINekqs-hecn6tnTS5A/edit#gid=0)
 
-
+% TBD: entfernen
 Links:
 * https://www.oeamtc.at/karriere-portal/ (gibt auch Angebote für Lehrlinge)
 * https://www.nasicher.at/de/technisch
@@ -84,23 +97,21 @@ mindestens:
 
 *Welche Angebote gibt es?*
 
-Wenn du dich zu einem konkreten Thema weiterbilden möchtest, gibt es verschiedene Kursangebote, 
+Wenn du dich zu einem konkreten Thema weiterbilden möchtest, gibt es verschiedene Kursangebote,
 die möglicherweise für dich in Frage kommen.
 Es gibt wirklich sehr viele Angebote, das hier sind also nur ein paar Beispiele.
 
-Einerseits gibt es Kurse, die direkt von Organisationen angeboten
-werden, wie zum Beispiel:
+Hier ein paar Beispiele von unterschiedlichen Kursanbietern:
 
 * [Java Basic](https://everyonecodes.io/programmes/java-basic), [Java Advanced](https://everyonecodes.io/programmes/java-advanced) von everyone codes
 * [Python Programming](https://codefactory.wien/en/python-programming-en/), [Full Stack Web Development](https://codefactory.wien/en/full-stack-web-developer-en/) von Code Factory
 * [Java für Einsteiger:innen](https://www.wifiwien.at/kurs/18171x-ausbildung-zum-geprueften-software-developer-java-fuer-einsteigerinnen) vom WIFI
 * [Software Entwickler/innen](https://www.waff.at/jobs-ausbildung/jobs-mit-ausbildung/it-jobs-informationstechnologie/junior-software-developer/) vom waff
 * [Web Development Bootcamp](https://upleveled.io/web-development-bootcamp) von upLeveled
-* Und viele weitere!
+* Und viele weitere! Schau' am besten selber nach!
 
 Wenn du jemand bist, der auch sehr gerne eigenständig lernt, gibt es allerdings
-auch viele Webseiten wo Online-Kurse für spezifische
-Programmiersprachen angeboten werden, zum Beispiel auf:
+auch viele Webseiten wo Online-Kurse zu bestimmten Themen angeboten werden, zum Beispiel auf:
 
 * [Udemy](https://www.udemy.com/)
 * [Coursera](https://www.coursera.org/)
@@ -112,7 +123,7 @@ Programmiersprachen angeboten werden, zum Beispiel auf:
 *Welche Voraussetzungen muss man mitbringen, um diese Kurse zu
 absolvieren?*
 
-Von Kurs zu Kurs verschieden, aber mögliche Voraussetzungen könnten
+Das ist von Kurs zu Kurs verschieden, mögliche Voraussetzungen könnten
 sein:
 
 * Matura, Berufsreifeprüfung, abgeschlossene Lehre.
@@ -140,7 +151,10 @@ durch das AMS möglich.
 
 ## Schule
 
-% TODO Kolleg, ausbauen
+% TODO: Bitte noch erweitern
+% Für dich zur Info https://de.wikipedia.org/wiki/Kolleg#%C3%96sterreich
+% wobei man für eine facheinschlägige Ausbilung keine Matura haben muss
+% Wie die Voraussetzungen aussehen, ist zum Teil sehr unterschiedlich
 
 ### Beispiele
 
@@ -191,6 +205,7 @@ durch das AMS möglich.
     * Zu viele zum
       Auflisten, [hier](https://www.technikum-wien.at/studium/) ist
       eine Übersicht.
+% TODO: Bitte ein ein paar Links und dann verweisen auf die Übersicht.
 
 ### Voraussetzungen
 
@@ -236,14 +251,4 @@ absolvieren?*
   Informationen [hier](https://www.studieren.at/studienfinanzierung/wohnbeihilfe/))
 * **Familienbeihilfe für Studenten**: Wenn du studierst hast du noch
   bis zum 24. Lebensjahr Anspruch auf Familienbeihilife (
-  siehe [hier](https://www.studieren.at/studienfinanzierung/familienbeihilfe/))
-  .
-
-
-
-
-
-
-
-
-
+  siehe [hier](https://www.studieren.at/studienfinanzierung/familienbeihilfe/)).
