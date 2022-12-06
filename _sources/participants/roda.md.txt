@@ -39,3 +39,4 @@ Welche Beruf kann ich mir vorstellen?
 ## Nächste Schritte
 
 - [Berufswunsch](https://docs.google.com/presentation/d/1nus_ZGp4OPBSqher-0SQ3gESU8Yzy0cR5FoF5AVAzVs/edit?usp=sharing)
+- [Lebenslauf](https://docs.google.com/document/d/13xDIiZ3bo1zcin52BRl2G-RvaWzUe-cQxyfxOQ-itZg/edit)

@@ -13,3 +13,4 @@ In meiner Freizeit tue ich am liebsten Kochen und Backen.
 ## Nächste Schritte
 
 - [Berufswunsch](https://docs.google.com/presentation/d/18Q4HmLWFOT18d9OoP6FW0_9MraVxJnvD4zkOyO2zTgY/edit?usp=sharing)
+- [Lebenslauf](https://docs.google.com/document/d/1qRle_J7NMJeZqyFRhWJxsqiRNB0jUczwm5jlU5h8m08/edit)
