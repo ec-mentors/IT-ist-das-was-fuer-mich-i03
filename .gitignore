@@ -3,6 +3,8 @@ public
 *private*
 linkcheck.txt
 
+.idea
+
 ## Compiled slides
 slides.html
 
