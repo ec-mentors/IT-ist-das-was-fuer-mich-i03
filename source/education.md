@@ -48,7 +48,7 @@ Außerdem gibt es noch:
 * [EDV-Kaufmann / EDV-Kauffrau](https://www.wko.at/service/bildung-lehre/berufs-und-brancheninfo-edv-kaufmannfrau.html)
 
 Ein paar derzeit offene Lehrstellen von uns recherchiert:
-* [Lehrstellensammlung](https://docs.google.com/spreadsheets/d/1kj5LgGYDuBvxP11F6OAgPpWsyINekqs-hecn6tnTS5A/edit#gid=0)
+* [Lehrstellensammlung](https://docs.google.com/spreadsheets/d/1kj5LgGYDuBvxP11F6OAgPpWsyINekqs-hecn6tnTS5A/)
 
 % TBD: entfernen
 Links:

@@ -150,4 +150,5 @@ linkcheck_ignore = [
     r'https://www.waveshare.com/piano-for-micro-bit.htm',
     r'https://www.waveshare.com/media/catalog/product/cache/1/thumbnail/122x122/9df78eab33525d08d6e5fb8d27136e95/p/i/piano-for-micro-bit-4.jpg',
     r'https://abo-jugend.at/',
+    r'https://www.spengergasse.at/',
 ]
