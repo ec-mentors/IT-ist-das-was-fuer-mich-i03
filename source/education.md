@@ -1,26 +1,35 @@
 # Bildungswege
 
-Du weißt, was dich interessiert oder welche Berufe zu dir passen
-könnten.
+Du bist dir sicher, dass du den Weg in die IT einschlagen willst, weißt aber nicht,
+was für Möglichkeiten es gibt und inwiefern sich diese voneinander unterscheiden? 
+Dann solltest du auf dieser Seite weiterlesen. Du wirst hier eine Liste von verschiedenen
+Bildungswegen finden, die du einschlagen kannst, um dich in der IT fortzubilden. Zu jedem Bildungsweg
+werden auch ein paar Beispiele für konkrete Institutionen angegeben, die für diesen Bildungsweg relevant sind. 
 
-Welche Ausbildungen gibt es? Was kommt für mich in Frage?
+Bedenke aber, dass das Ziel dieser Seite lediglich ist, einen groben Überblick 
+über die verschiedenen Möglichkeiten zu schaffen. Die angegebenen Informationen sind keineswegs
+vollständig und nur exemplarisch.
 
-Um diese und ähnliche Fragen geht es auf dieser Seite.
+## Überblick
 
-% TODO: Bitte hervorheben, dass wir hier nur beispielhaft Infos sammeln.
+Im Grunde kann man zwischen den folgenden Bildungswegen unterscheiden.
 
-% TODO: Bitte Intro einfügen "Welche Möglichkeisten gibt es?"
-% * Lehre
-% * Schule & Kolleg
-% * Studium
-% * Kurs
+* **Lehre**: Bei der Lehre hast du die Möglichkeit, nach Abschluss
+der Pflichtschule, direkt bei einem Unternehmen eine Ausbildung in der IT 
+zu absolvieren.
+* **Schule & Kolleg**: Hier hast du die Möglichkeit, nach Abschluss der Pflichtschule
+auf eine andere Schule zu gehen, die schwerpunktmäßig verschiedene Themen der IT behandelt.
+* **Studium**: Im Zuge eines Studiums hast du die Möglichkeit, nach Abschluss der Reifeprüfung in einer
+Zeitspanne von 3 Jahren (bzw. 5 Jahren wenn zusätzlich zum Bachelor noch ein Master gemacht wird) dich tiefgehend
+mit verschiedenen Themenfelder der Informatik auseinanderzusetzen und die
+relevante Fähigkeiten anzueignen.
+* **Kurse**: Wenn du dich für einen Kurs entscheidest, wirst du über einen Zeitraum
+von mehreren Monaten dich mit einer (oder einigen wenigen) Programmiersprachen auseinandersetzen und
+diese lernen zu verwenden.
 
-% TODO: Bitte Abschnitt mit Reflexionsfragen einfügen
-%       Fragen die mir helfen mich zu orientieren.
-% * Worin unterscheiden sich Varianten?
-% * Will ich Tiefe (Kurs) vs Breite (Schule, Studium)
-% * Wieviel Struktur brauche ich? (Wie viel Betreuung)
-% * Wie sieht mein persönlicher Rahmen aus? (Geld, Zeit, ...)
+Im Folgenden werden die einzelnen Möglichkeiten nochmal genauer
+behandelt.
+
 
 ## Lehre
 
@@ -252,3 +261,38 @@ absolvieren?*
 * **Familienbeihilfe für Studenten**: Wenn du studierst hast du noch
   bis zum 24. Lebensjahr Anspruch auf Familienbeihilife (
   siehe [hier](https://www.studieren.at/studienfinanzierung/familienbeihilfe/)).
+
+## Vergleich
+
+Trotz der Informationen oben ist es vielleicht trotzdem nicht ganz leicht,
+die richtige Entscheidung zu treffen. Deswegen sind hier nochmal
+ein paar Punkte, bei denen sich die meisten Bildungswege unterscheiden und
+anhand derer die Entscheidungsfindung vielleicht etwas leichter fällt:
+
+### Inhalte
+
+Dadurch, dass sich die verschiedenen Möglichkeiten 
+in Dauer und Aufbau unterscheiden, gibt es auch Unterschiede, was die behandelten Inhalte betrifft:
+* **Lehre**: Da du die Lehre in einem Unternehmen absolvierst, bedeutet das auch, auch, dass du hauptsächlich Technologien lernen wirst, die in diesem Unternehmen selbst verwendet werden. Dadurch wirst du zu einer Expertin in diesem einen Bereich der IT, wirst aber dafür nicht so viel über andere Bereiche der IT lernen.
+* **Schule**: In einer Schule ist das ganze schon ein bisschen anders, hier werden allgemeinere Konzepte gelehrt, die nicht unbedingt für ein spezifisches Unternehmen relevant sind. Allerdings gibt es auch bei der HTL sehr spezifische Abstufungen (z.B. Netzwerktechnik, Softwareentwickler, Game Developer, etc.)
+* **Studium**: Auch wenn sich Universitäten und Fachhochschulen dahingehen ähneln, dass man in beiden Fällen für 3 (oder 5) Jahre komplett in die Informatik vertiefen kann, gibt es inhaltlich doch Unterschiede zwischen den beiden.
+An der Universität liegt ein großer Fokus auf der Theorie, das heißt man wird im Zuge des Studiums einige theoretische Kurse belegen müssen (z.B. über Mathematik, Logik und Algorithmen), Fachhochschulen hingegen sind meistens praktischer veranlagt und fokussieren sich auf spezifische Programmiersprachen und Technologien.
+* **Kurse**: Dadurch, dass Kurse kürzer sind, kann natürlich auch weniger Stoff behandelt werden als zum Beispiel an einer Fachhochschule. Das soll aber keineswegs heißen, dass Kurse schlechter sind, nur wird in Kursen oft der Fokus auf ein paar wenige Technologien gesetzt, und diese Technologien werden dann intensiver behandelt.
+
+Im Grunde läuft es also darauf hinaus, was man sich von seiner Ausbildung erwartet. Will man sich nur auf eine Sache konzentrieren und diese dann sehr gut lernen, zahlt sich eine Lehre oder ein Kurs wahrscheinlich am meisten aus. Ist man eher an einer praxisorientierten "allgemeinen" Ausbildung interessiert, ist man eventuell mit einer Schule oder einer Fachhochschule am besten bedient. Will man hingegen sich sehr viel theoretisches Wissen aneignen und die Grundkonzepte der Informatik verstehen, ist ein Studium wahrscheinlich am passendsten.
+
+### Struktur
+Die verschiedenen Bildungswege unterscheiden sich auch darin, wie der Stoff vermittelt wird und welche Erwartungen es an die Auszubildenden gibt.
+
+* **Lehre**: Bei einer Lehre wird dir der Lehrplan vorgegeben und du bekommst auch viel persönliche Unterstützung von deinem Ausbildner.
+* **Schule**, **Fachhochschule** und **Kurse**: In diesem Fall läuft es oft ähnlich wie in einer normalen Schule ab, d.h. man ist oft in einem Klassenraum mit anderen SchülerInnen, bekommt regelmäßig Hausaufgaben, die man machen muss, und die Anwesenheit wird kontrolliert. In Fachhochschulen und HTLs wird auch genau vorgegeben, welche bzw. wie viele Fächer man jedes Semester machen muss.
+* **Universität**: Die genauen Vorgaben der Universität hängen natürlich von der Universität und dem Studiengang ab, aber in den meisten Fällen gibt es bei der Univesität viel weniger Vorgaben und man hat mehr Flexibilität. So kann man sich zum Beispiel selber aussuchen, wieviele Lehrveranstaltungen man pro Semester machen will, und in vielen Fällen gibt es auch garkeine Hausaufgaben, sondern es gibt nur wöchentliche Vorlesungen die man optional besuchen kann. Es ist egal, ob du sie besuchst oder nicht, das einzige was zählt ist, dass du bei der Prüfung den behandelten Stoff beherrschst. Das bedeutet aber auch, dass man beim Studium viel Selbstdisziplin benötigt und in der Lage sein muss, sich die Zeit selber gut einzuteilen.
+
+Magst du es also lieber, dass dir vorgegeben wird was du lernen musst und in welchen Rhythmus, dann sind wahrscheinlich die ersten zwei Optionen passender für dich. Bist du hingegen eher jemand, der sich die Zeit lieber selber einteilen will und besser im Selbststudium als im Frontalunterricht lernt, dann könnte die Universität die bessere Entscheidung sein.
+
+% TODO: Bitte Abschnitt mit Reflexionsfragen einfügen
+%       Fragen die mir helfen mich zu orientieren.
+% * Worin unterscheiden sich Varianten?
+% * Will ich Tiefe (Kurs) vs Breite (Schule, Studium)
+% * Wieviel Struktur brauche ich? (Wie viel Betreuung)
+% * Wie sieht mein persönlicher Rahmen aus? (Geld, Zeit, ...)
