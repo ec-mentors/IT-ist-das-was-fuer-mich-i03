@@ -144,20 +144,32 @@ durch das AMS möglich.
 
 ### Beispiele
 
-* [Informatik](https://www.spengergasse.at/?page_id=2114), [Medizininformatik](https://www.spengergasse.at/?page_id=2112) (HTL Spengergasse)
-* [Informatik (Abendschule)](https://www.htlwienwest.at/abendschule-informatik/#) (HTL Wien West)
-* [Elektronik und Technische Informatik](https://www.htlwien10.at/edu/index.php/elektronik/) (HTL Ettenreichgasse)
-* Und noch viele andere HTLs...
+* [HTL Spengergasse]
+  * [Informatik (Tagesform)](https://www.spengergasse.at/?page_id=2155)
+  * [Medizininformatik](https://www.spengergasse.at/?page_id=2112)
+* [HTL Wien West (Ottakring)]
+  * [Informatik (Abendschule)](https://www.htlwienwest.at/abendschule-informatik/#)
+* [HTL Wien 10 (Ettenreichgasse)](https://www.htlwien10.at/)
+  * [Elektronik und Technische Informatik](https://www.htlwien10.at/edu/index.php/elektronik/)
+* [TGM](http://bwi.tgm.ac.at/)
+  * [Mechatronik (Abendschule)](https://www.tgm.ac.at/?page_id=6466)
+* Und noch viele andere Einrichtungen und HTLs...
 
-Was auch wichtig zu erwähnen ist, ist, dass viele HTLs für ihre Kurse sowohl Tagesformen als auch Abendformen anbieten.
-Das heißt, wenn man die Abendform nimmt, dann ist es auch möglich, tagsüber zu arbeiten und
-dann am Abend die Kurse zu machen.
+Wichtig zu erwähnen:
+* Lehrgänge werden oft in Tages- oder Abendform angeboten.
+  Das heißt, wenn man die Abendform nimmt, dann ist es auch möglich, tagsüber zu arbeiten und dann am Abend den Lehrgang zu machen.
+* Es gibt oft unterschiedliche Einstiegsvarianten, je nachdem
+  welchen Schul- oder Berufsabschluss man mitbringt.
+  Das heißt es gibt Angebote für Pflichtschulabschluss,
+  Fachschulabschluss, Reifeprüfung, etc.
+
 
 ### Voraussetzungen
 
-Die Vorraussetzungen sind ein bisschen komplizierter, da es je nach Vorausbildung (Pflichtschulabschluss, Matura)
-und der gewollten Ausbildung verschiedene Möglichkeiten gibt. Wenn du dich für eine konkrete Schule interessierst,
-solltest du dich davor nochmal genau informieren, welche Voraussetzungen es dort gibt.
+Die konkreten Voraussetzungen unterscheiden sich dann von Lehrgang zu Lehrgang, sie umfassen typischerweise:
+* Letzter Schul- bzw. Berufsabschluss
+* Alter
+* Deutschkenntnisse
 
 Grundsätzlich kann man aber sagen:
 
@@ -170,6 +182,10 @@ Grundsätzlich kann man aber sagen:
 * Reifeprüfung, Berufsreifeprüfung oder facheinschlägige Studienberechtigungsprüfung
 
 ### Dauer
+
+Auch die Dauer hängt sehr vom konkreten Lehrgang und einen
+Vorkenntnissen ab.
+Lehrgänge dauern typischerweise zwischen 2 und 4 Jahren.
 
 #### Normale HTL
 * 5 Jahre
