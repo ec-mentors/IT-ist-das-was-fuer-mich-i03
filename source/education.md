@@ -66,8 +66,9 @@ Links:
 
 ### Voraussetzungen
 
+% TBD: Gilt für alle, was machen wir damit?
+
 * **Pflichtschulabschluss**
-* Du hast Spaß am Umgang mit PCs, Software und Apps.
 * Du bist kommunikativ, arbeitest gerne im Team und liebst neue
   Herausforderungen.
 * Du arbeitest gerne selbstständig und eigenverantwortlich.
@@ -94,7 +95,7 @@ mindestens:
 
 ### Beispiele
 
-Wenn du dich zu einem konkreten Thema oder in einer konkreten Programmiersprache 
+Wenn du dich zu einem konkreten Thema oder in einer konkreten Programmiersprache
 weiterbilden möchtest, gibt es verschiedene Kursangebote,
 die möglicherweise für dich in Frage kommen.
 Es gibt wirklich sehr viele Angebote, das hier sind also nur ein paar Beispiele.
@@ -121,13 +122,12 @@ auch viele Webseiten wo Online-Kurse zu bestimmten Themen angeboten werden, zum 
 Die Voraussetzungen sind von Kurs zu Kurs verschieden, mögliche Voraussetzungen könnten
 sein:
 
-* Matura, Berufsreifeprüfung, abgeschlossene Lehre.
-* Beim AMS Wien arbeitslos oder arbeitsuchend gemeldet.
-* Mindestalter: 20 Jahre.
-* Hauptwohnsitz Wien.
-* Sehr gute EDV-Kenntnisse.
-* Gute Deutschkenntnisse (Niveau C1).
-* Gute Englischkenntnisse (Niveau B2).
+* Bestimmter Bildungsabschluss
+* Mindestalter
+* Meldung beim AMS und Hauptwohnsitz in Wien
+* Sehr gute EDV-Kenntnisse
+* Gute Deutschkenntnisse (Niveau C1)
+* Gute Englischkenntnisse (Niveau B2)
 
 ### Dauer
 
@@ -149,7 +149,7 @@ durch das AMS möglich.
 * [Elektronik und Technische Informatik](https://www.htlwien10.at/edu/index.php/elektronik/) (HTL Ettenreichgasse)
 * Und noch viele andere HTLs...
 
-Was auch wichtig zu erwähnen ist, ist, dass viele HTLs für ihre Kurse sowohl Tagesformen als auch Abendformen anbieten. 
+Was auch wichtig zu erwähnen ist, ist, dass viele HTLs für ihre Kurse sowohl Tagesformen als auch Abendformen anbieten.
 Das heißt, wenn man die Abendform nimmt, dann ist es auch möglich, tagsüber zu arbeiten und
 dann am Abend die Kurse zu machen.
 
@@ -255,7 +255,7 @@ anhand derer die Entscheidungsfindung eventuell etwas leichter fällt:
 
 ### Inhalte
 
-Dadurch, dass sich die verschiedenen Bildungswege 
+Dadurch, dass sich die verschiedenen Bildungswege
 in Dauer und Aufbau unterscheiden, gibt es auch Unterschiede, was die behandelten Inhalte betrifft:
 * **Lehre**: Da du die Lehre in einem Unternehmen absolvierst, bedeutet das auch, dass du zum Großteil Technologien lernen wirst, die in diesem Unternehmen selbst verwendet werden. Dadurch wirst du zu einem/r Expert/in in diesem einen spezifischen Bereich der IT, wirst aber dafür nicht so viel über andere Bereiche der IT lernen.
 * **Schule**: In einer Schule ist das ganze schon ein bisschen anders, hier werden allgemeinere Konzepte gelehrt, die nicht unbedingt für ein spezifisches Unternehmen relevant sind (aber trotzdem praxisrelevant sind). Allerdings gibt es auch bei der HTL sehr spezifische Abstufungen (z.B. Netzwerktechnik, Softwareentwickler, Game Developer, etc.)
@@ -275,13 +275,13 @@ Die verschiedenen Bildungswege unterscheiden sich auch darin, wie der Stoff verm
 Magst du es also lieber, dass dir vorgegeben wird, was du lernen musst und in welchen Rhythmus, dann sind wahrscheinlich die ersten zwei Optionen passender für dich. Bist du hingegen eher jemand, der sich die Zeit lieber selber einteilen will und besser im Selbststudium als im Frontalunterricht lernt, dann könnte die Universität die bessere Entscheidung sein.
 
 ### Persönliche Faktoren
-Schließlich sollte man bei der Entscheidung auch einige persönliche Faktoren, insbesondere hinsichtlich Zeit und Geld. 
+Schließlich sollte man bei der Entscheidung auch einige persönliche Faktoren, insbesondere hinsichtlich Zeit und Geld.
 
 #### Finanzieller Aspekt
 * **Lehre**: Was den finanziellen Aspekt anbelangt hat man bei der **Lehre** den Vorteil,
-dass man direkt ab Beginn der Lehre ein Gehalt bekommt 
-(auch wenn dieses anfangs relativ niedrig ist). 
-* **Schule**, **Studium**: Bei einer HTL ist man zum Großteil noch von seien 
+dass man direkt ab Beginn der Lehre ein Gehalt bekommt
+(auch wenn dieses anfangs relativ niedrig ist).
+* **Schule**, **Studium**: Bei einer HTL ist man zum Großteil noch von seien
 Eltern abhängig, und bei Studium gibt es zwar mehrere Möglichkeiten
 für Stipendien für finanziell benachteilgte Studenten, aber oft reichen die auch
 nicht komplett aus, um sich das komplette Studium zu finanzieren, also
@@ -303,7 +303,7 @@ was einerseits bedeutet, dass man weniger in die Breite sondern eher mehr in die
 lernt, aber andererseits auch bedeutet, dass man nach einigen Monaten bereits mit der Jobsuche beginnen kann.
 Lehren an sich dauern zwar auch mehrere Jahre, aber dafür kann man von Tag 1 an direkt arbeiten und Geld verdienen.
 * **Studium**, **Schule**: Auf Schulen und im Studium ist das nicht so, da man bei denen man
-erst eine mehrjährige Ausbildung absolvieren muss, bevor man wirklich auf den Arbeitsmarkt kommt. Dadurch sind Ausbildungen bei 
+erst eine mehrjährige Ausbildung absolvieren muss, bevor man wirklich auf den Arbeitsmarkt kommt. Dadurch sind Ausbildungen bei
 diesen Institutionen zeitlich ein größeres Investment, das sich aber in langer Hinsicht auch bezahlt machen kann wenn man länger
 in dem Bereich arbeitet.
 
@@ -327,7 +327,7 @@ zu investieren, um mir somit ein breiteres Wissen anzueignen?
 ## Zusammenfassung
 
 Wie man also bereits sehen kann gibt es bei den verschiedenen Auswahlmöglichkeiten keine
-objektiv besseren und schlechteren, es gibt nur verschiedene Trade-Offs, die sich für den einen 
+objektiv besseren und schlechteren, es gibt nur verschiedene Trade-Offs, die sich für den einen
 eventuell mehr auszahlen als für den anderen. Es kann bei der Entscheidungsfindung auch helfen, sich
 an andere Leute (Freunde, Familie, etc.) zu wenden, die einen der oben genannten Wege bereits eingeschlagen haben
 und sie nach ihren Erfahrungen zu fragen.
