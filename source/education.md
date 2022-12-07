@@ -19,17 +19,13 @@ Wenn irgendetwas unklar ist oder du Fragen hast, melde dich!
 Im Grunde kann man zwischen den folgenden Bildungswegen unterscheiden.
 
 * **Lehre**: Bei der Lehre hast du die Möglichkeit, nach Abschluss
-der Pflichtschule direkt bei einem Unternehmen eine Ausbildung in der IT 
-zu absolvieren.
+der Pflichtschule direkt bei einem Unternehmen oder im Rahmen einer
+überbetrieblichen Lehre eine Ausbildung in der IT zu absolvieren.
 * **Schule**: Hier hast du die Möglichkeit, nach Abschluss der Pflichtschule (bzw. auch Matura)
 auf eine andere Schule zu gehen, die schwerpunktmäßig verschiedene Themen der IT behandelt.
-* **Studium**: Im Zuge eines Studiums hast du die Möglichkeit, nach Abschluss der Reifeprüfung in einer
-Zeitspanne von 3 Jahren (bzw. 5 Jahren wenn zusätzlich zum Bachelor noch ein Master gemacht wird) dich tiefgehend
-mit verschiedenen Themenfelder der Informatik auseinanderzusetzen und dir die
-relevante Fähigkeiten anzueignen. Nach dem Master steht dir auch offen, einen PhD zu machen, sofern du dich für Forschung in
-dem Bereich interessierst.
-* **Kurse**: Wenn du dich für einen Kurs entscheidest, wirst du dich über einen Zeitraum
-von mehreren Monaten mit einer (oder einigen wenigen) Programmiersprachen auseinandersetzen und lernen diese zu verwenden.
+* **Studium**: Im Zuge eines Studiums hast du die Möglichkeit, nach Abschluss der Reifeprüfung (bspw. Matura), dich tiefgehend
+mit verschiedenen Themenfelder der Informatik auseinanderzusetzen.
+* **Kurse**: Wenn du dich für einen Kurs entscheidest, wirst du dich zu einem ganz konkreten Thema weiterbilden.
 
 Im Folgenden werden die einzelnen Möglichkeiten nochmal genauer
 behandelt.
