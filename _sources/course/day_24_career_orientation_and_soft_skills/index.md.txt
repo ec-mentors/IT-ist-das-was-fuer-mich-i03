@@ -1,4 +1,4 @@
-# Tag 24 - 32: Nächste Schritte
+# Tag 24 - 32: Berufsorientierung & Soft Skills
 
 ## Self-Pitch
 
