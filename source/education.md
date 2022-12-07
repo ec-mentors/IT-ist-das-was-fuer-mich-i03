@@ -1,16 +1,18 @@
 # Bildungswege
 
-Du bist dir sicher, dass du den Weg in die IT einschlagen willst, weißt aber nicht,
-was für Möglichkeiten es gibt und inwiefern sich diese voneinander unterscheiden? 
-Dann solltest du auf dieser Seite weiterlesen. Wir werden hier verschiedene Bildungswege angeben und zu jedem
-auch ein paar Beispiele für konkrete Organisation/Institutionen angegeben, die für diesen Bildungsweg relevant sind. 
+Du möchtest den Weg in die IT einschlagen willst, weißt aber nicht,
+was für Möglichkeiten es gibt und inwiefern sich diese voneinander unterscheiden?
 
-Bedenke aber, dass das Ziel dieser Seite lediglich ist, einen groben Überblick 
-über die verschiedenen Möglichkeiten zu schaffen. Die angegebenen Informationen sind keineswegs
-vollständig und nur exemplarisch. Sie sollen möglichst dabei helfen, eine Entscheidung zu treffen,
-indem die wichtigsten Aspekte zusammengefasst werden, aber
-letzten Endes musst du die Entscheidung trotzdem basierend auf deiner persönlichen Situation
-und Präferenzen für dich selber treffen.
+Dann solltest du auf dieser Seite weiterlesen. Wir werden hier verschiedene Bildungswege angeben und zu jedem
+auch ein paar Beispiele für konkrete Organisation/Institutionen angegeben, die für diesen Bildungsweg relevant sind.
+
+Wir geben hier einen groben Überblick
+über die verschiedenen Möglichkeiten. Die angegebenen Informationen sind beispielhaft und nicht vollständig. Sie sollen möglichst dabei helfen, eine Entscheidung zu treffen,
+indem die wichtigsten Themen zusammengefasst werden.
+
+Was am besten zu dir passt ist deine ganz persönliche Entscheidung.
+
+Wenn irgendetwas unklar ist oder du Fragen hast, melde dich!
 
 ## Überblick
 
