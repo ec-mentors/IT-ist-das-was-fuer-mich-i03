@@ -5,13 +5,30 @@ myst:
 ---
 # Tag 24 - 32: Berufsorientierung & Soft Skills
 
-## Self-Pitch
+## Tag 28: Get Started IT & Gesprächsführung
 
-Wir hatten heute Gäste von “Get Startet IT” zu Besuch.
+Wir hatten Eva Wiedrich (Betriebskontakterin) und Makrina Timborn (Betriebskontakterin) von “Get Started IT” zu Besuch.
+
+Anbei findest du das Produktblatt von “Get Started IT” sowie die Präsentation über Get Started IT und ihr Unterstützungsangebot zum Nachlesen.
+
+{download}`Produktblatt Get Started IT <./slides_produktblatt.pdf>`
+
+{download}`Folien vom 12.12.2022 von Get Started IT über sich, IT-Berufe und IT-Kurzausbildungen <./slides_get_started_it.pdf>`
+
+{download}`Infoblatt über die Überbetriebliche Lehrausbildung <./picture_infoblatt.png>`
+
+Die TAS-Nr. für “Get Started IT” lautet: 725 223 
+
+
+### Self-Pitch
 
 Im Anschluss beschäftigen wir uns mit dem Thema Self-Pitch und wie man sich selbst in Situationen wie der Lehrstellen-, Ausbildungs-, oder Jobsuche vorstellen kann. Vor allem, wenn man eigentlich nervös ist und nicht genau weiß, was man denn sagen soll.
 
-Siehe dir als Hilfestellung nochmal die {download}`Folien <./slides_pitches.pdf>` an.
+Siehe dir als Hilfestellung nochmal die Folien an:
+
+{download}`Folien “Self-Pitch” <./slides_pitches.pdf>`
+
+Schreibe nun deinen ersten eigenen Pitch.
 
 ```{exercise} Dein erster Pitch
 :label: exercise-pitch-1
@@ -30,13 +47,7 @@ Schreibe deinen ersten Pitch indem du folgendes machst:
 % supply link to feedback form in through the preamble's feedback_link variable
 {{ ask_for_feedback }}
 
-## Feedback zum gesamten Kurs 🐜
-
-Bitte nimm dir ein paar Minuten Zeit um deinen Gesamteindruck vom Kurs
-mit uns zu teilen.
-Wir haben dazu eine letzte [Feedbackumfrage](https://forms.gle/ckwstU1zy33MaX8e6) erstellt. Danke dir!
-
-## Self-Pitch Feedback
+## Tag 29: Feedback zu Self-Pitch & Gesprächsführung
 
 Heute habt ihr zum ersten Mal eigene Pitches vorgetragen und dafür Feedback bekommen.
 Im Anschluss wurden noch Tipps zur Gesprächsführung geteilt.
@@ -54,3 +65,9 @@ Anbei findet ihr die {download}`Folien zu den Tipps zur Gesprächsführung <./sl
 
 Sofern noch nicht passiert, gestalte einen Lebenslauf und schicke ihn bis **14.12.2022, 9:00** Uhr per E-Mail an it-orientation@everyonecodes.io
 ```
+
+## Feedback zum gesamten Kurs 🐜
+
+Bitte nimm dir ein paar Minuten Zeit um deinen Gesamteindruck vom Kurs
+mit uns zu teilen.
+Wir haben dazu eine letzte [Feedbackumfrage](https://forms.gle/ckwstU1zy33MaX8e6) erstellt. Danke dir!
