@@ -6,7 +6,7 @@ Wir hatten heute Gäste von “Get Startet IT” zu Besuch.
 
 Im Anschluss beschäftigen wir uns mit dem Thema Self-Pitch und wie man sich selbst in Situationen wie der Lehrstellen-, Ausbildungs-, oder Jobsuche vorstellen kann. Vor allem, wenn man eigentlich nervös ist und nicht genau weiß, was man denn sagen soll.
 
-Siehe dir als Hilfestellung nochmal die {download}`Folien <./slides.pdf>` an.
+Siehe dir als Hilfestellung nochmal die {download}`Folien <./slides_pitches.pdf>` an.
 
 ```{exercise} Dein erster Pitch
 :label: exercise-pitch-1
@@ -20,4 +20,21 @@ Schreibe deinen ersten Pitch indem du folgendes machst:
 - Mache dich bereit, den Pitch morgen vor deinen KollegInnen vorzutragen.
 ```
 
+## Self-Pitch Feedback
 
+Heute habt ihr zum ersten Mal eigene Pitches vorgetragen und dafür Feedback bekommen.
+Im Anschluss wurden noch Tipps zur Gesprächsführung geteilt.
+
+Anbei findet ihr die {download}`Folien zu den Tipps zur Gesprächsführung <./slides_gespraechsfuehrung.pdf>` zum Nachlesen.
+
+```{exercise} Überarbeitung des Pitches
+:label: exercise-pitch-2
+
+Überarbeite nochmals deinen Pitch. Beachte dabei das Feedback, dass du erhalten hast.
+```
+
+```{exercise} Erstellung eines Lebenslaufs
+:label: exercise-cv
+
+Sofern noch nicht passiert, gestalte einen Lebenslauf und schicke ihn bis **14.12.2022, 9:00** Uhr per E-Mail an it-orientation@everyonecodes.io
+```
