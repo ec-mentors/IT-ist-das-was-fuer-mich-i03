@@ -17,7 +17,7 @@ Anbei findest du das Produktblatt von “Get Started IT” sowie die Präsentati
 
 {download}`Infoblatt über die Überbetriebliche Lehrausbildung <./picture_infoblatt.png>`
 
-Die TAS-Nr. für “Get Started IT” lautet: 725 223 
+Die TAS-Nr. für “Get Started IT” lautet: 725 223
 
 
 ### Self-Pitch
@@ -42,10 +42,6 @@ Schreibe deinen ersten Pitch indem du folgendes machst:
 - Mache dich bereit, den Pitch morgen vor deinen KollegInnen vorzutragen.
 ```
 
-### Feedback Woche 7 🐜
-
-% supply link to feedback form in through the preamble's feedback_link variable
-{{ ask_for_feedback }}
 
 ## Tag 29: Feedback zu Self-Pitch & Gesprächsführung
 
@@ -66,8 +62,28 @@ Anbei findet ihr die {download}`Folien zu den Tipps zur Gesprächsführung <./sl
 Sofern noch nicht passiert, gestalte einen Lebenslauf und schicke ihn bis **14.12.2022, 9:00** Uhr per E-Mail an it-orientation@everyonecodes.io
 ```
 
-## Feedback zum gesamten Kurs 🐜
+### Feedback Woche 7 🐜
+
+% supply link to feedback form in through the preamble's feedback_link variable
+{{ ask_for_feedback }}
+
+
+## Rund um den Kursabschluss
+
+### Feedback zum gesamten Kurs 🐜
 
 Bitte nimm dir ein paar Minuten Zeit um deinen Gesamteindruck vom Kurs
 mit uns zu teilen.
 Wir haben dazu eine letzte [Feedbackumfrage](https://forms.gle/ckwstU1zy33MaX8e6) erstellt. Danke dir!
+
+### Webseite und Weiterlernen
+
+Die Webseite wird noch zwei Wochen online bleiben.
+
+Wenn es Seiten gibt, die ihr speichern wollt, ladet diese bitte
+als PDF oder Markdown herunter (siehe Download-Button rechts oben).
+
+Ein paar Ressourcen zum eigenständigen Lernen haben wir
+unter {ref}`Selber Lernen <learning_target>` gesammelt.
+
+**Traut euch! 🌟**
